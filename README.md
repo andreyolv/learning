@@ -524,7 +524,7 @@
 **[⬆ Back to top](#learning-data-science)**
 
 ## Projects Examples
-[500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+[500 + Artificial Intelligence Project List with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
 [242 Machine Learning Projects](https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/)
 
@@ -534,7 +534,9 @@
 
 ## Podcasts
 [Data Hackers](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82ZDFlZTM0L3BvZGNhc3QvcnNz?sa=X&ved=0CA4Q9sEGahcKEwjI3oaLrb7zAhUAAAAAHQAAAAAQAQ)
+
 [Mario Filho](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMWJkZjYzMC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAwQ9sEGahcKEwjI3oaLrb7zAhUAAAAAHQAAAAAQAQ)
+
 [Engenharia de Dados [Cast]](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNjQyNzExLnJzcw?sa=X&ved=0CAsQ9sEGahcKEwjI3oaLrb7zAhUAAAAAHQAAAAAQAQ)
 
 **[⬆ Back to top](#learning-data-science)**
