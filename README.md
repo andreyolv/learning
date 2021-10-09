@@ -327,16 +327,16 @@
 [Laboratório HiPES]
 
 ### Quantitative Trading
-[Outspoken Market](https://www.youtube.com/channel/UCRN2uKmqOkShT6v0nVnmcGw)
-[Código Quant - Finanças Quantitativas](https://www.youtube.com/channel/UCzCrdOO2GLYVnNhZUvG03lg)
-[Trading com Dados](https://www.youtube.com/channel/UCm09WHp3LHA5Wlf2lH-Oisg)
+[[Outspoken Market]](https://www.youtube.com/channel/UCRN2uKmqOkShT6v0nVnmcGw)
+[[Código Quant - Finanças Quantitativas]](https://www.youtube.com/channel/UCzCrdOO2GLYVnNhZUvG03lg)
+[[Trading com Dados]](https://www.youtube.com/channel/UCm09WHp3LHA5Wlf2lH-Oisg)
 
 ### Several Tutorials
-[edureka!](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
-[Geek's Lesson](https://www.youtube.com/channel/UCKXx22vOENUyHrVAADq7Z_g)
-[Intellipaat](https://www.youtube.com/channel/UCCktnahuRFYIBtNnKT5IYyg)
-[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-[Simplilearn](https://www.youtube.com/c/SimplilearnOfficial/featured)
+[[edureka!]](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
+[[Geek's Lesson]](https://www.youtube.com/channel/UCKXx22vOENUyHrVAADq7Z_g)
+[[Intellipaat]](https://www.youtube.com/channel/UCCktnahuRFYIBtNnKT5IYyg)
+[[freeCodeCamp.org]](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+[[Simplilearn]](https://www.youtube.com/c/SimplilearnOfficial/featured)
 
 
 **[⬆ Back to top](#learning-data-science)**
