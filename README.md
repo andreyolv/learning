@@ -1,5 +1,7 @@
 # Learning Data Science
 
+All study materials used by me to learn data science divided by topics
+
 * [MOOCs](#moocs)
 * [Youtube Channels](#youtube-channels)
 * [Libraries](#libraries)
