@@ -335,7 +335,146 @@
 **[⬆ Back to top](#learning-data-science)**
 
 ## Libraries
+### Python
+[[Python 3]](https://docs.python.org/3/library/index.html)
+[[re]](https://docs.python.org/3/library/re.html)
+[[datetime]](https://docs.python.org/3/library/datetime.html)
+[[collections]](https://docs.python.org/3/library/collections.html)
+[[random]](https://docs.python.org/3/library/random.html)
+[[os.path]](https://docs.python.org/3/library/os.path.html)
+[[json]](https://docs.python.org/3/library/json.html)
+[[sys]](https://docs.python.org/3/library/sys.html)
 
+### DataFrames
+[[NumPy]](https://numpy.org/doc/stable/reference/index.html)
+[[pandas]](https://pandas.pydata.org/docs/user_guide/index.html)
+[[pandas-profiling]](https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/pages/examples.html)
+[[missingno]](https://github.com/ResidentMario/missingno)
+[[Category Encoders]](https://contrib.scikit-learn.org/category_encoders/)
+[[pandas-datareader]](https://pydata.github.io/pandas-datareader/remote_data.html)
+[[klib]](https://klib.readthedocs.io/en/latest/)
+
+### Machine Learning
+[[scikit-learn]](https://scikit-learn.org/stable/user_guide.html)
+[[mlxtend]](https://rasbt.github.io/mlxtend/USER_GUIDE_INDEX/)
+[[LightGBM]](https://lightgbm.readthedocs.io/en/latest/Python-API.html)
+[[XGBoost]](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
+[[CatBoost]](https://catboost.ai/en/docs/concepts/python-quickstart)
+[[baikal]](https://baikal.readthedocs.io/en/stable/index.html)
+
+### Visualization
+[[]](https://matplotlib.org/stable/gallery/index.html)
+[[]](https://seaborn.pydata.org/api.html)
+[[]](https://plotly.com/python/)
+[[]](https://ipywidgets.readthedocs.io/en/latest/index.html)
+[[]](https://graphviz.readthedocs.io/en/stable/index.html)
+[[]](https://github.com/santosjorge/cufflinks)
+[[]](https://scikit-plot.readthedocs.io/en/stable/Quickstart.html)
+[[]](https://www.scikit-yb.org/en/latest/quickstart.html)
+[[]](https://altair-viz.github.io/gallery/index.html)
+
+### Statistics
+[[]](https://www.statsmodels.org/devel/examples/index.html)
+
+### AutoML
+[[]](https://lazypredict.readthedocs.io/en/latest/readme.html)
+[[]](https://lightautoml.readthedocs.io/en/latest/index.html)
+[[]](https://pycaret.readthedocs.io/en/latest/tutorials.html)
+[[]](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/index.html)
+
+### WebScraping
+[[]](https://scrapy.org/)
+[[]](https://docs.python-requests.org/en/master/)
+[[]](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[[]](https://selenium-python.readthedocs.io/)
+[[]](https://camelot-py.readthedocs.io/en/master/index.html)
+
+### Deep Learning
+[[]](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+[[]](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+[[]](https://keras.io/api/)
+
+### Natural Language Processing
+[[]](https://www.nltk.org/api/nltk.html)
+[[]](https://huggingface.co/transformers/index.html)
+[[]](https://github.com/jaidevd/numerizer)
+[[]](https://github.com/alvations/sacremoses)
+[[]](https://py-googletrans.readthedocs.io/en/latest/)
+[[]](https://maartengr.github.io/BERTopic/tutorial/quickstart/quickstart.html)
+[[]](https://textblob.readthedocs.io/en/dev/quickstart.html)
+
+### Computer Vision
+[[]](https://pillow.readthedocs.io/en/stable/reference/index.html)
+[[]](https://scikit-image.org/docs/stable/auto_examples/index.html)
+[[]](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html)
+[[]](https://albumentations.ai/docs/)
+[[]](https://pydicom.github.io/pydicom/dev/old/pydicom_user_guide.html)
+[[]](https://google.github.io/mediapipe/getting_started/python)
+[[]](https://github.com/cvzone/cvzone)
+[[]](https://www.cvlib.net/)
+
+### SQL
+[[]](https://www.sqlalchemy.org/)
+[[]](https://pymongo.readthedocs.io/en/stable/)
+[[]](https://www.sqlite.org/index.html)
+
+### Map
+[[]](http://python-visualization.github.io/folium/quickstart.html)
+[[]](https://geopandas.org/docs/user_guide.html)
+[[]](https://pydeck.gl/)
+[[]](https://pypi.org/project/haversine/)
+
+### Deploy
+[[]](https://joblib.readthedocs.io/en/latest/)
+[[]](https://streamlit.io/gallery)
+[[]](https://flask.palletsprojects.com/en/2.0.x/)
+
+### Finance
+[[]](https://docs.quandl.com/docs/python)
+[[]](https://www.mql5.com/pt/docs/integration/python_metatrader5/mt5initialize_py)
+[[]](https://github.com/matplotlib/mplfinance)
+[[]](https://www.backtrader.com/docu/quickstart/quickstart/)
+[[]](https://investpy.readthedocs.io/_info/usage.html)
+
+### Telegram
+[[]](https://pypi.org/project/pyTelegramBotAPI/)
+[[]](https://telepot.readthedocs.io/en/latest/reference.html)
+
+### Parallel Processing
+[[]](https://github.com/classner/pymp)
+
+### Google Earth
+[[]](https://simplekml.readthedocs.io/en/latest/gettingstarted.html#creating-a-kml-document)
+[[]](https://earthpy.readthedocs.io/en/latest/gallery_vignettes/index.html)
+[[]](https://rasterio.readthedocs.io/en/latest/quickstart.html#)
+
+### Astronomy
+[[]](https://docs.astropy.org/en/stable/)
+[[]](https://pymeeus.readthedocs.io/en/latest/)
+
+### Datas
+[[]](https://pypi.org/project/holidays/)
+
+### Interface Computer
+[[]](https://pyperclip.readthedocs.io/en/latest/)
+
+### Logs
+[[]](https://tqdm.github.io/docs/tqdm/)
+[[]](https://github.com/borntyping/python-colorlog)
+
+### Command Line Interface
+[[]](https://cmd2.readthedocs.io/en/latest/index.html)
+[[]](https://github.com/tartley/colorama)
+
+### JSON
+[[]](https://github.com/softvar/json2html)
+
+### Time Series
+[[]](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+[[]](https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html)
+
+### Extensions
+[[]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
 
 **[⬆ Back to top](#learning-data-science)**
 
@@ -382,6 +521,10 @@
 **[⬆ Back to top](#learning-data-science)**
 
 ## Projects Examples
+[500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
+[242 Machine Learning Projects](https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/)
+
+[LearnOpenCV](https://github.com/spmallick/learnopencv)
 
 **[⬆ Back to top](#learning-data-science)**
