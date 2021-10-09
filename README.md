@@ -21,7 +21,7 @@
 
 [General Systems Theory and the Decision Making Process, IME (Military Engineering Institute), Prof. Marcos dos Santos](https://www.youtube.com/playlist?list=PLjdDBZW3EmXcbet9jxNFkj7-9zcrDHIuD)
 
-### Mathematics
+### Computer Science
 [Computer Architecture I, UFBA (Federal University of Bahia), Prof. Ewerton Salvador](https://www.youtube.com/playlist?list=PLI1MB8Tq01IOh4F8vV6mZcuEtQnNfs3xF)
 
 [Computer Architecture II, UFBA (Federal University of Bahia), Prof. Alisson Brito](https://www.youtube.com/playlist?list=PLI1MB8Tq01IPPN7Ib6opZMhchmOXAPMZl)
@@ -134,11 +134,17 @@
 
 ### Other University Courses
 [Intro to Machine Learning, University of Wisconsin-Madison, Prof. Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
+
 [Intro to Deep Learning and Generative Models, University of Wisconsin-Madison, Prof. Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
+
 [Deep Learning, FAU (Friedrich-Alexander-Universität Erlangen Nürnberg), Prof. Andreas Maier](https://www.youtube.com/playlist?list=PLpOGQvPCDQzvJEPFUQ3mJz72GJ95jyZTh)
+
 [Pattern Recognition, FAU (Friedrich-Alexander-Universität Erlangen Nürnberg), Prof. Andreas Maier](https://www.youtube.com/playlist?list=PLpOGQvPCDQzsWvT_bqmexrJ359RTQQuMO)
+
 [Beyond the Patterns, FAU (Friedrich-Alexander-Universität Erlangen Nürnberg), Prof. Andreas Maier](https://www.youtube.com/playlist?list=PLpOGQvPCDQzvQGkaSUGzjzg5b7J3yilm5)
+
 [Medical Engineering, FAU (Friedrich-Alexander-Universität Erlangen Nürnberg), Prof. Andreas Maier](https://www.youtube.com/playlist?list=PLpOGQvPCDQzsgK1XuhUXO8r9M4WRqhvDf)
+
 [Deep Learning for Computer Vision, University of Michigan, Prof. Justin Johnson](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 ### Coursera Programs
@@ -206,44 +212,71 @@
 
 
 ## Youtube Channels
-[Python Para Desenvolvedores](https://amzn.to/2LYL1Za)
+### Brazilian Data Science
+[Mario Filho](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
 
-[Use a cabeça! Programação](https://amzn.to/3as04Eg)
+[Seja Um Data Scientist]
+
+[Stack]()
 
 **[⬆ Back to top](#learning-data-science)**
 
 
 
 ## Libraries
-[Python Para Desenvolvedores](https://amzn.to/2LYL1Za)
 
-[Use a cabeça! Programação](https://amzn.to/3as04Eg)
 
 **[⬆ Back to top](#learning-data-science)**
 
 
 
 ## Awesome Githubs
-[Python Para Desenvolvedores](https://amzn.to/2LYL1Za)
+[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
-[Use a cabeça! Programação](https://amzn.to/3as04Eg)
+[Awesome Python](https://github.com/vinta/awesome-python)
+
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+[Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+[Awesome MLops](https://github.com/visenger/awesome-mlops)
+
+[Awesome Holistic 3D Reconstruction](https://github.com/holistic-3d/awesome-holistic-3d)
+
+[Awesome Time Series in Python](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+
+[Deep Learning Models](https://github.com/josephmisiti/deeplearning-models)
+
+[Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+
+[Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
+
+[Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses#quantum-computing)
+
+[Build 12 Data Apps in Python with Streamlit](https://github.com/dataprofessor/streamlit_freecodecamp)
 
 **[⬆ Back to top](#learning-data-science)**
 
 
 
 ## Awesome Kaggle Kernels
-[Python Para Desenvolvedores](https://amzn.to/2LYL1Za)
+[The Best Tutorial for Beginners](https://www.kaggle.com/getting-started/71679)
 
-[Use a cabeça! Programação](https://amzn.to/3as04Eg)
+[kanncaa1 Tutorials](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
+
+[Best Statistics Learning Kernel on Kaggle](https://www.kaggle.com/questions-and-answers/64933)
+
+[Everything you can do with a time-series](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
+
+[Pandas 75 exercises with solutions](https://www.kaggle.com/muhammetikbal/pandas-75-exercises-with-solutions)
 
 **[⬆ Back to top](#learning-data-science)**
 
 
 
 ## Projects Examples
-[Python Para Desenvolvedores](https://amzn.to/2LYL1Za)
 
-[Use a cabeça! Programação](https://amzn.to/3as04Eg)
 
 **[⬆ Back to top](#learning-data-science)**
