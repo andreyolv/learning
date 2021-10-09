@@ -6,6 +6,9 @@
 * [Awesome Githubs](#awesome-github)
 * [Awesome Kaggle Kernels](#awesome-kaggle-kernels)
 * [Projects Examples](#projects-examples)
+* [Podcasts](#podcasts)
+* [Cheatsheet Repository](#cheatsheet-repository)
+* [Books](#books)
 
 ## MOOCs
 ### Mathematics
@@ -363,118 +366,118 @@
 [[baikal]](https://baikal.readthedocs.io/en/stable/index.html)
 
 ### Visualization
-[[]](https://matplotlib.org/stable/gallery/index.html)
-[[]](https://seaborn.pydata.org/api.html)
-[[]](https://plotly.com/python/)
-[[]](https://ipywidgets.readthedocs.io/en/latest/index.html)
-[[]](https://graphviz.readthedocs.io/en/stable/index.html)
-[[]](https://github.com/santosjorge/cufflinks)
-[[]](https://scikit-plot.readthedocs.io/en/stable/Quickstart.html)
-[[]](https://www.scikit-yb.org/en/latest/quickstart.html)
-[[]](https://altair-viz.github.io/gallery/index.html)
+[[matplotlib]](https://matplotlib.org/stable/gallery/index.html)
+[[seaborn]](https://seaborn.pydata.org/api.html)
+[[plotly]](https://plotly.com/python/)
+[[ipywidgets]](https://ipywidgets.readthedocs.io/en/latest/index.html)
+[[Graphviz]](https://graphviz.readthedocs.io/en/stable/index.html)
+[[Cufflinks]](https://github.com/santosjorge/cufflinks)
+[[Scikit-plot]](https://scikit-plot.readthedocs.io/en/stable/Quickstart.html)
+[[Yellowbrick]](https://www.scikit-yb.org/en/latest/quickstart.html)
+[[Altair]](https://altair-viz.github.io/gallery/index.html)
 
 ### Statistics
-[[]](https://www.statsmodels.org/devel/examples/index.html)
+[[statsmodels]](https://www.statsmodels.org/devel/examples/index.html)
 
 ### AutoML
-[[]](https://lazypredict.readthedocs.io/en/latest/readme.html)
-[[]](https://lightautoml.readthedocs.io/en/latest/index.html)
-[[]](https://pycaret.readthedocs.io/en/latest/tutorials.html)
-[[]](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/index.html)
+[[Lazy Predict]](https://lazypredict.readthedocs.io/en/latest/readme.html)
+[[LightAutoML]](https://lightautoml.readthedocs.io/en/latest/index.html)
+[[PyCaret]](https://pycaret.readthedocs.io/en/latest/tutorials.html)
+[[H2O]](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/index.html)
 
 ### WebScraping
-[[]](https://scrapy.org/)
-[[]](https://docs.python-requests.org/en/master/)
-[[]](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[[]](https://selenium-python.readthedocs.io/)
-[[]](https://camelot-py.readthedocs.io/en/master/index.html)
+[[Scrapy]](https://scrapy.org/)
+[[Requests]](https://docs.python-requests.org/en/master/)
+[[Beautiful Soup]](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[[Selenium]](https://selenium-python.readthedocs.io/)
+[[Camelot]](https://camelot-py.readthedocs.io/en/master/index.html)
 
 ### Deep Learning
-[[]](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
-[[]](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
-[[]](https://keras.io/api/)
+[[TensorFlow]](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+[[PyTorch]](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+[[Keras]](https://keras.io/api/)
 
 ### Natural Language Processing
-[[]](https://www.nltk.org/api/nltk.html)
-[[]](https://huggingface.co/transformers/index.html)
-[[]](https://github.com/jaidevd/numerizer)
-[[]](https://github.com/alvations/sacremoses)
-[[]](https://py-googletrans.readthedocs.io/en/latest/)
-[[]](https://maartengr.github.io/BERTopic/tutorial/quickstart/quickstart.html)
-[[]](https://textblob.readthedocs.io/en/dev/quickstart.html)
+[[NLTK]](https://www.nltk.org/api/nltk.html)
+[[transformers]](https://huggingface.co/transformers/index.html)
+[[numerizer]](https://github.com/jaidevd/numerizer)
+[[Sacremoses]](https://github.com/alvations/sacremoses)
+[[Googletrans]](https://py-googletrans.readthedocs.io/en/latest/)
+[[BERTopic]](https://maartengr.github.io/BERTopic/tutorial/quickstart/quickstart.html)
+[[TextBlob]](https://textblob.readthedocs.io/en/dev/quickstart.html)
 
 ### Computer Vision
-[[]](https://pillow.readthedocs.io/en/stable/reference/index.html)
-[[]](https://scikit-image.org/docs/stable/auto_examples/index.html)
-[[]](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html)
-[[]](https://albumentations.ai/docs/)
-[[]](https://pydicom.github.io/pydicom/dev/old/pydicom_user_guide.html)
-[[]](https://google.github.io/mediapipe/getting_started/python)
-[[]](https://github.com/cvzone/cvzone)
-[[]](https://www.cvlib.net/)
+[[pillow]](https://pillow.readthedocs.io/en/stable/reference/index.html)
+[[scikit-image]](https://scikit-image.org/docs/stable/auto_examples/index.html)
+[[OpenCV]](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html)
+[[Albumentations]](https://albumentations.ai/docs/)
+[[pydicom]](https://pydicom.github.io/pydicom/dev/old/pydicom_user_guide.html)
+[[MediaPipe]](https://google.github.io/mediapipe/getting_started/python)
+[[CVZone]](https://github.com/cvzone/cvzone)
+[[cvlib]](https://www.cvlib.net/)
 
 ### SQL
-[[]](https://www.sqlalchemy.org/)
-[[]](https://pymongo.readthedocs.io/en/stable/)
-[[]](https://www.sqlite.org/index.html)
+[[SQLAlchemy]](https://www.sqlalchemy.org/)
+[[PyMongo]](https://pymongo.readthedocs.io/en/stable/)
+[[SQLite]](https://www.sqlite.org/index.html)
 
 ### Map
-[[]](http://python-visualization.github.io/folium/quickstart.html)
-[[]](https://geopandas.org/docs/user_guide.html)
-[[]](https://pydeck.gl/)
-[[]](https://pypi.org/project/haversine/)
+[[Folium]](http://python-visualization.github.io/folium/quickstart.html)
+[[GeoPandas]](https://geopandas.org/docs/user_guide.html)
+[[pydeck]](https://pydeck.gl/)
+[[Haversine]](https://pypi.org/project/haversine/)
 
 ### Deploy
-[[]](https://joblib.readthedocs.io/en/latest/)
-[[]](https://streamlit.io/gallery)
-[[]](https://flask.palletsprojects.com/en/2.0.x/)
+[[Joblib]](https://joblib.readthedocs.io/en/latest/)
+[[Streamlit]](https://streamlit.io/gallery)
+[[Flask]](https://flask.palletsprojects.com/en/2.0.x/)
 
 ### Finance
 [[]](https://docs.quandl.com/docs/python)
-[[]](https://www.mql5.com/pt/docs/integration/python_metatrader5/mt5initialize_py)
-[[]](https://github.com/matplotlib/mplfinance)
-[[]](https://www.backtrader.com/docu/quickstart/quickstart/)
-[[]](https://investpy.readthedocs.io/_info/usage.html)
+[[MQL5]](https://www.mql5.com/pt/docs/integration/python_metatrader5/mt5initialize_py)
+[[mplfinance]](https://github.com/matplotlib/mplfinance)
+[[Backtrader]](https://www.backtrader.com/docu/quickstart/quickstart/)
+[[investpy]](https://investpy.readthedocs.io/_info/usage.html)
 
 ### Telegram
-[[]](https://pypi.org/project/pyTelegramBotAPI/)
-[[]](https://telepot.readthedocs.io/en/latest/reference.html)
+[[pyTelegramBotAPI]](https://pypi.org/project/pyTelegramBotAPI/)
+[[telepot]](https://telepot.readthedocs.io/en/latest/reference.html)
 
 ### Parallel Processing
-[[]](https://github.com/classner/pymp)
+[[pymp]](https://github.com/classner/pymp)
 
 ### Google Earth
-[[]](https://simplekml.readthedocs.io/en/latest/gettingstarted.html#creating-a-kml-document)
-[[]](https://earthpy.readthedocs.io/en/latest/gallery_vignettes/index.html)
-[[]](https://rasterio.readthedocs.io/en/latest/quickstart.html#)
+[[SimpleKml]](https://simplekml.readthedocs.io/en/latest/gettingstarted.html#creating-a-kml-document)
+[[EarthPy]](https://earthpy.readthedocs.io/en/latest/gallery_vignettes/index.html)
+[[rasterio]](https://rasterio.readthedocs.io/en/latest/quickstart.html#)
 
 ### Astronomy
-[[]](https://docs.astropy.org/en/stable/)
-[[]](https://pymeeus.readthedocs.io/en/latest/)
+[[astropy]](https://docs.astropy.org/en/stable/)
+[[PyMeeus]](https://pymeeus.readthedocs.io/en/latest/)
 
 ### Datas
-[[]](https://pypi.org/project/holidays/)
+[[holidays]](https://pypi.org/project/holidays/)
 
 ### Interface Computer
-[[]](https://pyperclip.readthedocs.io/en/latest/)
+[[Pyperclip]](https://pyperclip.readthedocs.io/en/latest/)
 
 ### Logs
-[[]](https://tqdm.github.io/docs/tqdm/)
-[[]](https://github.com/borntyping/python-colorlog)
+[[tqdm]](https://tqdm.github.io/docs/tqdm/)
+[[colorlog]](https://github.com/borntyping/python-colorlog)
 
 ### Command Line Interface
-[[]](https://cmd2.readthedocs.io/en/latest/index.html)
-[[]](https://github.com/tartley/colorama)
+[[cmd2]](https://cmd2.readthedocs.io/en/latest/index.html)
+[[Colorama]](https://github.com/tartley/colorama)
 
 ### JSON
-[[]](https://github.com/softvar/json2html)
+[[json2html]](https://github.com/softvar/json2html)
 
 ### Time Series
-[[]](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
-[[]](https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html)
+[[Prophet]](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+[[AutoTS]](https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html)
 
 ### Extensions
-[[]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
+[[jupyter_contrib_nbextensions]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
 
 **[⬆ Back to top](#learning-data-science)**
 
@@ -526,5 +529,22 @@
 [242 Machine Learning Projects](https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/)
 
 [LearnOpenCV](https://github.com/spmallick/learnopencv)
+
+**[⬆ Back to top](#learning-data-science)**
+
+## Podcasts
+[Data Hackers](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82ZDFlZTM0L3BvZGNhc3QvcnNz?sa=X&ved=0CA4Q9sEGahcKEwjI3oaLrb7zAhUAAAAAHQAAAAAQAQ)
+[Mario Filho](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMWJkZjYzMC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAwQ9sEGahcKEwjI3oaLrb7zAhUAAAAAHQAAAAAQAQ)
+[Engenharia de Dados [Cast]](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNjQyNzExLnJzcw?sa=X&ved=0CAsQ9sEGahcKEwjI3oaLrb7zAhUAAAAAHQAAAAAQAQ)
+
+**[⬆ Back to top](#learning-data-science)**
+
+## CheatSheets
+[CheatSheets Repository](https://github.com/andreyolv/cheatsheets)
+
+**[⬆ Back to top](#learning-data-science)**
+
+## Books
+[]
 
 **[⬆ Back to top](#learning-data-science)**
