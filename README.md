@@ -7,7 +7,7 @@
 * [Awesome Kaggle Kernels](#awesome-kaggle-kernels)
 * [Projects Examples](#projects-examples)
 * [Podcasts](#podcasts)
-* [Cheatsheet Repository](#cheatsheet-repository)
+* [Cheatsheets](#cheatsheets)
 * [Books](#books)
 
 ## MOOCs
