@@ -209,122 +209,116 @@
 
 **[⬆ Back to top](#learning-data-science)**
 
-
-
 ## Youtube Channels
 ### Brazilian Data Science
-[Mario Filho](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
-
-[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)
-
-[Stack](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)
-
-[Carlos Melo]
-[Téo Me Why]
-[ORMaster]
-[Diego Nogare]
-[EstaTiDados]
-[Data Science Academy]
-[IA Expert Academy]
-[GAVB Consulting]
+[[Mario Filho]](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
+[[Seja Um Data Scientist]](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)
+[[Stack]](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)
+[[Carlos Melo]](https://www.youtube.com/channel/UCxaCu5ht7d3jvisTpiW6vxw)
+[[Téo Me Why]](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)
+[[ORMaster]](https://www.youtube.com/channel/UCyf-RbtZplaSxECFwE6CFVw)
+[[Diego Nogare]](https://www.youtube.com/channel/UCtjb-k1uREGXpG2Ky_vvl-g)
+[[EstaTiDados]](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
+[[Data Science Academy]](https://www.youtube.com/channel/UCyoi9yYaQRQ2F34wDLosr2A)
+[[IA Expert Academy]](https://www.youtube.com/channel/UCaGrIWpwjWXT6OIQh9W4Riw)
+[[GAVB Consulting]](https://www.youtube.com/c/GAVBConsulting/featured)
 
 ### Brazilian Professors Data Science
-[Dalcimar Casanova]
-[Prof. Dr. Marcos Santos]
-[Prof. Dr. Petronio Silva]
-[Aldo von Wangenheim]
-[Francisco Rodrigues]
-[Thiago Naves]
-[Carlos Alexandre Fernandes]
-[Abel Siqueira]
-[CANAL SANDECO]
-[ProfDanilo_DS]
+[[Dalcimar Casanova]](https://www.youtube.com/channel/UCJSEin0c3p5UY1erP8gZcjw)
+[[Prof. Dr. Marcos Santos]](https://www.youtube.com/channel/UCOvVH9dOdgn0PwpCxMavUSA)
+[[Prof. Dr. Petronio Silva]](https://www.youtube.com/channel/UCpOqLY5F8rtnP8S0odRxXvQ)
+[[Aldo von Wangenheim]](https://www.youtube.com/channel/UCJy2xN1Wq9SQir9oZmWHGlQ)
+[[Francisco Rodrigues]](https://www.youtube.com/channel/UCpWLePIWw2B0qUkvPjdRzxw)
+[[Thiago Naves]](https://www.youtube.com/channel/UCpfk-yP4KquvK0lJKuLx5wg)
+[[Carlos Alexandre Fernandes]](https://www.youtube.com/channel/UCrxDYm1T9Y1uXc_0X7sOekA)
+[[Abel Siqueira]](https://www.youtube.com/channel/UCrHWmb1a2JW50QovKgkcKCQ)
+[[CANAL SANDECO]](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ)
+[[ProfDanilo_DS]](https://www.youtube.com/channel/UCBDl_PUfpQuO7iS9_4sVxHw)
 
 ### Data Science
-[Murtaza's Workshop - Robotics and AI]
-[StatQuest with Josh Starmer]
-[sentdex]
-[Corey Schafer]
-[Tech With Tim]
-[PyData]
-[Venelin Valkov]
-[Nicholas Renotte]
-[Keith Galli]
-[KGP Talkie]
-[Data Professor]
-[Pysource]
+[[Murtaza's Workshop - Robotics and AI]](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/featured)
+[[StatQuest with Josh Starmer]](https://www.youtube.com/user/joshstarmer)
+[[sentdex]](https://www.youtube.com/c/sentdex/featured)
+[[Corey Schafer]](https://www.youtube.com/c/Coreyms/featured)
+[[Tech With Tim]](https://www.youtube.com/c/TechWithTim/featured)
+[[PyData]](https://www.youtube.com/user/PyDataTV/featured)
+[[Venelin Valkov]](https://www.youtube.com/c/VenelinValkovBG/featured)
+[[Nicholas Renotte]](https://www.youtube.com/c/NicholasRenotte/featured)
+[[Keith Galli]](https://www.youtube.com/c/KGMIT/featured)
+[[KGP Talkie]](https://www.youtube.com/c/KGPTalkie/featured)
+[[Data Professor]](https://www.youtube.com/c/DataProfessor)
+[[Pysource]](https://www.youtube.com/channel/UC5hHNks012Ca2o_MPLRUuJw)
 
 ### Professors Data Science
-[Stanford]
-[stanfordonline]
-[Stanford MLSys Seminars]
-[DeepLearningAI]
-[Sebastian Raschka]
-[Andreas Maier]
-[Manolis Kellis]
-[Jeremy Howard]
-[Neurotech Berkeley]
-[Dynamic Vision and Learning Group]
+[[Stanford]](https://www.youtube.com/user/StanfordUniversity)
+[[stanfordonline]](https://www.youtube.com/user/stanfordonline)
+[[Stanford MLSys Seminars]](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
+[[DeepLearningAI]](https://www.youtube.com/c/Deeplearningai/featured)
+[[Sebastian Raschka]](https://www.youtube.com/c/SebastianRaschka/playlists)
+[[Andreas Maier]](https://www.youtube.com/channel/UCoiMqX5FHfk_KDow7xSe7pg)
+[[Manolis Kellis]](https://www.youtube.com/user/manolitube)
+[[Jeremy Howard]](https://www.youtube.com/user/howardjeremyp/featured)
+[[Neurotech Berkeley]](https://www.youtube.com/channel/UC0X69hdu_1U_KBwSxZndswQ)
+[[Dynamic Vision and Learning Group]](https://www.youtube.com/channel/UCQVCsX1CcZQr0oUMZg6szIQ/featured)
 
 ### Kaggle Solutions
-[Kaggle]
-[Abhishek Thakur]
-[Learn Data Science]
-[NYC Data Science Academy]
-[Aladdin Persson]
+[[Kaggle]](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA)
+[[Abhishek Thakur]](https://www.youtube.com/c/AbhishekThakurAbhi/featured)
+[[Learn Data Science]](https://www.youtube.com/channel/UCJhW_16uxALr0X4olEW2p5A)
+[[NYC Data Science Academy]](https://www.youtube.com/channel/UCWElRq0YXcjo4YJD0TNPh5g)
+[[Aladdin Persson]](https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ)
 
-### Brazilian Programmers
-[Eduardo Mendes]
-[Python Pro]
-[Full Cycle]
-[Código Fluente]
-[Dev Aprender]
-[Jon Code Br]
-[DevDojo]
-[dicasparadevs]
-[João Carlos Lima e Silva]
-[R Dicas]
-[Curso-R]
+### Brazilian Programming
+[[Eduardo Mendes]](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
+[[Python Pro]](https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g)
+[[Full Cycle]](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)
+[[Código Fluente]](https://www.youtube.com/channel/UCgn-O-88XBAwdG9gUWkkb0w)
+[[Dev Aprender]](https://www.youtube.com/channel/UCm63tB8wsKOVvxoU4iMpS2A)
+[[Jon Code Br]](https://www.youtube.com/channel/UCCEC3Qm7_qAzZopYiABg_yw)
+[[DevDojo]](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)
+[[dicasparadevs]](https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ/featured)
+[[João Carlos Lima e Silva]](https://www.youtube.com/channel/UCStdvHzCL5n76P7WJqGBGzA/featured)
+[[R Dicas]](https://www.youtube.com/channel/UCOcUhsDTNeSIH5J-prbqF-g)
+[[Curso-R]](https://www.youtube.com/channel/UCTXuqtCYxPVEehq6fJY9GkA)
 
 ### Brazilian Data Engineering
-[Meetup Engenharia de Dados]
-[Data Engineering Academy]
-[Big Data Masters]
-[Inovação com dados em nuvem]
-[Luan Moreno M. Maciel]
-[André Vieira]
-[Seattle Data Guy]
+[[Meetup Engenharia de Dados]](https://www.youtube.com/channel/UC0_nJhInHhTninezAdaLoJw)
+[[Data Engineering Academy]](https://www.youtube.com/channel/UCEAm51EWxMEqOMpixh3kbUg)
+[[Big Data Masters]](https://www.youtube.com/channel/UCPKsBRBdzTTmXaaQqw5XZjg)
+[[Inovação com dados em nuvem]](https://www.youtube.com/channel/UClE5mMctgWyvPot9TDIJ1DQ)
+[[Luan Moreno M. Maciel]](https://www.youtube.com/user/LuanMorenoDBA)
+[[Seattle Data Guy]](https://www.youtube.com/c/SeattleDataGuy/featured)
 
 ### Brazilian Community
-[AI Brasil Community]
-[School of AI São Paulo]
-[Comunidade IA Rio Preto]
-[Machine Learning Porto Alegre]
-[Sociedade Brasileira de Inteligência Computacional]
-[Escola de Inteligência Artificial]
-[Escola Livre de Inteligência Artificial]
-[Data Hackers]
+[[AI Brasil Community]](https://www.youtube.com/channel/UCS5QayXigvan2fIDGN8UfpQ)
+[[School of AI São Paulo]](https://www.youtube.com/channel/UCcQgGC19k35ayQNsspyyBhQ)
+[[Comunidade IA Rio Preto]](https://www.youtube.com/channel/UCbG5M-UpC8EdFF01_VF7p9Q)
+[[Machine Learning Porto Alegre]](https://www.youtube.com/channel/UCEUKz0QpGkk7sFlFG5V7w_A)
+[[Sociedade Brasileira de Inteligência Computacional]](https://www.youtube.com/channel/UCd0co6Jf3qbrT6U0a29pdGg)
+[[Escola de Inteligência Artificial]](https://www.youtube.com/channel/UC6w56wRjrbbZk-cX46SuxPA)
+[[Escola Livre de Inteligência Artificial]](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)
+[[Data Hackers]](https://www.youtube.com/channel/UCISrteT3SsMdSkoPWYJ2fGA)
 
 ### Brazilian Professors Statistics
-[Cientística & Podcast Naruhodo]
-[Gustavo Ferreira]
-[Marcelino Silva]
-[Fernando Ferraz do Nascimento]
-[Fernanda Peres]
-[Cibele Russo]
-[prof.dbutturi]
-[Rodrigo Pavão]
-[Alexandre Cunha Costa]
-[Montvero Consultoria e Treinamento]
-[Letícia Raposo]
+[[Cientística & Podcast Naruhodo]](https://www.youtube.com/channel/UCPzA7lZCeFiafe9V9bamISw)
+[[Gustavo Ferreira]](https://www.youtube.com/channel/UCFMcLFLQJFJH1r3MWTGDNxw)
+[[Marcelino Silva]](https://www.youtube.com/channel/UC0x2qjRBmcu0fwfgOj39CTA)
+[[Fernando Ferraz do Nascimento]](https://www.youtube.com/channel/UCM2FRQIZktkNGbkYVEcmUog)
+[[Fernanda Peres]](https://www.youtube.com/channel/UCx1vXgGDXc7BH7bI1KC_o7Q)
+[[Cibele Russo]](https://www.youtube.com/channel/UCDIZ-7AE6IFe70UskD0GtUA)
+[[prof.dbutturi]](https://www.youtube.com/channel/UCx2lXmV_y7JQBocTNFvQ0PA)
+[[Rodrigo Pavão]](https://www.youtube.com/channel/UCVbiJJHwFW2zY4465NT9Yqg)
+[[Alexandre Cunha Costa]](https://www.youtube.com/channel/UCPecW7uHa1VSz5X6g6XJXTA)
+[[Montvero Consultoria e Treinamento]](https://www.youtube.com/channel/UCMsRhszr6pKq9HZ4dgqzpQA)
+[[Letícia Raposo]](https://www.youtube.com/channel/UCFGJbW7aWOdj2iVluprCexA)
 
 ### Brazilian Professors Computer Science
-[Laboratory of Systems Engineering and Robotics]
-[Ewerton Salvador]
-[Instituto de Informática UFG]
-[Rafael Vieira Coelho]
-[Prof. Ademir Dorneles]
-[Laboratório HiPES]
+[[Laboratory of Systems Engineering and Robotics]](https://www.youtube.com/channel/UCasL81jvEq4mG9aVnrjBRAQ)
+[[Ewerton Salvador]](https://www.youtube.com/channel/UCdcmKc-M2oipT3z1yo77x9g)
+[[Instituto de Informática UFG]](https://www.youtube.com/c/InstitutodeInform%C3%A1ticaUFG/videos)
+[[Rafael Vieira Coelho]](https://www.youtube.com/channel/UCjzw4JBvbjbZkRiwJ78c5nA)
+[[Prof. Ademir Dorneles]](https://www.youtube.com/c/AdemirDorneles/playlists)
+[[Laboratório HiPES]](https://www.youtube.com/channel/UCMnH7BeYu-EOSonajTRqoDg/playlists)
 
 ### Quantitative Trading
 [[Outspoken Market]](https://www.youtube.com/channel/UCRN2uKmqOkShT6v0nVnmcGw)
@@ -338,17 +332,12 @@
 [[freeCodeCamp.org]](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 [[Simplilearn]](https://www.youtube.com/c/SimplilearnOfficial/featured)
 
-
 **[⬆ Back to top](#learning-data-science)**
-
-
 
 ## Libraries
 
 
 **[⬆ Back to top](#learning-data-science)**
-
-
 
 ## Awesome Githubs
 [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
@@ -379,8 +368,6 @@
 
 **[⬆ Back to top](#learning-data-science)**
 
-
-
 ## Awesome Kaggle Kernels
 [The Best Tutorial for Beginners](https://www.kaggle.com/getting-started/71679)
 
@@ -393,8 +380,6 @@
 [Pandas 75 exercises with solutions](https://www.kaggle.com/muhammetikbal/pandas-75-exercises-with-solutions)
 
 **[⬆ Back to top](#learning-data-science)**
-
-
 
 ## Projects Examples
 
