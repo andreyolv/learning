@@ -215,9 +215,129 @@
 ### Brazilian Data Science
 [Mario Filho](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
 
-[Seja Um Data Scientist]
+[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)
 
-[Stack]()
+[Stack](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)
+
+[Carlos Melo]
+[Téo Me Why]
+[ORMaster]
+[Diego Nogare]
+[EstaTiDados]
+[Data Science Academy]
+[IA Expert Academy]
+[GAVB Consulting]
+
+### Brazilian Professors Data Science
+[Dalcimar Casanova]
+[Prof. Dr. Marcos Santos]
+[Prof. Dr. Petronio Silva]
+[Aldo von Wangenheim]
+[Francisco Rodrigues]
+[Thiago Naves]
+[Carlos Alexandre Fernandes]
+[Abel Siqueira]
+[CANAL SANDECO]
+[ProfDanilo_DS]
+
+### Data Science
+[Murtaza's Workshop - Robotics and AI]
+[StatQuest with Josh Starmer]
+[sentdex]
+[Corey Schafer]
+[Tech With Tim]
+[PyData]
+[Venelin Valkov]
+[Nicholas Renotte]
+[Keith Galli]
+[KGP Talkie]
+[Data Professor]
+[Pysource]
+
+### Professors Data Science
+[Stanford]
+[stanfordonline]
+[Stanford MLSys Seminars]
+[DeepLearningAI]
+[Sebastian Raschka]
+[Andreas Maier]
+[Manolis Kellis]
+[Jeremy Howard]
+[Neurotech Berkeley]
+[Dynamic Vision and Learning Group]
+
+### Kaggle Solutions
+[Kaggle]
+[Abhishek Thakur]
+[Learn Data Science]
+[NYC Data Science Academy]
+[Aladdin Persson]
+
+### Brazilian Programmers
+[Eduardo Mendes]
+[Python Pro]
+[Full Cycle]
+[Código Fluente]
+[Dev Aprender]
+[Jon Code Br]
+[DevDojo]
+[dicasparadevs]
+[João Carlos Lima e Silva]
+[R Dicas]
+[Curso-R]
+
+### Brazilian Data Engineering
+[Meetup Engenharia de Dados]
+[Data Engineering Academy]
+[Big Data Masters]
+[Inovação com dados em nuvem]
+[Luan Moreno M. Maciel]
+[André Vieira]
+[Seattle Data Guy]
+
+### Brazilian Community
+[AI Brasil Community]
+[School of AI São Paulo]
+[Comunidade IA Rio Preto]
+[Machine Learning Porto Alegre]
+[Sociedade Brasileira de Inteligência Computacional]
+[Escola de Inteligência Artificial]
+[Escola Livre de Inteligência Artificial]
+[Data Hackers]
+
+### Brazilian Professors Statistics
+[Cientística & Podcast Naruhodo]
+[Gustavo Ferreira]
+[Marcelino Silva]
+[Fernando Ferraz do Nascimento]
+[Fernanda Peres]
+[Cibele Russo]
+[prof.dbutturi]
+[Rodrigo Pavão]
+[Alexandre Cunha Costa]
+[Montvero Consultoria e Treinamento]
+[Letícia Raposo]
+
+### Brazilian Professors Computer Science
+[Laboratory of Systems Engineering and Robotics]
+[Ewerton Salvador]
+[Instituto de Informática UFG]
+[Rafael Vieira Coelho]
+[Prof. Ademir Dorneles]
+[Laboratório HiPES]
+
+### Quantitative Trading
+[Outspoken Market]
+[Código Quant - Finanças Quantitativas]
+[Trading com Dados]
+
+### Several Tutorials
+[edureka!]
+[Geek's Lesson]
+[Intellipaat]
+[freeCodeCamp.org]
+[Simplilearn]
+
 
 **[⬆ Back to top](#learning-data-science)**
 
