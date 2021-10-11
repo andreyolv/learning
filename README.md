@@ -138,6 +138,10 @@ All study materials used by me to learn data science divided by topics
 [Probability and Stochastics for Finance II, Indian Institute of Technology Kanpur, Prof. Joydeep Dutta](https://www.youtube.com/playlist?list=PLQtOp02o5t8VOjzts8q0rHXLNYHSqdiml)
 
 ### Other University Courses
+[Cloud Computing and Big Data, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwXodrHuOJhPWy6O2wezXXLh)
+
+[High Performance Computing, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwVnlrIPjrfSn7QRcv3wIQj5)
+
 [Intro to Machine Learning, University of Wisconsin-Madison, Prof. Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
 
 [Intro to Deep Learning and Generative Models, University of Wisconsin-Madison, Prof. Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
