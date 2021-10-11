@@ -175,22 +175,6 @@ All study materials used by me to learn data science divided by topics
 
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
 
-### AWS Training
-[AWS Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=60697)
-
-[AWS Technical Essentials](https://www.aws.training/Details/eLearning?id=71079)
-
-[The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
-
-[Data Analytics Fundamentals](https://www.aws.training/Details/eLearning?id=35364)
-
-### Professional Certificate Google Cloud Certification Preparation
-[Machine Learning Engineer](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate#courses)
-
-[Cloud Data Engineer](https://www.coursera.org/professional-certificates/cloud-engineering-gcp#courses)
-
-[Cloud Engineer](https://www.coursera.org/professional-certificates/gcp-data-engineering#courses)
-
 ### Udemy Courses
 [Python programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
 
