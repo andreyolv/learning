@@ -358,6 +358,7 @@ All study materials used by me to learn data science divided by topics
 [[Category Encoders]](https://contrib.scikit-learn.org/category_encoders/)
 [[pandas-datareader]](https://pydata.github.io/pandas-datareader/remote_data.html)
 [[klib]](https://klib.readthedocs.io/en/latest/)
+[[Imbalanced-learn]](https://imbalanced-learn.org/stable/user_guide.html)
 
 ### Machine Learning
 [[scikit-learn]](https://scikit-learn.org/stable/user_guide.html)
@@ -366,6 +367,7 @@ All study materials used by me to learn data science divided by topics
 [[XGBoost]](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
 [[CatBoost]](https://catboost.ai/en/docs/concepts/python-quickstart)
 [[baikal]](https://baikal.readthedocs.io/en/stable/index.html)
+[[scikit-optimize]](https://scikit-optimize.github.io/stable/auto_examples/index.html)
 
 ### Visualization
 [[matplotlib]](https://matplotlib.org/stable/gallery/index.html)
