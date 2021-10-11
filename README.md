@@ -470,6 +470,7 @@ All study materials used by me to learn data science divided by topics
 
 ### Extensions
 [[jupyter_contrib_nbextensions]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
+[[ipynb]](https://github.com/ipython/ipynb)
 
 **[⬆ Back to top](#learning-data-science)**
 
