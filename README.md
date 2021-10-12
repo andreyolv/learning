@@ -337,6 +337,7 @@ All study materials used by me to learn data science divided by topics
 [[os.path]](https://docs.python.org/3/library/os.path.html)
 [[json]](https://docs.python.org/3/library/json.html)
 [[sys]](https://docs.python.org/3/library/sys.html)
+[[box]](https://box.readthedocs.io/en/development/)
 
 ### DataFrames
 [[NumPy]](https://numpy.org/doc/stable/reference/index.html)
@@ -356,6 +357,7 @@ All study materials used by me to learn data science divided by topics
 [[CatBoost]](https://catboost.ai/en/docs/concepts/python-quickstart)
 [[baikal]](https://baikal.readthedocs.io/en/stable/index.html)
 [[scikit-optimize]](https://scikit-optimize.github.io/stable/auto_examples/index.html)
+[[NGBoost]](https://stanfordmlgroup.github.io/ngboost/1-useage.html)
 
 ### Visualization
 [[matplotlib]](https://matplotlib.org/stable/gallery/index.html)
@@ -407,6 +409,7 @@ All study materials used by me to learn data science divided by topics
 [[MediaPipe]](https://google.github.io/mediapipe/getting_started/python)
 [[CVZone]](https://github.com/cvzone/cvzone)
 [[cvlib]](https://www.cvlib.net/)
+[[timm]](https://rwightman.github.io/pytorch-image-models/models/)
 
 ### SQL
 [[SQLAlchemy]](https://www.sqlalchemy.org/)
