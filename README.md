@@ -235,6 +235,8 @@ All study materials used by me to learn data science divided by topics
 [[KGP Talkie]](https://www.youtube.com/c/KGPTalkie/featured)
 [[Data Professor]](https://www.youtube.com/c/DataProfessor)
 [[Pysource]](https://www.youtube.com/channel/UC5hHNks012Ca2o_MPLRUuJw)
+[[Weights & Biases]](https://www.youtube.com/c/WeightsBiases/featured)
+[[Yannic Kilcher]](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
 
 ### Professors Data Science
 [[Stanford]](https://www.youtube.com/user/StanfordUniversity)
