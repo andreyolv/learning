@@ -148,14 +148,6 @@ All study materials used by me to learn data science divided by topics
 
 [Intro to Deep Learning and Generative Models, University of Wisconsin-Madison, Prof. Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 
-[Deep Learning, FAU (Friedrich-Alexander-Universität Erlangen Nürnberg), Prof. Andreas Maier](https://www.youtube.com/playlist?list=PLpOGQvPCDQzvJEPFUQ3mJz72GJ95jyZTh)
-
-[Pattern Recognition, FAU (Friedrich-Alexander-Universität Erlangen Nürnberg), Prof. Andreas Maier](https://www.youtube.com/playlist?list=PLpOGQvPCDQzsWvT_bqmexrJ359RTQQuMO)
-
-[Beyond the Patterns, FAU (Friedrich-Alexander-Universität Erlangen Nürnberg), Prof. Andreas Maier](https://www.youtube.com/playlist?list=PLpOGQvPCDQzvQGkaSUGzjzg5b7J3yilm5)
-
-[Medical Engineering, FAU (Friedrich-Alexander-Universität Erlangen Nürnberg), Prof. Andreas Maier](https://www.youtube.com/playlist?list=PLpOGQvPCDQzsgK1XuhUXO8r9M4WRqhvDf)
-
 [Deep Learning for Computer Vision, University of Michigan, Prof. Justin Johnson](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 ### Coursera Programs
