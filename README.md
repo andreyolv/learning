@@ -11,6 +11,8 @@ All study materials used by me to learn data science divided by topics
 * [Podcasts](#podcasts)
 * [Cheatsheets](#cheatsheets)
 * [Books](#books)
+* [Papers](#papers)
+* [Sites](#sites)
 
 ## MOOCs
 ### Mathematics
@@ -253,6 +255,7 @@ All study materials used by me to learn data science divided by topics
 [[Jeremy Howard]](https://www.youtube.com/user/howardjeremyp/featured)
 [[Neurotech Berkeley]](https://www.youtube.com/channel/UC0X69hdu_1U_KBwSxZndswQ)
 [[Dynamic Vision and Learning Group]](https://www.youtube.com/channel/UCQVCsX1CcZQr0oUMZg6szIQ/featured)
+[[Deep Mind]](https://www.youtube.com/c/DeepMind/featured)
 
 ### Kaggle Solutions
 [[Kaggle]](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA)
@@ -281,6 +284,7 @@ All study materials used by me to learn data science divided by topics
 [[Inovação com dados em nuvem]](https://www.youtube.com/channel/UClE5mMctgWyvPot9TDIJ1DQ)
 [[Luan Moreno M. Maciel]](https://www.youtube.com/user/LuanMorenoDBA)
 [[Seattle Data Guy]](https://www.youtube.com/c/SeattleDataGuy/featured)
+[[Rodrigo teORiA]](https://www.youtube.com/channel/UCPFWpDjqTzDEyCW-UyuJUIQ)
 
 ### Brazilian Community
 [[AI Brasil Community]](https://www.youtube.com/channel/UCS5QayXigvan2fIDGN8UfpQ)
@@ -475,6 +479,22 @@ All study materials used by me to learn data science divided by topics
 [[jupyter_contrib_nbextensions]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
 [[ipynb]](https://github.com/ipython/ipynb)
 
+### Data Engineering
+[Hadoop]()
+[Spark]()
+[Kafka]()
+[Airflow]()
+[MLflow]()
+[NiFi]()
+
+### Cloud Computing
+[AWS]
+
+### Others
+[Git]
+[Docker]
+[Kubernetes]
+
 **[⬆ Back to top](#learning-data-science)**
 
 ## Awesome Githubs
@@ -544,5 +564,17 @@ All study materials used by me to learn data science divided by topics
 
 ## Books
 []
+
+**[⬆ Back to top](#learning-data-science)**
+
+## Papers
+[https://paperswithcode.com/lib/timm](https://paperswithcode.com/lib/timm)
+
+**[⬆ Back to top](#learning-data-science)**
+
+## Sites
+[https://www.statskingdom.com](https://www.statskingdom.com)
+[https://strftime.org](https://strftime.org)
+[https://regexr.com](https://regexr.com)
 
 **[⬆ Back to top](#learning-data-science)**
