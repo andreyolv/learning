@@ -571,6 +571,16 @@ All study materials used by me to learn data science divided by topics
 
 [Papers Explained - Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7)
 
+[Kaggle Reading Group - Kaggle](https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
+
+### 2021
+
+### 2020
+
+### 2019
+
+### 2018
+
 **[⬆ Back to top](#learning-data-science)**
 
 ## Sites
