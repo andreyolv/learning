@@ -257,12 +257,13 @@ All study materials used by me to learn data science divided by topics
 [[Dynamic Vision and Learning Group]](https://www.youtube.com/channel/UCQVCsX1CcZQr0oUMZg6szIQ/featured)
 [[Deep Mind]](https://www.youtube.com/c/DeepMind/featured)
 
-### Kaggle Solutions
+### Kagglers
 [[Kaggle]](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA)
 [[Abhishek Thakur]](https://www.youtube.com/c/AbhishekThakurAbhi/featured)
 [[Learn Data Science]](https://www.youtube.com/channel/UCJhW_16uxALr0X4olEW2p5A)
 [[NYC Data Science Academy]](https://www.youtube.com/channel/UCWElRq0YXcjo4YJD0TNPh5g)
 [[Aladdin Persson]](https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ)
+[[Chai Time Data Science]](https://www.youtube.com/playlist?list=PLLvvXm0q8zUZL0vL-XflubRioHlQ4fGpr)
 
 ### Brazilian Programming
 [[Eduardo Mendes]](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
@@ -563,12 +564,20 @@ All study materials used by me to learn data science divided by topics
 **[⬆ Back to top](#learning-data-science)**
 
 ## Books
-[]
+[[Python Notes for Professionals]](https://bratliservice.eu/doc/PythonNotesForProfessionals.pdf)
+
+[[Learning pandas]](https://riptutorial.com/Download/pandas.pdf)
 
 **[⬆ Back to top](#learning-data-science)**
 
 ## Papers
 [https://paperswithcode.com/lib/timm](https://paperswithcode.com/lib/timm)
+
+[Papers Explained - Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwqKKZhVLp7diKFxTmj4Q6s)
+
+[W&B Paper Reading Group - Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEG_vpqwQgwH1gIxeb9r30u5)
+
+[Papers Explained - Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7)
 
 **[⬆ Back to top](#learning-data-science)**
 
