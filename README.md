@@ -473,15 +473,15 @@ All study materials used by me to learn data science divided by topics
 [[ipynb]](https://github.com/ipython/ipynb)
 
 ### Data Engineering
-[[Hadoop]]()
-[[Spark]]()
-[[Kafka]]()
+[[Hadoop]](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
+[[Spark]](https://spark.apache.org/docs/latest/api/python/getting_started/index.html)
+[[Kafka]](https://kafka.apache.org/documentation/)
 [[Airflow]]()
 [[MLflow]]()
 [[NiFi]]()
 
 ### Cloud Computing
-[[AWS]]()
+[[AWS]](https://docs.aws.amazon.com/)
 
 ### Others
 [[Git]]()
