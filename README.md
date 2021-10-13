@@ -3,11 +3,11 @@
 All study materials used by me to learn data science divided by topics
 
 * [MOOCs](#moocs)
-* [Youtube Channels](#youtube-channels)
+* [Youtube](#youtube)
 * [Libraries](#libraries)
-* [Awesome Githubs](#awesome-github)
-* [Awesome Kaggle Kernels](#awesome-kaggle-kernels)
-* [Projects Examples](#projects-examples)
+* [Githubs](#githubs)
+* [Kaggle](#kaggle)
+* [Projects](#projects)
 * [Podcasts](#podcasts)
 * [Cheatsheets](#cheatsheets)
 * [Books](#books)
@@ -204,7 +204,7 @@ All study materials used by me to learn data science divided by topics
 
 **[⬆ Back to top](#learning-data-science)**
 
-## Youtube Channels
+## Youtube
 ### Brazilian Data Science
 [[Mario Filho]](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
 [[Seja Um Data Scientist]](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)
@@ -480,24 +480,24 @@ All study materials used by me to learn data science divided by topics
 [[ipynb]](https://github.com/ipython/ipynb)
 
 ### Data Engineering
-[Hadoop]()
-[Spark]()
-[Kafka]()
-[Airflow]()
-[MLflow]()
-[NiFi]()
+[[Hadoop]]()
+[[Spark]]()
+[[Kafka]]()
+[[Airflow]]()
+[[MLflow]]()
+[[NiFi]]()
 
 ### Cloud Computing
-[AWS]
+[[AWS]]()
 
 ### Others
-[Git]
-[Docker]
-[Kubernetes]
+[[Git]]()
+[[Docker]]()
+[[Kubernetes]]()
 
 **[⬆ Back to top](#learning-data-science)**
 
-## Awesome Githubs
+## Githubs
 [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 [Awesome Python](https://github.com/vinta/awesome-python)
@@ -526,7 +526,7 @@ All study materials used by me to learn data science divided by topics
 
 **[⬆ Back to top](#learning-data-science)**
 
-## Awesome Kaggle Kernels
+## Kaggle
 [The Best Tutorial for Beginners](https://www.kaggle.com/getting-started/71679)
 
 [kanncaa1 Tutorials](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
@@ -539,7 +539,7 @@ All study materials used by me to learn data science divided by topics
 
 **[⬆ Back to top](#learning-data-science)**
 
-## Projects Examples
+## Projects
 [500 + Artificial Intelligence Project List with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
 
 [242 Machine Learning Projects](https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/)
@@ -573,8 +573,8 @@ All study materials used by me to learn data science divided by topics
 **[⬆ Back to top](#learning-data-science)**
 
 ## Sites
-[https://www.statskingdom.com](https://www.statskingdom.com)
-[https://strftime.org](https://strftime.org)
-[https://regexr.com](https://regexr.com)
+[[https://www.statskingdom.com]](https://www.statskingdom.com)
+[[https://strftime.org]](https://strftime.org)
+[[https://regexr.com]](https://regexr.com)
 
 **[⬆ Back to top](#learning-data-science)**
