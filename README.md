@@ -576,12 +576,17 @@ All study materials used by me to learn data science divided by topics
 [Kaggle Reading Group - Kaggle](https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
 
 ### 2021
+[]
 
 ### 2020
+[]
 
 ### 2019
+[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
+[]
 
 ### 2018
+[]
 
 **[⬆ Back to top](#learning-data-science)**
 
