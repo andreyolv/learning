@@ -580,10 +580,12 @@ All study materials used by me to learn data science divided by topics
 
 ### 2020
 [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
+
 []
 
 ### 2019
 [Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/pdf/1902.10811.pdf)
+
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 ### 2018
@@ -600,7 +602,9 @@ All study materials used by me to learn data science divided by topics
 
 ### 2014-
 [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+
 [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
+
 [ImageNet Classification with Deep ConvolutionalNeural Networks](http://www.cs.toronto.edu/~hinton/absps/imagenet.pdf)
 
 
