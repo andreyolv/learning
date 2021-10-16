@@ -122,22 +122,7 @@ All study materials used by me to learn data science divided by topics
 
 [CS231N Convolutional Neural Networks for Visual Recognition, Stanford University, Professor Fei-Fei Li, Justin Johnson, Serena Yeung](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-[CS223A Introduction to Robotics, Stanford University, Prof. Oussama Khatib](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF)
-
 [CS329S Machine Learning Systems Design, Stanford University, Seminar Series.](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
-
-### Quantitative Finance
-[Artificial Intelligence & Machine Learning in Finance, Universitat Leipzig, Prof. Gregor Weiss](https://www.youtube.com/playlist?list=PL4i4aZbplv9KZzkgz2U3RYObCcmXSHwOc)
-
-[Computational Finance, Universitat Leipzig, Prof. Gregor Weiss](https://www.youtube.com/playlist?list=PL4i4aZbplv9J5jan6mDbDHtjfm7ghMWfj)
-
-[Quantitative Finance, Yale University, Prof. John Geanakoplos](https://www.youtube.com/playlist?list=PL3F00F1C2D402D45C)
-
-[Mathematical Finance,  Indian Institute of Technology Guwahati, Prof. Siddhartha Pratim Chakrabarty](https://www.youtube.com/playlist?list=PLwdnzlV3ogoV-4hbV6DP3BjdmjuaQPjcr)
-
-[Probability and Stochastics for Finance I, Indian Institute of Technology Kanpur, Prof. Joydeep Dutta](https://www.youtube.com/playlist?list=PLEYrMI37wMbplhGJmqhlYv0VUSwC6zMsU)
-
-[Probability and Stochastics for Finance II, Indian Institute of Technology Kanpur, Prof. Joydeep Dutta](https://www.youtube.com/playlist?list=PLQtOp02o5t8VOjzts8q0rHXLNYHSqdiml)
 
 ### Other University Courses
 [Cloud Computing and Big Data, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwXodrHuOJhPWy6O2wezXXLh)
