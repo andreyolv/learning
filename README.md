@@ -550,6 +550,8 @@ All study materials used by me to learn data science divided by topics
 **[⬆ Back to top](#learning-data-science)**
 
 ## Papers
+[Papers Repository](https://github.com/andreyolv/papers)
+
 [https://paperswithcode.com/lib/timm](https://paperswithcode.com/lib/timm)
 
 [Papers Explained - Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwqKKZhVLp7diKFxTmj4Q6s)
@@ -559,39 +561,6 @@ All study materials used by me to learn data science divided by topics
 [Papers Explained - Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7)
 
 [Kaggle Reading Group - Kaggle](https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
-
-### 2021
-[]
-
-### 2020
-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
-
-[]
-
-### 2019
-[Do ImageNet Classifiers Generalize to ImageNet?](https://arxiv.org/pdf/1902.10811.pdf)
-
-[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
-
-### 2018
-[]
-
-### 2017
-[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
-
-### 2016
-[]
-
-### 2015
-[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
-
-### 2014-
-[Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
-
-[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
-
-[ImageNet Classification with Deep ConvolutionalNeural Networks](http://www.cs.toronto.edu/~hinton/absps/imagenet.pdf)
-
 
 **[⬆ Back to top](#learning-data-science)**
 
