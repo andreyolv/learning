@@ -552,7 +552,7 @@ All study materials used by me to learn data science divided by topics
 ## Papers
 [Papers Repository](https://github.com/andreyolv/papers)
 
-[https://paperswithcode.com/lib/timm](https://paperswithcode.com/lib/timm)
+[paperswithcode](https://paperswithcode.com/sota)
 
 [Papers Explained - Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfwqKKZhVLp7diKFxTmj4Q6s)
 
