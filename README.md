@@ -459,13 +459,20 @@ All study materials used by me to learn data science divided by topics
 [[jupyter_contrib_nbextensions]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
 [[ipynb]](https://github.com/ipython/ipynb)
 
-### Data Engineering
+### Clusters
 [[Hadoop]](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
 [[Spark]](https://spark.apache.org/docs/latest/api/python/getting_started/index.html)
-[[Kafka]](https://kafka.apache.org/documentation/)
+[[Koalas]](https://koalas.readthedocs.io/en/latest/getting_started/10min.html)
+
+### Data Pipeline / Integration
 [[Airflow]]()
-[[MLflow]]()
+[[Kafka]](https://kafka.apache.org/documentation/)
 [[NiFi]]()
+
+### Tracking
+[[Aim]](https://aimstack.readthedocs.io/en/latest/quick_start/3_steps.html)
+[[MLflow]]()
+[[Weights & Biases]]()
 
 ### Cloud Computing
 [[AWS]](https://docs.aws.amazon.com/)
