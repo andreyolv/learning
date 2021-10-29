@@ -154,6 +154,8 @@ All study materials used by me to learn data science divided by topics
 
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
 
+[Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
+
 ### Udemy Courses
 [Python programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
 
@@ -412,11 +414,11 @@ All study materials used by me to learn data science divided by topics
 [[Flask]](https://flask.palletsprojects.com/en/2.0.x/)
 
 ### Finance
-[[]](https://docs.quandl.com/docs/python)
 [[MQL5]](https://www.mql5.com/pt/docs/integration/python_metatrader5/mt5initialize_py)
 [[mplfinance]](https://github.com/matplotlib/mplfinance)
 [[Backtrader]](https://www.backtrader.com/docu/quickstart/quickstart/)
 [[investpy]](https://investpy.readthedocs.io/_info/usage.html)
+[[QuantStats]](https://github.com/ranaroussi/quantstats)
 
 ### Telegram
 [[pyTelegramBotAPI]](https://pypi.org/project/pyTelegramBotAPI/)
@@ -459,14 +461,30 @@ All study materials used by me to learn data science divided by topics
 [[jupyter_contrib_nbextensions]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
 [[ipynb]](https://github.com/ipython/ipynb)
 
-### Clusters
+## Data Engineering
+### SQL Database
+
+### NoSQL Database
+
+### Cluster Storage
 [[Hadoop]](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
+
+### Cluster Storage Manipulation
+[[Hive]]()
+[[HBase]]()
+
+## Cluster Management
+[[Ambari]]()
+[[Kubernetes]]()
+
+### Cluster Processing
 [[Spark]](https://spark.apache.org/docs/latest/api/python/getting_started/index.html)
 [[Koalas]](https://koalas.readthedocs.io/en/latest/getting_started/10min.html)
 
 ### Data Pipeline / Integration
 [[Airflow]]()
 [[Kafka]](https://kafka.apache.org/documentation/)
+[[Flume]]()
 [[NiFi]]()
 
 ### Tracking
@@ -477,10 +495,11 @@ All study materials used by me to learn data science divided by topics
 ### Cloud Computing
 [[AWS]](https://docs.aws.amazon.com/)
 
-### Others
+### Versioning
 [[Git]]()
+
+### Container 
 [[Docker]]()
-[[Kubernetes]]()
 
 **[⬆ Back to top](#learning-data-science)**
 
@@ -511,6 +530,8 @@ All study materials used by me to learn data science divided by topics
 
 [Build 12 Data Apps in Python with Streamlit](https://github.com/dataprofessor/streamlit_freecodecamp)
 
+[Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes/tree/main/pt)
+
 **[⬆ Back to top](#learning-data-science)**
 
 ## Kaggle
@@ -524,6 +545,8 @@ All study materials used by me to learn data science divided by topics
 
 [Pandas 75 exercises with solutions](https://www.kaggle.com/muhammetikbal/pandas-75-exercises-with-solutions)
 
+[Approaching (Almost) Any NLP Problem on Kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
+
 **[⬆ Back to top](#learning-data-science)**
 
 ## Projects
@@ -532,6 +555,8 @@ All study materials used by me to learn data science divided by topics
 [242 Machine Learning Projects](https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/)
 
 [LearnOpenCV](https://github.com/spmallick/learnopencv)
+
+[Pysource](https://pysource.com/blog/)
 
 **[⬆ Back to top](#learning-data-science)**
 
@@ -575,5 +600,6 @@ All study materials used by me to learn data science divided by topics
 [[https://www.statskingdom.com]](https://www.statskingdom.com)
 [[https://strftime.org]](https://strftime.org)
 [[https://regexr.com]](https://regexr.com)
+[[CBMM]](https://cbmm.mit.edu/education/courses)
 
 **[⬆ Back to top](#learning-data-science)**
