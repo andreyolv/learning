@@ -248,6 +248,7 @@ All study materials used by me to learn data science divided by topics
 [[Deep Mind]](https://www.youtube.com/c/DeepMind/featured)
 [[Prof Dr - Ing Morris Riedel]](https://www.youtube.com/channel/UCWC4VKHmL4NZgFfKoHtANKg)
 [[MITCBMM]](https://www.youtube.com/c/MITCBMM/featured)
+[[Tübingen Machine Learning]](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA)
 
 ### Kagglers (EN-US)
 [[Kaggle]](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA)
