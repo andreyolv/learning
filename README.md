@@ -486,7 +486,7 @@ All study materials used by me to learn data science divided by topics
 [[Hive]]()
 [[HBase]]()
 
-## Cluster Management
+### Cluster Management
 [[Ambari]]()
 [[Kubernetes]]()
 
