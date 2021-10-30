@@ -173,18 +173,20 @@ All study materials used by me to learn data science divided by topics
 
 [Design Patterns with Python](https://www.udemy.com/course/padroes-de-projeto-com-python/)
 
-[TensorFlow Developer Certificate in 2021: Zero to Mastery - ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
-
 [Java 11 LTS programming from basic to advanced](https://www.udemy.com/course/programacao-em-java-essencial/)
 
 [C programming from basic to advanced](https://www.udemy.com/course/programacao-em-c-essencial/)
 
 [JavaScript programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/)
 
+[TensorFlow Developer Certificate in 2021: Zero to Mastery - ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
+
+[Apache Kafka Series - Learn Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/)
+
 **[⬆ Back to top](#learning-data-science)**
 
 ## Youtube
-### Brazilian Data Science
+### Data Science (PT-BR)
 [[Mario Filho]](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
 [[Seja Um Data Scientist]](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)
 [[Stack]](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)
@@ -197,7 +199,7 @@ All study materials used by me to learn data science divided by topics
 [[IA Expert Academy]](https://www.youtube.com/channel/UCaGrIWpwjWXT6OIQh9W4Riw)
 [[GAVB Consulting]](https://www.youtube.com/c/GAVBConsulting/featured)
 
-### Brazilian Professors Data Science
+### Data Science Lectures (PT-BR)
 [[Dalcimar Casanova]](https://www.youtube.com/channel/UCJSEin0c3p5UY1erP8gZcjw)
 [[Prof. Dr. Marcos Santos]](https://www.youtube.com/channel/UCOvVH9dOdgn0PwpCxMavUSA)
 [[Prof. Dr. Petronio Silva]](https://www.youtube.com/channel/UCpOqLY5F8rtnP8S0odRxXvQ)
@@ -209,7 +211,7 @@ All study materials used by me to learn data science divided by topics
 [[CANAL SANDECO]](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ)
 [[ProfDanilo_DS]](https://www.youtube.com/channel/UCBDl_PUfpQuO7iS9_4sVxHw)
 
-### Data Science
+### Data Science (EN-US)
 [[Murtaza's Workshop - Robotics and AI]](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/featured)
 [[StatQuest with Josh Starmer]](https://www.youtube.com/user/joshstarmer)
 [[sentdex]](https://www.youtube.com/c/sentdex/featured)
@@ -224,8 +226,15 @@ All study materials used by me to learn data science divided by topics
 [[Pysource]](https://www.youtube.com/channel/UC5hHNks012Ca2o_MPLRUuJw)
 [[Weights & Biases]](https://www.youtube.com/c/WeightsBiases/featured)
 [[Yannic Kilcher]](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
+[[The AI Epiphany]](https://www.youtube.com/c/TheAIEpiphany/featured)
+[[HuggingFace]](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w/featured)
+[[Hao Tsui]](https://www.youtube.com/user/gamerock/featured)
+[[MLT Artificial Intelligence]](https://www.youtube.com/c/MLTOKYO/featured)
+[[Databricks]](https://www.youtube.com/c/Databricks/featured)
+[[TensorFlow]](https://www.youtube.com/c/TensorFlow/featured)
+[[Daniel Bourke]](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
 
-### Professors Data Science
+### Data Science Lectures (EN-US)
 [[Stanford]](https://www.youtube.com/user/StanfordUniversity)
 [[stanfordonline]](https://www.youtube.com/user/stanfordonline)
 [[Stanford MLSys Seminars]](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
@@ -237,8 +246,10 @@ All study materials used by me to learn data science divided by topics
 [[Neurotech Berkeley]](https://www.youtube.com/channel/UC0X69hdu_1U_KBwSxZndswQ)
 [[Dynamic Vision and Learning Group]](https://www.youtube.com/channel/UCQVCsX1CcZQr0oUMZg6szIQ/featured)
 [[Deep Mind]](https://www.youtube.com/c/DeepMind/featured)
+[[Prof Dr - Ing Morris Riedel]](https://www.youtube.com/channel/UCWC4VKHmL4NZgFfKoHtANKg)
+[[MITCBMM]](https://www.youtube.com/c/MITCBMM/featured)
 
-### Kagglers
+### Kagglers (EN-US)
 [[Kaggle]](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA)
 [[Abhishek Thakur]](https://www.youtube.com/c/AbhishekThakurAbhi/featured)
 [[Learn Data Science]](https://www.youtube.com/channel/UCJhW_16uxALr0X4olEW2p5A)
@@ -246,7 +257,7 @@ All study materials used by me to learn data science divided by topics
 [[Aladdin Persson]](https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ)
 [[Chai Time Data Science]](https://www.youtube.com/playlist?list=PLLvvXm0q8zUZL0vL-XflubRioHlQ4fGpr)
 
-### Brazilian Programming
+### Programming (PT-BR)
 [[Eduardo Mendes]](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
 [[Python Pro]](https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g)
 [[Full Cycle]](https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA)
@@ -259,16 +270,18 @@ All study materials used by me to learn data science divided by topics
 [[R Dicas]](https://www.youtube.com/channel/UCOcUhsDTNeSIH5J-prbqF-g)
 [[Curso-R]](https://www.youtube.com/channel/UCTXuqtCYxPVEehq6fJY9GkA)
 
-### Brazilian Data Engineering
+### Data Engineering (PT-BR)
+[[Luan Moreno M. Maciel]](https://www.youtube.com/user/LuanMorenoDBA)
+[[Rodrigo teORiA]](https://www.youtube.com/channel/UCPFWpDjqTzDEyCW-UyuJUIQ)
 [[Meetup Engenharia de Dados]](https://www.youtube.com/channel/UC0_nJhInHhTninezAdaLoJw)
 [[Data Engineering Academy]](https://www.youtube.com/channel/UCEAm51EWxMEqOMpixh3kbUg)
 [[Big Data Masters]](https://www.youtube.com/channel/UCPKsBRBdzTTmXaaQqw5XZjg)
 [[Inovação com dados em nuvem]](https://www.youtube.com/channel/UClE5mMctgWyvPot9TDIJ1DQ)
-[[Luan Moreno M. Maciel]](https://www.youtube.com/user/LuanMorenoDBA)
 [[Seattle Data Guy]](https://www.youtube.com/c/SeattleDataGuy/featured)
-[[Rodrigo teORiA]](https://www.youtube.com/channel/UCPFWpDjqTzDEyCW-UyuJUIQ)
+[[Cloud9 Lessons]](https://www.youtube.com/channel/UC0r2tIsf6BUQfgKWqgMj8-g/featured)
+[[Sidney Cirqueira]](https://www.youtube.com/c/SidneyCirqueira/featured)
 
-### Brazilian Community
+### Brazil Community (PT-BR)
 [[AI Brasil Community]](https://www.youtube.com/channel/UCS5QayXigvan2fIDGN8UfpQ)
 [[School of AI São Paulo]](https://www.youtube.com/channel/UCcQgGC19k35ayQNsspyyBhQ)
 [[Comunidade IA Rio Preto]](https://www.youtube.com/channel/UCbG5M-UpC8EdFF01_VF7p9Q)
@@ -278,7 +291,7 @@ All study materials used by me to learn data science divided by topics
 [[Escola Livre de Inteligência Artificial]](https://www.youtube.com/channel/UCLsS3dxDbu5uWcCJQxNdt9Q)
 [[Data Hackers]](https://www.youtube.com/channel/UCISrteT3SsMdSkoPWYJ2fGA)
 
-### Brazilian Professors Statistics
+### Statistics Lectures (PT-BR)
 [[Cientística & Podcast Naruhodo]](https://www.youtube.com/channel/UCPzA7lZCeFiafe9V9bamISw)
 [[Gustavo Ferreira]](https://www.youtube.com/channel/UCFMcLFLQJFJH1r3MWTGDNxw)
 [[Marcelino Silva]](https://www.youtube.com/channel/UC0x2qjRBmcu0fwfgOj39CTA)
@@ -291,7 +304,7 @@ All study materials used by me to learn data science divided by topics
 [[Montvero Consultoria e Treinamento]](https://www.youtube.com/channel/UCMsRhszr6pKq9HZ4dgqzpQA)
 [[Letícia Raposo]](https://www.youtube.com/channel/UCFGJbW7aWOdj2iVluprCexA)
 
-### Brazilian Professors Computer Science
+### Computer Science Lectures (PT-BR)
 [[Laboratory of Systems Engineering and Robotics]](https://www.youtube.com/channel/UCasL81jvEq4mG9aVnrjBRAQ)
 [[Ewerton Salvador]](https://www.youtube.com/channel/UCdcmKc-M2oipT3z1yo77x9g)
 [[Instituto de Informática UFG]](https://www.youtube.com/c/InstitutodeInform%C3%A1ticaUFG/videos)
@@ -299,12 +312,12 @@ All study materials used by me to learn data science divided by topics
 [[Prof. Ademir Dorneles]](https://www.youtube.com/c/AdemirDorneles/playlists)
 [[Laboratório HiPES]](https://www.youtube.com/channel/UCMnH7BeYu-EOSonajTRqoDg/playlists)
 
-### Quantitative Trading
+### Quantitative Trading (PT-BR)
 [[Outspoken Market]](https://www.youtube.com/channel/UCRN2uKmqOkShT6v0nVnmcGw)
 [[Código Quant - Finanças Quantitativas]](https://www.youtube.com/channel/UCzCrdOO2GLYVnNhZUvG03lg)
 [[Trading com Dados]](https://www.youtube.com/channel/UCm09WHp3LHA5Wlf2lH-Oisg)
 
-### Several Tutorials
+### Several Tutorials (EN-US)
 [[edureka!]](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
 [[Geek's Lesson]](https://www.youtube.com/channel/UCKXx22vOENUyHrVAADq7Z_g)
 [[Intellipaat]](https://www.youtube.com/channel/UCCktnahuRFYIBtNnKT5IYyg)
