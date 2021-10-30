@@ -583,7 +583,7 @@ All study materials used by me to learn data science divided by topics
 **[⬆ Back to top](#learning-data-science)**
 
 ## CheatSheets
-[CheatSheets Repository](https://github.com/andreyolv/cheatsheets)
+[My Repository](https://drive.google.com/drive/folders/1jJDxicAo0r7SId-sDxZEFuwVcu3jQr2R?usp=sharing)
 
 **[⬆ Back to top](#learning-data-science)**
 
@@ -595,7 +595,7 @@ All study materials used by me to learn data science divided by topics
 **[⬆ Back to top](#learning-data-science)**
 
 ## Papers
-[Papers Repository](https://github.com/andreyolv/papers)
+[My Repository](https://drive.google.com/drive/folders/1wxhd7RakpsasLY9kaeRH7ToMSyetQ9WX?usp=sharing)
 
 [paperswithcode](https://paperswithcode.com/sota)
 
