@@ -369,6 +369,7 @@ All study materials used by me to learn data science divided by topics
 [[Scikit-plot]](https://scikit-plot.readthedocs.io/en/stable/Quickstart.html)
 [[Yellowbrick]](https://www.scikit-yb.org/en/latest/quickstart.html)
 [[Altair]](https://altair-viz.github.io/gallery/index.html)
+[[bokeh]](https://docs.bokeh.org/en/latest/docs/gallery.html)
 
 ### Statistics
 [[statsmodels]](https://www.statsmodels.org/devel/examples/index.html)
