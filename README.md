@@ -412,6 +412,9 @@ All study materials used by me to learn data science divided by topics
 [[cvlib]](https://www.cvlib.net/)
 [[timm]](https://rwightman.github.io/pytorch-image-models/models/)
 
+### Audio
+[[librosa]](https://librosa.org/doc/latest/tutorial.html#quickstart)
+
 ### SQL
 [[SQLAlchemy]](https://www.sqlalchemy.org/)
 [[PyMongo]](https://pymongo.readthedocs.io/en/stable/)
