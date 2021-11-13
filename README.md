@@ -414,6 +414,7 @@ All study materials used by me to learn data science divided by topics
 
 ### Audio
 [[librosa]](https://librosa.org/doc/latest/tutorial.html#quickstart)
+[[nnAudio]](https://kinwaicheuk.github.io/nnAudio/_autosummary/nnAudio.Spectrogram.html)
 
 ### SQL
 [[SQLAlchemy]](https://www.sqlalchemy.org/)
