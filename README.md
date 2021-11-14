@@ -233,6 +233,7 @@ All study materials used by me to learn data science divided by topics
 [[Databricks]](https://www.youtube.com/c/Databricks/featured)
 [[TensorFlow]](https://www.youtube.com/c/TensorFlow/featured)
 [[Daniel Bourke]](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
+[[H2O.ai]](https://www.youtube.com/c/H2Oai/featured)
 
 ### Data Science Lectures (EN-US)
 [[Stanford]](https://www.youtube.com/user/StanfordUniversity)
