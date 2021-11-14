@@ -412,6 +412,9 @@ All study materials used by me to learn data science divided by topics
 [[cvlib]](https://www.cvlib.net/)
 [[timm]](https://rwightman.github.io/pytorch-image-models/models/)
 
+### Reinforcement Learning
+[[Stable-Baselines3]]
+
 ### Audio
 [[librosa]](https://librosa.org/doc/latest/tutorial.html#quickstart)
 [[nnAudio]](https://kinwaicheuk.github.io/nnAudio/_autosummary/nnAudio.Spectrogram.html)
