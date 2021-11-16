@@ -443,6 +443,7 @@ All study materials used by me to learn data science divided by topics
 [[Backtrader]](https://www.backtrader.com/docu/quickstart/quickstart/)
 [[investpy]](https://investpy.readthedocs.io/_info/usage.html)
 [[QuantStats]](https://github.com/ranaroussi/quantstats)
+[[vectorbt]](https://vectorbt.dev/docs/index.html)
 
 ### Telegram
 [[pyTelegramBotAPI]](https://pypi.org/project/pyTelegramBotAPI/)
@@ -604,6 +605,8 @@ All study materials used by me to learn data science divided by topics
 [[Python Notes for Professionals]](https://bratliservice.eu/doc/PythonNotesForProfessionals.pdf)
 
 [[Learning pandas]](https://riptutorial.com/Download/pandas.pdf)
+
+[[Natural Language Processing with Python]](https://www.nltk.org/book_1ed/)
 
 **[⬆ Back to top](#learning-data-science)**
 
