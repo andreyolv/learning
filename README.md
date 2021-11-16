@@ -156,6 +156,10 @@ All study materials used by me to learn data science divided by topics
 
 [Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
 
+[Hands-on Machine Learning with AWS and NVIDIA](https://www.coursera.org/learn/machine-learning-aws-nvidia)
+
+[How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
+
 ### Udemy Courses
 [Python programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
 
@@ -181,7 +185,11 @@ All study materials used by me to learn data science divided by topics
 
 [TensorFlow Developer Certificate in 2021: Zero to Mastery - ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
+[A deep understanding of deep learning (with Python intro)](https://www.udemy.com/course/deeplearning_x/)
+
 [Apache Kafka Series - Learn Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/)
+
+[The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
 **[⬆ Back to top](#learning-data-science)**
 
@@ -234,6 +242,7 @@ All study materials used by me to learn data science divided by topics
 [[TensorFlow]](https://www.youtube.com/c/TensorFlow/featured)
 [[Daniel Bourke]](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
 [[H2O.ai]](https://www.youtube.com/c/H2Oai/featured)
+[[Aladdin Persson]](https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ)
 
 ### Data Science Lectures (EN-US)
 [[Stanford]](https://www.youtube.com/user/StanfordUniversity)
@@ -255,10 +264,9 @@ All study materials used by me to learn data science divided by topics
 ### Kagglers (EN-US)
 [[Kaggle]](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA)
 [[Abhishek Thakur]](https://www.youtube.com/c/AbhishekThakurAbhi/featured)
+[[Chai Time Data Science]](https://www.youtube.com/playlist?list=PLLvvXm0q8zUZL0vL-XflubRioHlQ4fGpr)
 [[Learn Data Science]](https://www.youtube.com/channel/UCJhW_16uxALr0X4olEW2p5A)
 [[NYC Data Science Academy]](https://www.youtube.com/channel/UCWElRq0YXcjo4YJD0TNPh5g)
-[[Aladdin Persson]](https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ)
-[[Chai Time Data Science]](https://www.youtube.com/playlist?list=PLLvvXm0q8zUZL0vL-XflubRioHlQ4fGpr)
 
 ### Programming (PT-BR)
 [[Eduardo Mendes]](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
@@ -280,9 +288,13 @@ All study materials used by me to learn data science divided by topics
 [[Data Engineering Academy]](https://www.youtube.com/channel/UCEAm51EWxMEqOMpixh3kbUg)
 [[Big Data Masters]](https://www.youtube.com/channel/UCPKsBRBdzTTmXaaQqw5XZjg)
 [[Inovação com dados em nuvem]](https://www.youtube.com/channel/UClE5mMctgWyvPot9TDIJ1DQ)
+[[Sidney Cirqueira]](https://www.youtube.com/c/SidneyCirqueira/featured)
+[[Rafael Andrade]](https://www.youtube.com/channel/UCyFktIP0OmZDoIobmbEnyQQ)
+
+### Data Engineering (EN-US)
 [[Seattle Data Guy]](https://www.youtube.com/c/SeattleDataGuy/featured)
 [[Cloud9 Lessons]](https://www.youtube.com/channel/UC0r2tIsf6BUQfgKWqgMj8-g/featured)
-[[Sidney Cirqueira]](https://www.youtube.com/c/SidneyCirqueira/featured)
+[[Adam Marczak - Azure for Everyone]](https://www.youtube.com/c/Azure4Everyone/featured)
 
 ### Brazil Community (PT-BR)
 [[AI Brasil Community]](https://www.youtube.com/channel/UCS5QayXigvan2fIDGN8UfpQ)
@@ -415,7 +427,7 @@ All study materials used by me to learn data science divided by topics
 [[timm]](https://rwightman.github.io/pytorch-image-models/models/)
 
 ### Reinforcement Learning
-[[Stable-Baselines3]]
+[[Stable-Baselines3]]()
 
 ### Audio
 [[librosa]](https://librosa.org/doc/latest/tutorial.html#quickstart)
