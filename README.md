@@ -584,6 +584,8 @@ All study materials used by me to learn data science divided by topics
 
 [Approaching (Almost) Any NLP Problem on Kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
 
+[Practical time series](https://www.kaggle.com/konradb/practical-time-series-pt-1-the-basics)
+
 [Kaggle Solutions](https://farid.one/kaggle-solutions/)
 
 **[⬆ Back to top](#learning-data-science)**
