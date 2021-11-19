@@ -362,6 +362,7 @@ All study materials used by me to learn data science divided by topics
 [[pandas-datareader]](https://pydata.github.io/pandas-datareader/remote_data.html)
 [[klib]](https://klib.readthedocs.io/en/latest/)
 [[Imbalanced-learn]](https://imbalanced-learn.org/stable/user_guide.html)
+[[bamboolib]](https://docs.bamboolib.8080labs.com/documentation/getting-started)
 
 ### Machine Learning
 [[scikit-learn]](https://scikit-learn.org/stable/user_guide.html)
@@ -372,6 +373,7 @@ All study materials used by me to learn data science divided by topics
 [[baikal]](https://baikal.readthedocs.io/en/stable/index.html)
 [[scikit-optimize]](https://scikit-optimize.github.io/stable/auto_examples/index.html)
 [[NGBoost]](https://stanfordmlgroup.github.io/ngboost/1-useage.html)
+[[xLearn]](https://xlearn-doc.readthedocs.io/en/latest/python_api/index.html)
 
 ### Visualization
 [[matplotlib]](https://matplotlib.org/stable/gallery/index.html)
@@ -405,6 +407,8 @@ All study materials used by me to learn data science divided by topics
 [[TensorFlow]](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
 [[PyTorch]](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 [[Keras]](https://keras.io/api/)
+[[fastai]]()
+[[PyTorch Lightning]]()
 
 ### Natural Language Processing
 [[NLTK]](https://www.nltk.org/api/nltk.html)
@@ -414,6 +418,7 @@ All study materials used by me to learn data science divided by topics
 [[Googletrans]](https://py-googletrans.readthedocs.io/en/latest/)
 [[BERTopic]](https://maartengr.github.io/BERTopic/tutorial/quickstart/quickstart.html)
 [[TextBlob]](https://textblob.readthedocs.io/en/dev/quickstart.html)
+[[FlashText]](https://flashtext.readthedocs.io/en/latest/)
 
 ### Computer Vision
 [[pillow]](https://pillow.readthedocs.io/en/stable/reference/index.html)
@@ -493,6 +498,7 @@ All study materials used by me to learn data science divided by topics
 ### Time Series
 [[Prophet]](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
 [[AutoTS]](https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html)
+[[PyFlux]](https://pyflux.readthedocs.io/en/latest/getting_started.html)
 
 ### Extensions
 [[jupyter_contrib_nbextensions]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
