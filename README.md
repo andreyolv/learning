@@ -293,7 +293,6 @@ All study materials used by me to learn data science divided by topics
 
 ### Data Engineering (EN-US)
 [[Seattle Data Guy]](https://www.youtube.com/c/SeattleDataGuy/featured)
-[[Cloud9 Lessons]](https://www.youtube.com/channel/UC0r2tIsf6BUQfgKWqgMj8-g/featured)
 [[Adam Marczak - Azure for Everyone]](https://www.youtube.com/c/Azure4Everyone/featured)
 
 ### Brazil Community (PT-BR)
