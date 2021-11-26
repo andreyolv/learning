@@ -194,7 +194,7 @@ All study materials used by me to learn data science divided by topics
 **[⬆ Back to top](#learning-data-science)**
 
 ## Youtube
-[[List Youtube Channels]](https://docs.google.com/spreadsheets/d/16SqUaSPoh1m5AQPupoO7eCCBPUDsVcgnLB4NHpkkZnE/edit?usp=sharing)
+[[List Youtube Channels]]()
 
 **[⬆ Back to top](#learning-data-science)**
 
