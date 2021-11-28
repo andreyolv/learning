@@ -191,6 +191,14 @@ All study materials used by me to learn data science divided by topics
 
 [The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
+[Scrum Master Certification: Full Preparatory Course](https://www.udemy.com/course/formacao-total-em-scrum/)
+
+[MLOps Fundamentals: CI/CD/CT Pipelines of ML with Azure Demo](https://www.udemy.com/course/mlops-course/)
+
+[Data Science- Project Management Methodology - CRISP-DM](https://www.udemy.com/course/data-science-project-management-methodology-crisp-dm/)
+
+[Azure Kubernetes Service with Azure DevOps and Terraform](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
+
 **[⬆ Back to top](#learning-data-science)**
 
 ## Youtube
