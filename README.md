@@ -160,8 +160,6 @@ All study materials used by me to learn data science divided by topics
 
 ### Coursera Courses
 
-[Hands-on Machine Learning with AWS and NVIDIA](https://www.coursera.org/learn/machine-learning-aws-nvidia)
-
 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
 
 ### Udemy Courses
