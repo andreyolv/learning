@@ -124,7 +124,7 @@ All study materials used by me to learn data science divided by topics
 
 [CS329S Machine Learning Systems Design, Stanford University, Seminar Series.](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
 
-### Other University Courses
+### Others University Lectures
 [Cloud Computing and Big Data, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwXodrHuOJhPWy6O2wezXXLh)
 
 [High Performance Computing, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwVnlrIPjrfSn7QRcv3wIQj5)
@@ -155,6 +155,10 @@ All study materials used by me to learn data science divided by topics
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
 
 [Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
+
+[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+
+### Coursera Courses
 
 [Hands-on Machine Learning with AWS and NVIDIA](https://www.coursera.org/learn/machine-learning-aws-nvidia)
 
@@ -523,9 +527,11 @@ All study materials used by me to learn data science divided by topics
 **[⬆ Back to top](#learning-data-science)**
 
 ## Sites
-[[https://www.statskingdom.com]](https://www.statskingdom.com)
-[[https://strftime.org]](https://strftime.org)
-[[https://regexr.com]](https://regexr.com)
+[[statskingdom]](https://www.statskingdom.com)
+[[strftime]](https://strftime.org)
+[[regexr]](https://regexr.com)
 [[CBMM]](https://cbmm.mit.edu/education/courses)
+[[ML Ops]](https://ml-ops.org/)
+[[Made With ML]](https://madewithml.com/)
 
 **[⬆ Back to top](#learning-data-science)**
