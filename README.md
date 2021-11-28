@@ -231,6 +231,7 @@ All study materials used by me to learn data science divided by topics
 [[scikit-optimize]](https://scikit-optimize.github.io/stable/auto_examples/index.html)
 [[NGBoost]](https://stanfordmlgroup.github.io/ngboost/1-useage.html)
 [[xLearn]](https://xlearn-doc.readthedocs.io/en/latest/python_api/index.html)
+[[libFM]](https://github.com/jfpuget/LibFM_in_Keras/blob/master/keras_blog.ipynb)
 
 ### Visualization
 [[matplotlib]](https://matplotlib.org/stable/gallery/index.html)
@@ -389,11 +390,16 @@ All study materials used by me to learn data science divided by topics
 
 ### Tracking
 [[Aim]](https://aimstack.readthedocs.io/en/latest/quick_start/3_steps.html)
+[[Neptune.ai]]
 [[MLflow]]()
 [[Weights & Biases]]()
 
 ### Cloud Computing
 [[AWS]](https://docs.aws.amazon.com/)
+
+### GPU
+[[CUDA]]
+[[RAPIDS]]
 
 ### Versioning
 [[Git]]()
@@ -412,9 +418,13 @@ All study materials used by me to learn data science divided by topics
 
 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
+[Aweome Deep Learning Projects](https://github.com/wandb/awesome-dl-projects/blob/master/README.md)
+
 [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
 [Awesome MLops](https://github.com/visenger/awesome-mlops)
+
+[Awesome MLOps](https://github.com/kelvins/awesome-mlops)
 
 [Awesome Holistic 3D Reconstruction](https://github.com/holistic-3d/awesome-holistic-3d)
 
@@ -484,6 +494,8 @@ All study materials used by me to learn data science divided by topics
 [[Learning pandas]](https://riptutorial.com/Download/pandas.pdf)
 
 [[Natural Language Processing with Python]](https://www.nltk.org/book_1ed/)
+
+[[The Big Book of Data Engineering]](https://databricks.com/wp-content/uploads/2021/10/Big-Book-of-Data-Engineering-Final.pdf)
 
 **[⬆ Back to top](#learning-data-science)**
 
