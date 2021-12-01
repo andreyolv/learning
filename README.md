@@ -368,14 +368,22 @@ All study materials used by me to learn data science divided by topics
 [[AutoTS]](https://winedarksea.github.io/AutoTS/build/html/source/tutorial.html)
 [[PyFlux]](https://pyflux.readthedocs.io/en/latest/getting_started.html)
 
+### GPU
+[[CUDA]]
+[[RAPIDS]]
+
 ### Extensions
 [[jupyter_contrib_nbextensions]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
 [[ipynb]](https://github.com/ipython/ipynb)
 
 ## Data Engineering
 ### SQL Database
+[[MySQL]](https://dev.mysql.com/doc/refman/8.0/en/)
+[[PostgreSQL]](https://www.postgresql.org/docs/current/)
 
 ### NoSQL Database
+[[MongoDB]](https://docs.mongodb.com/manual/)
+[[Redis]](https://redis.io/documentation)
 
 ### Cluster Storage
 [[Hadoop]](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
@@ -383,10 +391,6 @@ All study materials used by me to learn data science divided by topics
 ### Cluster Storage Manipulation
 [[Hive]]()
 [[HBase]]()
-
-### Cluster Management
-[[Ambari]]()
-[[Kubernetes]]()
 
 ### Cluster Processing
 [[Spark]](https://spark.apache.org/docs/latest/api/python/getting_started/index.html)
@@ -398,24 +402,26 @@ All study materials used by me to learn data science divided by topics
 [[Flume]]()
 [[NiFi]]()
 
-### Tracking
-[[Aim]](https://aimstack.readthedocs.io/en/latest/quick_start/3_steps.html)
-[[Neptune.ai]]
-[[MLflow]]()
-[[Weights & Biases]]()
-
 ### Cloud Computing
 [[AWS]](https://docs.aws.amazon.com/)
+[[GCP]]
+[[Azure]]
 
-### GPU
-[[CUDA]]
-[[RAPIDS]]
-
+## MLOps
 ### Versioning
 [[Git]]()
 
 ### Container 
 [[Docker]]()
+
+### Container Management
+[[Kubernetes]]()
+
+### Tracking
+[[Aim]](https://aimstack.readthedocs.io/en/latest/quick_start/3_steps.html)
+[[Neptune.ai]]
+[[MLflow]]()
+[[Weights & Biases]]()
 
 **[⬆ Back to top](#learning-data-science)**
 
