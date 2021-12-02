@@ -8,7 +8,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 * [Coursera Programs](#coursera programs)
 * [Udemy](#udemy courses)
 * [Others Courses](#other courses)
-* [Python Libraries](#pythonlibraries)
+* [Python Libraries](#python_libraries)
 * [Githubs](#githubs)
 * [Kaggle](#kaggle)
 * [Projects](#projects)
