@@ -2,19 +2,24 @@
 
 All study materials used by me to learn data science divided by topics
 
-* [MOOCs](#moocs)
-* [Youtube](#youtube)
+* [Free Brazilian University Lectures](#lectures)
+* [Free Stanford University Lectures](#stanford)
+* [Others University Lectures](#otherslectures)
+* [Coursera](#coursera)
+* [Udemy](#udemy)
+* [Others Courses](#othercourses)
 * [Libraries](#libraries)
 * [Githubs](#githubs)
 * [Kaggle](#kaggle)
 * [Projects](#projects)
+* [Youtube](#youtube)
 * [Podcasts](#podcasts)
 * [Cheatsheets](#cheatsheets)
 * [Books](#books)
 * [Papers](#papers)
 * [Sites](#sites)
 
-## MOOCs
+## Free Brazilian University Lectures (PT-BR)
 ### Mathematics
 [Calculus I, UNIVESP (Virtual University of the State of São Paulo), Prof. Cláudio Possani](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 
@@ -101,7 +106,9 @@ All study materials used by me to learn data science divided by topics
 
 [Natural Language Processing, UFMG (Federal University of Minas Gerais), Prof. Adriana Pagano, Evandro L.T.P. Cunha, Thiago Castro Ferreira](https://www.youtube.com/playlist?list=PLt2qoMeOJsQyAklWpREY5ivAUe3jrrR21)
 
-### Stanford University
+**[⬆ Back to top](#learning)**
+
+## Stanford University (EN-US)
 [EE104: Introduction to Machine Learning, Stanford University, Prof. Sanjay Lall](https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK)
 
 [CS221 Artificial Intelligence: Principles and Techniques, Stanford University, Prof. Percy Liang](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
@@ -124,7 +131,9 @@ All study materials used by me to learn data science divided by topics
 
 [CS329S Machine Learning Systems Design, Stanford University, Seminar Series.](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
 
-### Others University Lectures
+**[⬆ Back to top](#learning)**
+
+## Others University Lectures (EN-US)
 [Cloud Computing and Big Data, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwXodrHuOJhPWy6O2wezXXLh)
 
 [High Performance Computing, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwVnlrIPjrfSn7QRcv3wIQj5)
@@ -135,8 +144,10 @@ All study materials used by me to learn data science divided by topics
 
 [Deep Learning for Computer Vision, University of Michigan, Prof. Justin Johnson](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
-### Coursera Programs
-#### DeepLearning.AI
+**[⬆ Back to top](#learning)**
+
+## Coursera Programs (EN-US)
+### DeepLearning.AI
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses)
 
 [Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans#courses)
@@ -155,21 +166,23 @@ All study materials used by me to learn data science divided by topics
 
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
 
-#### Google
+### Google
 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 [Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
 
 [Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
-#### Databricks
+### Databricks
 [Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
 
-### Coursera Courses
+## Coursera Courses
 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
 
-### Udemy Courses
-#### Programming
+**[⬆ Back to top](#learning)**
+
+## Udemy Courses
+### Programming (PT-BR)
 [Python programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
 
 [Concurrent and Asynchronous Programming with Python](https://www.udemy.com/course/programacao-concorrente-e-assincrona-com-python/)
@@ -182,55 +195,60 @@ All study materials used by me to learn data science divided by topics
 
 [JavaScript programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/)
 
-#### Data Science
+### Data Science (EN-US)
 [TensorFlow Developer Certificate in 2021: Zero to Mastery - ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
 [A deep understanding of deep learning (with Python intro)](https://www.udemy.com/course/deeplearning_x/)
 
 [PyTorch: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/pytorch-deep-learning/)
 
-#### Data Engineering
+### Data Engineering (PT-BR)
 [SQL and NoSQL Database from basic to advanced](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/)
 
-[The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
-
-[Apache Kafka Series - Learn Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/)
-
-#### AWS
 [Amazon Web Services (AWS): Essential](https://www.udemy.com/course/amazon-web-services-essencial/)
 
-[Ultimate AWS Certified Cloud Practitioner - 2021](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
-
-[Ultimate AWS Certified Solutions Architect Associate 2021](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
-
-[AWS Certified Machine Learning Specialty 2021 - Hands On!](https://www.udemy.com/course/aws-machine-learning/)
-
-#### Azure
-[Azure Databricks & Spark Core For Data Engineers(Python/SQL)](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
-
-[Data Engineering using Databricks on AWS and Azure](https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/)
-
-[Azure Kubernetes Service with Azure DevOps and Terraform](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
-
-#### MLOps
+### Data Engineering (EN-US)
 [Git and Github Essential for the Developer](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
 
 [Developer Essential Docker](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
 
 [Container Orchestration with Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
 
+[The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
+
+[Apache Kafka Series - Learn Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/)
+
+### AWS (EN-US)
+[Ultimate AWS Certified Cloud Practitioner - 2021](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+
+[Ultimate AWS Certified Solutions Architect Associate 2021](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
+
+[AWS Certified Machine Learning Specialty 2021 - Hands On!](https://www.udemy.com/course/aws-machine-learning/)
+
+### Azure (EN-US)
+[Azure Databricks & Spark Core For Data Engineers(Python/SQL)](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
+
+[Data Engineering using Databricks on AWS and Azure](https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/)
+
+[Azure Kubernetes Service with Azure DevOps and Terraform](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
+
+### MLOps (EN-US)
 [Scrum Master Certification: Full Preparatory Course](https://www.udemy.com/course/formacao-total-em-scrum/)
 
 [MLOps Fundamentals: CI/CD/CT Pipelines of ML with Azure Demo](https://www.udemy.com/course/mlops-course/)
 
 [Data Science- Project Management Methodology - CRISP-DM](https://www.udemy.com/course/data-science-project-management-methodology-crisp-dm/)
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
 
-## Youtube
-[[List Youtube Channels]]()
+## Others Courses
+[Python Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos)
 
-**[⬆ Back to top](#learning-data-science)**
+[Formação Cientista de Dados](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
+
+[Formação Engenheiro de Dados](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados)
+
+**[⬆ Back to top](#learning)**
 
 ## Libraries
 ### Python
@@ -447,7 +465,7 @@ All study materials used by me to learn data science divided by topics
 [[MLflow]]()
 [[Weights & Biases]]()
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
 
 ## Githubs
 [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
@@ -482,7 +500,7 @@ All study materials used by me to learn data science divided by topics
 
 [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes/tree/main/pt)
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
 
 ## Kaggle
 [The Best Tutorial for Beginners](https://www.kaggle.com/getting-started/71679)
@@ -501,7 +519,7 @@ All study materials used by me to learn data science divided by topics
 
 [Kaggle Solutions](https://farid.one/kaggle-solutions/)
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
 
 ## Projects
 [500 + Artificial Intelligence Project List with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
@@ -512,7 +530,12 @@ All study materials used by me to learn data science divided by topics
 
 [Pysource](https://pysource.com/blog/)
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
+
+## Youtube
+[[List Youtube Channels]]()
+
+**[⬆ Back to top](#learning)**
 
 ## Podcasts
 [Data Hackers](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82ZDFlZTM0L3BvZGNhc3QvcnNz?sa=X&ved=0CA4Q9sEGahcKEwjI3oaLrb7zAhUAAAAAHQAAAAAQAQ)
@@ -521,12 +544,12 @@ All study materials used by me to learn data science divided by topics
 
 [Engenharia de Dados [Cast]](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNjQyNzExLnJzcw?sa=X&ved=0CAsQ9sEGahcKEwjI3oaLrb7zAhUAAAAAHQAAAAAQAQ)
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
 
 ## CheatSheets
 [My Repository](https://drive.google.com/drive/folders/1jJDxicAo0r7SId-sDxZEFuwVcu3jQr2R?usp=sharing)
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
 
 ## Books
 [[Python Notes for Professionals]](https://bratliservice.eu/doc/PythonNotesForProfessionals.pdf)
@@ -537,7 +560,7 @@ All study materials used by me to learn data science divided by topics
 
 [[The Big Book of Data Engineering]](https://databricks.com/wp-content/uploads/2021/10/Big-Book-of-Data-Engineering-Final.pdf)
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
 
 ## Papers
 [My Repository](https://drive.google.com/drive/folders/1wxhd7RakpsasLY9kaeRH7ToMSyetQ9WX?usp=sharing)
@@ -552,7 +575,7 @@ All study materials used by me to learn data science divided by topics
 
 [Kaggle Reading Group - Kaggle](https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
 
 ## Sites
 [[statskingdom]](https://www.statskingdom.com)
@@ -562,4 +585,4 @@ All study materials used by me to learn data science divided by topics
 [[ML Ops]](https://ml-ops.org/)
 [[Made With ML]](https://madewithml.com/)
 
-**[⬆ Back to top](#learning-data-science)**
+**[⬆ Back to top](#learning)**
