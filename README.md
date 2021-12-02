@@ -1,14 +1,14 @@
-# Learning Data Science
+# Learning
 
-All study materials used by me to learn data science divided by topics
+All study materials used by me to learn Data Science, Machine Learning, Deep Learning, Data Engineering, MLOps, Big Data.
 
-* [Free Brazilian University Lectures](#lectures)
-* [Free Stanford University Lectures](#stanford)
-* [Others University Lectures](#otherslectures)
-* [Coursera](#coursera)
-* [Udemy](#udemy)
-* [Others Courses](#othercourses)
-* [Libraries](#libraries)
+* [Free Brazilian University Lectures](#free brazilian university lectures)
+* [Free Stanford University Lectures](#free stanford university lectures)
+* [Others University Lectures](#others university lectures)
+* [Coursera Programs](#coursera programs)
+* [Udemy](#udemy courses)
+* [Others Courses](#other courses)
+* [Python Libraries](#libraries)
 * [Githubs](#githubs)
 * [Kaggle](#kaggle)
 * [Projects](#projects)
@@ -176,6 +176,8 @@ All study materials used by me to learn data science divided by topics
 ### Databricks
 [Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
 
+**[⬆ Back to top](#learning)**
+
 ## Coursera Courses
 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
 
@@ -250,7 +252,7 @@ All study materials used by me to learn data science divided by topics
 
 **[⬆ Back to top](#learning)**
 
-## Libraries
+## Python Libraries
 ### Python
 [[Python 3]](https://docs.python.org/3/library/index.html)
 [[re]](https://docs.python.org/3/library/re.html)
