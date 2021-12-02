@@ -136,6 +136,7 @@ All study materials used by me to learn data science divided by topics
 [Deep Learning for Computer Vision, University of Michigan, Prof. Justin Johnson](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 ### Coursera Programs
+#### DeepLearning.AI
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses)
 
 [Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans#courses)
@@ -154,26 +155,22 @@ All study materials used by me to learn data science divided by topics
 
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
 
-[Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
-
+#### Google
 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-### Coursera Courses
+[Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
 
+[Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+
+#### Databricks
+[Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
+
+### Coursera Courses
 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
 
 ### Udemy Courses
+#### Programming
 [Python programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
-
-[SQL and NoSQL Database from basic to advanced](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/)
-
-[Amazon Web Services (AWS): Essential](https://www.udemy.com/course/amazon-web-services-essencial/)
-
-[Git and Github Essential for the Developer](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
-
-[Developer Essential Docker](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
-
-[Container Orchestration with Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
 
 [Concurrent and Asynchronous Programming with Python](https://www.udemy.com/course/programacao-concorrente-e-assincrona-com-python/)
 
@@ -185,21 +182,48 @@ All study materials used by me to learn data science divided by topics
 
 [JavaScript programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/)
 
+#### Data Science
 [TensorFlow Developer Certificate in 2021: Zero to Mastery - ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
 [A deep understanding of deep learning (with Python intro)](https://www.udemy.com/course/deeplearning_x/)
 
-[Apache Kafka Series - Learn Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/)
+[PyTorch: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/pytorch-deep-learning/)
+
+#### Data Engineering
+[SQL and NoSQL Database from basic to advanced](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/)
 
 [The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
+
+[Apache Kafka Series - Learn Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/)
+
+#### AWS
+[Amazon Web Services (AWS): Essential](https://www.udemy.com/course/amazon-web-services-essencial/)
+
+[Ultimate AWS Certified Cloud Practitioner - 2021](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+
+[Ultimate AWS Certified Solutions Architect Associate 2021](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
+
+[AWS Certified Machine Learning Specialty 2021 - Hands On!](https://www.udemy.com/course/aws-machine-learning/)
+
+#### Azure
+[Azure Databricks & Spark Core For Data Engineers(Python/SQL)](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
+
+[Data Engineering using Databricks on AWS and Azure](https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/)
+
+[Azure Kubernetes Service with Azure DevOps and Terraform](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
+
+#### MLOps
+[Git and Github Essential for the Developer](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
+
+[Developer Essential Docker](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
+
+[Container Orchestration with Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
 
 [Scrum Master Certification: Full Preparatory Course](https://www.udemy.com/course/formacao-total-em-scrum/)
 
 [MLOps Fundamentals: CI/CD/CT Pipelines of ML with Azure Demo](https://www.udemy.com/course/mlops-course/)
 
 [Data Science- Project Management Methodology - CRISP-DM](https://www.udemy.com/course/data-science-project-management-methodology-crisp-dm/)
-
-[Azure Kubernetes Service with Azure DevOps and Terraform](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
 
 **[⬆ Back to top](#learning-data-science)**
 
