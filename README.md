@@ -197,6 +197,15 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [JavaScript programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/)
 
+### Software (PT-BR)
+[LPI Linux Essentials: Preparatório para a Certificação](https://www.udemy.com/course/lpi-linux-essentials/)
+
+[Git and Github Essential for the Developer](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
+
+[Developer Essential Docker](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
+
+[Container Orchestration with Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
+
 ### Data Science (EN-US)
 [TensorFlow Developer Certificate in 2021: Zero to Mastery - ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
@@ -210,12 +219,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Amazon Web Services (AWS): Essential](https://www.udemy.com/course/amazon-web-services-essencial/)
 
 ### Data Engineering (EN-US)
-[Git and Github Essential for the Developer](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
-
-[Developer Essential Docker](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
-
-[Container Orchestration with Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
-
 [The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
 [Apache Kafka Series - Learn Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/)
