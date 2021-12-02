@@ -19,7 +19,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 * [Papers](#papers)
 * [Sites](#sites)
 
-## Free-Brazilian-University-Lectures (PT-BR)
+## Free Brazilian University Lectures (PT-BR)
 ### Mathematics
 [Calculus I, UNIVESP (Virtual University of the State of São Paulo), Prof. Cláudio Possani](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 
