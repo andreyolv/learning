@@ -237,6 +237,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Azure Kubernetes Service with Azure DevOps and Terraform](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
 
+[DP-203: Data Engineering on Microsoft Azure + Practice Tests](https://www.udemy.com/course/dp200exam/)
+
 ### MLOps (EN-US)
 [Scrum Master Certification: Full Preparatory Course](https://www.udemy.com/course/formacao-total-em-scrum/)
 
