@@ -2,7 +2,7 @@
 
 All study materials used by me to learn Data Science, Machine Learning, Deep Learning, Data Engineering, MLOps, Big Data.
 
-* [Free Brazilian University Lectures (PT-BR)](#free-brazilian-university-lectures-(PT-BR))
+* [Free Brazilian University Lectures](#free-brazilian-university-lectures)
 * [Free Stanford University Lectures](#free-stanford-university-lectures)
 * [Others University Lectures](#others-university-lectures)
 * [Coursera Programs](#coursera-programs)
@@ -19,8 +19,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 * [Papers](#papers)
 * [Sites](#sites)
 
-## Free Brazilian University Lectures (PT-BR)
-### Mathematics
+## Free Brazilian University Lectures
+### Mathematics (PT-BR)
 [Calculus I, UNIVESP (Virtual University of the State of São Paulo), Prof. Cláudio Possani](https://www.youtube.com/playlist?list=PLxI8Can9yAHdCutIIiKca1wrkuRLvBhHs)
 
 [Calculus II, UNIVESP (Virtual University of the State of São Paulo), Prof. Cláudio Possani](https://www.youtube.com/playlist?list=PLxI8Can9yAHdMv9jKECvjfEaKXIoDEk-S)
@@ -33,7 +33,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [General Systems Theory and the Decision Making Process, IME (Military Engineering Institute), Prof. Marcos dos Santos](https://www.youtube.com/playlist?list=PLjdDBZW3EmXcbet9jxNFkj7-9zcrDHIuD)
 
-### Computer Science
+### Computer Science (PT-BR)
 [Computer Architecture I, UFBA (Federal University of Bahia), Prof. Ewerton Salvador](https://www.youtube.com/playlist?list=PLI1MB8Tq01IOh4F8vV6mZcuEtQnNfs3xF)
 
 [Computer Architecture II, UFBA (Federal University of Bahia), Prof. Alisson Brito](https://www.youtube.com/playlist?list=PLI1MB8Tq01IPPN7Ib6opZMhchmOXAPMZl)
@@ -52,7 +52,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Python Data Structure, Prof. Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
 
-### Statistics
+### Statistics (PT-BR)
 [Probability, ENCE (National School of Statistical Sciences), Prof. Gustavo Ferreira](https://www.youtube.com/playlist?list=PL5nbzsxqG2FOqyUPu_SHNFznUAuZMLCJI)
 
 [Introduction to Statistics, ENCE (National School of Statistical Sciences), Prof. Gustavo Ferreira](https://www.youtube.com/playlist?list=PL5nbzsxqG2FNVUNG9MA6eQZ1mZLIiRIm-)
@@ -75,7 +75,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Statistical Inference, UFABC (Federal University of ABC), Prof. Rodrigo Pavão](https://www.youtube.com/playlist?list=PLz5Z9KF2fJszRx6TJDvaMRMNecbAhfSNv)
 
-### Machine Learning
+### Machine Learning (PT-BR)
 [Introduction to Machine Learning, UTFPR (Federal Technological University of Paraná), Prof. Dalcimar Casanova](https://www.youtube.com/playlist?list=PL9At2PVRU0Zoa4_aFhnFDWFLyogcM1xpd)
 
 [Introduction to Deep Learning, UTFPR (Federal Technological University of Paraná), Prof. Dalcimar Casanova](https://www.youtube.com/playlist?list=PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2-)
@@ -108,7 +108,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 **[⬆ Back to top](#learning)**
 
-## Stanford University (EN-US)
+## Stanford University
 [EE104: Introduction to Machine Learning, Stanford University, Prof. Sanjay Lall](https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK)
 
 [CS221 Artificial Intelligence: Principles and Techniques, Stanford University, Prof. Percy Liang](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
@@ -133,7 +133,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 **[⬆ Back to top](#learning)**
 
-## Others University Lectures (EN-US)
+## Others University Lectures
 [Cloud Computing and Big Data, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwXodrHuOJhPWy6O2wezXXLh)
 
 [High Performance Computing, University of Iceland, Prof. Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwVnlrIPjrfSn7QRcv3wIQj5)
@@ -146,8 +146,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 **[⬆ Back to top](#learning)**
 
-## Coursera Programs (EN-US)
-### DeepLearning.AI
+## Coursera Programs
+### DeepLearning.AI (EN-US)
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses)
 
 [Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans#courses)
@@ -166,14 +166,14 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
 
-### Google
+### Google (EN-US)
 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 [Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
 
 [Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
-### Databricks
+### Databricks (EN-US)
 [Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
 
 **[⬆ Back to top](#learning)**
