@@ -3,7 +3,7 @@
 All study materials used by me to learn Data Science, Machine Learning, Deep Learning, Data Engineering, MLOps, Big Data.
 
 * [Free Brazilian University Lectures](#free&nbspbrazilian&nbspuniversity&nbsplectures)
-* [Free Stanford University Lectures](#free stanford university lectures)
+* [Free Stanford University Lectures](#free%stanford%university%lectures)
 * [Others University Lectures](#others university lectures)
 * [Coursera Programs](#coursera programs)
 * [Udemy](#udemy courses)
