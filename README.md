@@ -255,6 +255,10 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Formação Engenheiro de Dados](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados)
 
+[Google Certified Associate Cloud Engineer](https://acloudguru.com/course/google-certified-associate-cloud-engineer)
+
+[Google Certified Professional Data Engineer](https://acloudguru.com/course/google-certified-professional-data-engineer)
+
 **[⬆ Back to top](#learning)**
 
 ## Python Libraries
