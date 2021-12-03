@@ -447,6 +447,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### NoSQL Database
 [[MongoDB]](https://docs.mongodb.com/manual/)
 [[Redis]](https://redis.io/documentation)
+[[Cassandra]](https://cassandra.apache.org/doc/latest/)
 
 ### Cluster Storage
 [[Hadoop]](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
