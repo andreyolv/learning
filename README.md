@@ -431,6 +431,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### SQL Database
 [[MySQL]](https://dev.mysql.com/doc/refman/8.0/en/)
 [[PostgreSQL]](https://www.postgresql.org/docs/current/)
+[[SQLite]](https://www.sqlite.org/docs.html)
 
 ### NoSQL Database
 [[MongoDB]](https://docs.mongodb.com/manual/)
