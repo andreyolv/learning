@@ -8,7 +8,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 * [Coursera Programs](#coursera-programs)
 * [Udemy Courses](#udemy-courses)
 * [Others Courses](#others-courses)
-* [Python Libraries](#python-libraries)
+* [Documentations](#documentations)
 * [Githubs](#githubs)
 * [Kaggle](#kaggle)
 * [Projects](#projects)
@@ -259,9 +259,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 **[⬆ Back to top](#learning)**
 
-## Python Libraries
+## Documentations
 ### Python
-[[Python 3]](https://docs.python.org/3/library/index.html)
 [[re]](https://docs.python.org/3/library/re.html)
 [[datetime]](https://docs.python.org/3/library/datetime.html)
 [[collections]](https://docs.python.org/3/library/collections.html)
@@ -427,6 +426,18 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[jupyter_contrib_nbextensions]](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/index.html)
 [[ipynb]](https://github.com/ipython/ipynb)
 
+## Software
+[[Git]](https://git-scm.com/docs)
+[[Docker]](https://docs.docker.com/)
+[[Kubernetes]](https://kubernetes.io/docs/home/)
+
+## MLOps
+### Tracking
+[[Aim]](https://aimstack.readthedocs.io/en/latest/quick_start/3_steps.html)
+[[Neptune.ai]]()
+[[MLflow]](https://www.mlflow.org/docs/latest/index.html)
+[[Weights & Biases]]()
+
 ## Data Engineering
 ### SQL Database
 [[MySQL]](https://dev.mysql.com/doc/refman/8.0/en/)
@@ -449,31 +460,22 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Koalas]](https://koalas.readthedocs.io/en/latest/getting_started/10min.html)
 
 ### Data Pipeline / Integration
-[[Airflow]]()
+[[Airflow]](https://airflow.apache.org/docs/)
 [[Kafka]](https://kafka.apache.org/documentation/)
-[[Flume]]()
-[[NiFi]]()
 
 ### Cloud Computing
 [[AWS]](https://docs.aws.amazon.com/)
-[[GCP]]
-[[Azure]]
+[[GCP]](https://cloud.google.com/docs)
+[[Azure]](https://docs.microsoft.com/en-us/azure/?product=featured)
 
-## MLOps
-### Versioning
-[[Git]]()
+## Programming
+[[Python]](https://docs.python.org/3/library/index.html)
 
-### Container 
-[[Docker]]()
+[[HTML]](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[[CSS]](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[[JavaScript]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Container Management
-[[Kubernetes]]()
-
-### Tracking
-[[Aim]](https://aimstack.readthedocs.io/en/latest/quick_start/3_steps.html)
-[[Neptune.ai]]
-[[MLflow]]()
-[[Weights & Biases]]()
+[[YAML]](https://yaml.org/spec/1.2.2/)
 
 **[⬆ Back to top](#learning)**
 
@@ -588,6 +590,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Sites
+[[W3schools]](https://www.w3schools.com/)
 [[statskingdom]](https://www.statskingdom.com)
 [[strftime]](https://strftime.org)
 [[regexr]](https://regexr.com)
