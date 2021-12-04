@@ -228,6 +228,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Ultimate AWS Certified Solutions Architect Associate 2021](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
 
+[AWS Certified Data Analytics Specialty 2021 - Hands On!](https://www.udemy.com/course/aws-data-analytics/)
+
 [AWS Certified Machine Learning Specialty 2021 - Hands On!](https://www.udemy.com/course/aws-machine-learning/)
 
 ### Azure (EN-US)
@@ -439,6 +441,11 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Weights & Biases]]()
 
 ## Data Engineering
+### Cloud Computing
+[[Azure]](https://docs.microsoft.com/en-us/azure/?product=featured)
+[[AWS]](https://docs.aws.amazon.com/)
+[[GCP]](https://cloud.google.com/docs)
+
 ### SQL Database
 [[MySQL]](https://dev.mysql.com/doc/refman/8.0/en/)
 [[PostgreSQL]](https://www.postgresql.org/docs/current/)
@@ -484,11 +491,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Visualization
 [[Kibana]]()
 [[Grafana]]()
-
-### Cloud Computing
-[[Azure]](https://docs.microsoft.com/en-us/azure/?product=featured)
-[[AWS]](https://docs.aws.amazon.com/)
-[[GCP]](https://cloud.google.com/docs)
 
 ## Programming
 [[Python]](https://docs.python.org/3/library/index.html)
