@@ -443,31 +443,48 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[MySQL]](https://dev.mysql.com/doc/refman/8.0/en/)
 [[PostgreSQL]](https://www.postgresql.org/docs/current/)
 [[SQLite]](https://www.sqlite.org/docs.html)
+[[SQL Server]](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
 
 ### NoSQL Database
 [[MongoDB]](https://docs.mongodb.com/manual/)
 [[Redis]](https://redis.io/documentation)
 [[Cassandra]](https://cassandra.apache.org/doc/latest/)
+[[ElasticSearch]](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 
 ### Cluster Storage
 [[Hadoop]](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
 
 ### Cluster Storage Manipulation
-[[Hive]]()
-[[HBase]]()
+[[Hive]](https://cwiki.apache.org/confluence/display/Hive/Home)
+[[HBase]](https://hbase.apache.org/book.html)
 
 ### Cluster Processing
 [[Spark]](https://spark.apache.org/docs/latest/api/python/getting_started/index.html)
 [[Koalas]](https://koalas.readthedocs.io/en/latest/getting_started/10min.html)
 
-### Data Pipeline / Integration
+### Pipeline
 [[Airflow]](https://airflow.apache.org/docs/)
+[[Nifi]](https://nifi.apache.org/docs.html)
+
+### Real Time Integration
 [[Kafka]](https://kafka.apache.org/documentation/)
+[[Pulsar]](https://pulsar.apache.org/docs/en/standalone/)
+
+### Real Time OLAP
+[[Pinot]](https://docs.pinot.apache.org/)
+[[Druid]](https://druid.apache.org/docs/latest/design/index.html)
+
+### Query Engine
+[[Trino]](https://trino.io/docs/current/)
+[[Dremio]](https://docs.dremio.com/)
+
+### Analytics
+[[Metabase]](https://www.metabase.com/docs/latest/)
 
 ### Cloud Computing
+[[Azure]](https://docs.microsoft.com/en-us/azure/?product=featured)
 [[AWS]](https://docs.aws.amazon.com/)
 [[GCP]](https://cloud.google.com/docs)
-[[Azure]](https://docs.microsoft.com/en-us/azure/?product=featured)
 
 ## Programming
 [[Python]](https://docs.python.org/3/library/index.html)
