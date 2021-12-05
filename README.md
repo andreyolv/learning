@@ -237,6 +237,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Data Engineering using Databricks on AWS and Azure](https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/)
 
+[Azure SQL Data Warehouse Synapse Analytics Service](https://www.udemy.com/course/azure-sql-data-warehouse-synapse-analytics-service/)
+
 [Azure Kubernetes Service with Azure DevOps and Terraform](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
 
 [DP-203: Data Engineering on Microsoft Azure + Practice Tests](https://www.udemy.com/course/dp200exam/)
