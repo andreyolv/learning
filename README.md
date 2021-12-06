@@ -483,7 +483,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Pinot]](https://docs.pinot.apache.org/)
 [[Druid]](https://druid.apache.org/docs/latest/design/index.html)
 
-### Query Engine
+### Data Virtualization
 [[Trino]](https://trino.io/docs/current/)
 [[Dremio]](https://docs.dremio.com/)
 
