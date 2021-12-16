@@ -457,7 +457,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### SQL Database
 [[MySQL]](https://dev.mysql.com/doc/refman/8.0/en/)
 [[PostgreSQL]](https://www.postgresql.org/docs/current/)
-[[SQLite]](https://www.sqlite.org/docs.html)
 [[SQL Server]](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
 
 ### NoSQL Database
@@ -465,6 +464,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Redis]](https://redis.io/documentation)
 [[Cassandra]](https://cassandra.apache.org/doc/latest/)
 [[ElasticSearch]](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+
+### Unifying SQL and NoSQL Database
+[[YugabyteDB]](https://docs.yugabyte.com/latest/)
 
 ### Cluster Storage
 [[Hadoop]](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
@@ -489,16 +491,37 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Pinot]](https://docs.pinot.apache.org/)
 [[Druid]](https://druid.apache.org/docs/latest/design/index.html)
 
-### Data Virtualization
+### Data Lake
+[[MinIO]](https://min.io/)
+
+### Lakehouse
+[[Delta Lake]](https://docs.delta.io/latest/index.html)
+
+### Data Virtualization / Query Engine
 [[Trino]](https://trino.io/docs/current/)
 [[Dremio]](https://docs.dremio.com/)
+[[Presto]](https://prestodb.io/docs/current/)
 
-### Analytics
+### Business Intelligence
 [[Metabase]](https://www.metabase.com/docs/latest/)
+[[Power BI]](https://docs.microsoft.com/pt-br/power-bi/)
+
+### Monitoring
+[[Prometheus]](https://prometheus.io/docs/introduction/overview/)
 
 ### Visualization
-[[Kibana]]()
-[[Grafana]]()
+[[Kibana]](https://www.elastic.co/guide/en/kibana/current/index.html)
+[[Grafana]](https://grafana.com/docs/grafana/latest/)
+[[Superset]](https://superset.apache.org/docs/intro)
+
+### GitOps for Kubernetes
+[[Argo CD]](https://argo-cd.readthedocs.io/en/stable/)
+
+### DataOps for Kafka
+[[Lenses]](https://docs.lenses.io/)
+
+### Infrastructure as Code
+[[Terraform]](https://www.terraform.io/docs)
 
 ## Programming
 [[Python]](https://docs.python.org/3/library/index.html)
