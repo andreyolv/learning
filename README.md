@@ -40,9 +40,11 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Operational Systems, UFG (Federal University of Goiás), Prof. Sérgio Carvalho](https://www.youtube.com/playlist?list=PLn9tst_548zU9utXG07-6jZ4zb57yJTtO)
 
-[Databases, UFAM (Federal University of Amazonas), Prof. Altigran Soares da Silva](https://www.youtube.com/playlist?list=PLhyf4Hm3tvmim64VUQkS45NjHQ2o56Jb5)
+[Databases, UNICAMP (Federal University of Campinas), Prof. André Santanchè](https://www.youtube.com/playlist?list=PL3JRjVnXiTBYpnVFYow5p1BBWOx8H_b31)
 
 [NoSQL Databases, UNIFEG, Prof. Gustavo Poli](https://www.youtube.com/playlist?list=PLdX7dTciUnGhDWw3aFa73xrqkGzibbIEt)
+
+[Topics in Big Data, UFAM (Federal University of Amazonas), Prof. Altigran Soares da Silva](https://www.youtube.com/playlist?list=PLgMem-KiO8qHlO_ojDpN5loeSw6ulaaYM)
 
 [Software Engineering, UFV (Federal University of Viçosa), Prof Lucas Vegi](https://www.youtube.com/playlist?list=PLoZozn3oZAdoQt2F6_dQYylu7QNzbfPRU)
 
