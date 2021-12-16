@@ -48,6 +48,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Software Engineering, UFV (Federal University of Viçosa), Prof Lucas Vegi](https://www.youtube.com/playlist?list=PLoZozn3oZAdoQt2F6_dQYylu7QNzbfPRU)
 
+[Computer Networks, UFJF (Federal University of Juiz de Fora), Prof. Edelberto Franco Silva](https://www.youtube.com/playlist?list=PLouOlpcwbjHeHjKy61j3YEDemvrQoJHdH)
+
 [Mobile Robotics, UFPB (Federal University of Paraíba), Prof. Tiago Pereira do Nascimento](https://www.youtube.com/playlist?list=PLI1MB8Tq01INJdTRUKjs42LGaylORblJ8)
 
 [Digital Circuits, UFPR (Federal University of Paraná), Prof. Marco A. Zanata Alves](https://www.youtube.com/playlist?list=PL_9px37PNj6r23bVWzt08qWkxHxzFaEkb)
