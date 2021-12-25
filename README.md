@@ -261,13 +261,17 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Others Courses
-[Python Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos)
+[Python Fundamentos Para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course/python-fundamentos)
 
-[Formação Cientista de Dados](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
+[Formação Cientista de Dados - Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
 
-[Formação Engenheiro de Dados](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados)
+[Formação Engenheiro de Dados - Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados)
 
-[Google Certified Professional Data Engineer](https://acloudguru.com/course/google-certified-professional-data-engineer)
+[Azure Database Administrator Associate - A Cloud Guru](https://acloudguru.com/course/azure-database-administrator-associate)
+
+[Google Certified Professional Data Engineer - A Cloud Guru](https://acloudguru.com/course/google-certified-professional-data-engineer)
+
+[Confluent Certified Developer for Apache Kafka (CCDAK)](https://acloudguru.com/course/confluent-certified-developer-for-apache-kafka-ccdak)
 
 **[⬆ Back to top](#learning)**
 
