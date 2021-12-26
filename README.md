@@ -271,7 +271,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Google Certified Professional Data Engineer - A Cloud Guru](https://acloudguru.com/course/google-certified-professional-data-engineer)
 
-[Confluent Certified Developer for Apache Kafka (CCDAK)](https://acloudguru.com/course/confluent-certified-developer-for-apache-kafka-ccdak)
+[Confluent Certified Developer for Apache Kafka (CCDAK) - A Cloud Guru](https://acloudguru.com/course/confluent-certified-developer-for-apache-kafka-ccdak)
 
 **[⬆ Back to top](#learning)**
 
