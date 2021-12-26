@@ -158,120 +158,120 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ## Coursera Programs
 ### DeepLearning.AI (EN-US)
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning#courses)
+[Deep Learning Specialization, DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/deep-learning#courses)
 
-[Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans#courses)
+[Generative Adversarial Networks (GANs), DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/generative-adversarial-networks-gans#courses)
 
-[AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine#courses)
+[AI for Medicine, DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/ai-for-medicine#courses)
 
-[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment#courses)
+[TensorFlow: Data and Deployment, DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/tensorflow-data-and-deployment#courses)
 
-[TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques#courses)
+[TensorFlow: Advanced Techniques, DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/tensorflow-advanced-techniques#courses)
 
-[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing#coursess)
+[Natural Language Processing, DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/natural-language-processing#coursess)
 
-[TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses)
+[TensorFlow Developer Professional Certificate, DeepLearning.AI, Coursera Program](https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses)
 
-[Practical Data Science Specialization](https://www.coursera.org/specializations/practical-data-science#courses)
+[Practical Data Science Specialization, DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/practical-data-science#courses)
 
-[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
+[Machine Learning Engineering for Production (MLOps), DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
 
 ### Google (EN-US)
-[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+[Google Data Analytics Professional Certificate, Google, Coursera Program](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-[Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
+[Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate, Google, Coursera Program](https://www.coursera.org/professional-certificates/gcp-data-engineering)
 
-[Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+[Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate, Google, Coursera Program](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
 ### Databricks (EN-US)
-[Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
+[Data Science with Databricks for Data Analysts Specialization, Databricks, Coursera Program](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
 
 **[⬆ Back to top](#learning)**
 
 ## Coursera Courses
-[How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
+[How to Win a Data Science Competition: Learn from Top Kagglers, HSE University, Coursera Course](https://www.coursera.org/learn/competitive-data-science)
 
 **[⬆ Back to top](#learning)**
 
 ## Udemy Courses
 ### Programming (PT-BR)
-[Python programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
+[Python programming from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
 
-[Concurrent and Asynchronous Programming with Python](https://www.udemy.com/course/programacao-concorrente-e-assincrona-com-python/)
+[Concurrent and Asynchronous Programming with Python, Udemy, Geek University](https://www.udemy.com/course/programacao-concorrente-e-assincrona-com-python/)
 
-[Design Patterns with Python](https://www.udemy.com/course/padroes-de-projeto-com-python/)
+[Design Patterns with Python, Udemy, Geek University](https://www.udemy.com/course/padroes-de-projeto-com-python/)
 
-[Java 11 LTS programming from basic to advanced](https://www.udemy.com/course/programacao-em-java-essencial/)
+[Java 11 LTS programming from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/programacao-em-java-essencial/)
 
-[C programming from basic to advanced](https://www.udemy.com/course/programacao-em-c-essencial/)
+[C programming from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/programacao-em-c-essencial/)
 
-[JavaScript programming from basic to advanced](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/)
+[JavaScript programming from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/)
 
 ### Software (PT-BR)
-[LPI Linux Essentials: Preparatório para a Certificação](https://www.udemy.com/course/lpi-linux-essentials/)
+[LPI Linux Essentials: Preparatório para a Certificação, Udemy, Mateus Müller](https://www.udemy.com/course/lpi-linux-essentials/)
 
-[Git and Github Essential for the Developer](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
+[Git and Github Essential for the Developer, Udemy, Geek University](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
 
-[Developer Essential Docker](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
+[Developer Essential Docker, Udemy, Geek University](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
 
-[Container Orchestration with Kubernetes](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
+[Container Orchestration with Kubernetes, Udemy, Geek University](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
 
 ### Data Science (EN-US)
-[TensorFlow Developer Certificate in 2021: Zero to Mastery - ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
+[TensorFlow Developer Certificate in 2021: Zero to Mastery, Udemy, ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
-[A deep understanding of deep learning (with Python intro)](https://www.udemy.com/course/deeplearning_x/)
+[A deep understanding of deep learning (with Python intro), Udemy, Mike X Cohen](https://www.udemy.com/course/deeplearning_x/)
 
-[PyTorch: Deep Learning and Artificial Intelligence](https://www.udemy.com/course/pytorch-deep-learning/)
+[PyTorch: Deep Learning and Artificial Intelligence, Udemy, Lazy Programmer Team](https://www.udemy.com/course/pytorch-deep-learning/)
 
 ### Data Engineering (PT-BR)
-[SQL and NoSQL Database from basic to advanced](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/)
+[SQL and NoSQL Database from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/)
 
-[Amazon Web Services (AWS): Essential](https://www.udemy.com/course/amazon-web-services-essencial/)
+[Amazon Web Services (AWS): Essential, Udemy, Geek University](https://www.udemy.com/course/amazon-web-services-essencial/)
 
 ### Data Engineering (EN-US)
-[The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
+[The Complete Hands-On Introduction to Apache Airflow, Udemy, Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
-[Apache Kafka Series - Learn Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/)
+[Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek](https://www.udemy.com/course/apache-kafka/)
 
 ### AWS (EN-US)
-[Ultimate AWS Certified Cloud Practitioner - 2021](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+[Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
-[Ultimate AWS Certified Solutions Architect Associate 2021](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
+[Ultimate AWS Certified Solutions Architect Associate 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
 
-[AWS Certified Data Analytics Specialty 2021 - Hands On!](https://www.udemy.com/course/aws-data-analytics/)
+[AWS Certified Data Analytics Specialty 2021 - Hands On!, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-data-analytics/)
 
-[AWS Certified Machine Learning Specialty 2021 - Hands On!](https://www.udemy.com/course/aws-machine-learning/)
+[AWS Certified Machine Learning Specialty 2021 - Hands On!, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-machine-learning/)
 
 ### Azure (EN-US)
-[Azure Databricks & Spark Core For Data Engineers(Python/SQL)](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
+[Azure Databricks & Spark Core For Data Engineers(Python/SQL), Udemy, Ramesh Retnasamy](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
 
-[Azure SQL Data Warehouse Synapse Analytics Service](https://www.udemy.com/course/azure-sql-data-warehouse-synapse-analytics-service/)
+[Azure SQL Data Warehouse Synapse Analytics Service, Udemy, Eshant Garg](https://www.udemy.com/course/azure-sql-data-warehouse-synapse-analytics-service/)
 
-[Azure Kubernetes Service with Azure DevOps and Terraform](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
+[Azure Kubernetes Service with Azure DevOps and Terraform, Udemy, Kalyan Reddy Daida](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
 
-[DP-203: Data Engineering on Microsoft Azure + Practice Tests](https://www.udemy.com/course/dp200exam/)
+[DP-203: Data Engineering on Microsoft Azure + Practice Tests, Udemy, Eshant Garg](https://www.udemy.com/course/dp200exam/)
 
 ### MLOps (EN-US)
-[Scrum Master Certification: Full Preparatory Course](https://www.udemy.com/course/formacao-total-em-scrum/)
+[Scrum Master Certification: Full Preparatory Course, Udemy, Pilar Sanchez Albaladejo](https://www.udemy.com/course/formacao-total-em-scrum/)
 
-[MLOps Fundamentals: CI/CD/CT Pipelines of ML with Azure Demo](https://www.udemy.com/course/mlops-course/)
+[MLOps Fundamentals: CI/CD/CT Pipelines of ML with Azure Demo, Udemy, J Garg](https://www.udemy.com/course/mlops-course/)
 
-[Data Science- Project Management Methodology - CRISP-DM](https://www.udemy.com/course/data-science-project-management-methodology-crisp-dm/)
+[Data Science- Project Management Methodology - CRISP-DM, Udemy, 306DigiTMG Elearning](https://www.udemy.com/course/data-science-project-management-methodology-crisp-dm/)
 
 **[⬆ Back to top](#learning)**
 
 ## Others Courses
-[Python Fundamentos Para Análise de Dados - Data Science Academy](https://www.datascienceacademy.com.br/course/python-fundamentos)
+[Python Fundamentos Para Análise de Dados, Data Science Academy](https://www.datascienceacademy.com.br/course/python-fundamentos)
 
-[Formação Cientista de Dados - Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
+[Formação Cientista de Dados, Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
 
-[Formação Engenheiro de Dados - Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados)
+[Formação Engenheiro de Dados, Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados)
 
-[Azure Database Administrator Associate - A Cloud Guru](https://acloudguru.com/course/azure-database-administrator-associate)
+[Azure Database Administrator Associate, A Cloud Guru](https://acloudguru.com/course/azure-database-administrator-associate)
 
-[Google Certified Professional Data Engineer - A Cloud Guru](https://acloudguru.com/course/google-certified-professional-data-engineer)
+[Google Certified Professional Data Engineer, A Cloud Guru](https://acloudguru.com/course/google-certified-professional-data-engineer)
 
-[Confluent Certified Developer for Apache Kafka (CCDAK) - A Cloud Guru](https://acloudguru.com/course/confluent-certified-developer-for-apache-kafka-ccdak)
+[Confluent Certified Developer for Apache Kafka (CCDAK), A Cloud Guru](https://acloudguru.com/course/confluent-certified-developer-for-apache-kafka-ccdak)
 
 **[⬆ Back to top](#learning)**
 
