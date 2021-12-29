@@ -233,6 +233,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek](https://www.udemy.com/course/apache-kafka/)
 
+[HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+
 ### AWS (EN-US)
 [Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
@@ -250,6 +252,14 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Azure Kubernetes Service with Azure DevOps and Terraform, Udemy, Kalyan Reddy Daida](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
 
 [DP-203: Data Engineering on Microsoft Azure + Practice Tests, Udemy, Eshant Garg](https://www.udemy.com/course/dp200exam/)
+
+[SC-900: Microsoft Security Fundamentals Exam Prep - NOV 2021, Udemy, Scott Duffy](https://www.udemy.com/course/sc900-azure/)
+
+[DP-100: A-Z Machine Learning using Azure Machine Learning, Udemy, Jitesh Khurkhuriya](https://www.udemy.com/course/machine-learning-using-azureml/)
+
+[AZ-104 Azure Administrator Associate Complete Preparation, Udemy, IT New Courses](https://www.udemy.com/course/az-104-azure-administrator-associate-complete-preparation/)
+
+[DA-100 certification: Analyzing Data with Microsoft Power BI, Udemy, Phillip Burton]()https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/
 
 ### MLOps (EN-US)
 [Scrum Master Certification: Full Preparatory Course, Udemy, Pilar Sanchez Albaladejo](https://www.udemy.com/course/formacao-total-em-scrum/)
