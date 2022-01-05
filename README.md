@@ -259,7 +259,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [AZ-104 Azure Administrator Associate Complete Preparation, Udemy, IT New Courses](https://www.udemy.com/course/az-104-azure-administrator-associate-complete-preparation/)
 
-[DA-100 certification: Analyzing Data with Microsoft Power BI, Udemy, Phillip Burton]()https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/
+[DA-100 certification: Analyzing Data with Microsoft Power BI, Udemy, Phillip Burton](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
 
 ### MLOps (EN-US)
 [Scrum Master Certification: Full Preparatory Course, Udemy, Pilar Sanchez Albaladejo](https://www.udemy.com/course/formacao-total-em-scrum/)
