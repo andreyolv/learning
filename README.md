@@ -229,11 +229,15 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Amazon Web Services (AWS): Essential, Udemy, Geek University](https://www.udemy.com/course/amazon-web-services-essencial/)
 
 ### Data Engineering (EN-US)
+[ SQL Server Integration Services (SSIS) - An Introduction, Udemy, Phillip Burton](https://www.udemy.com/course/sql-server-ssis-an-introduction/)
+
 [The Complete Hands-On Introduction to Apache Airflow, Udemy, Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
 [Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek](https://www.udemy.com/course/apache-kafka/)
 
 [HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+
+[Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
 ### AWS (EN-US)
 [Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
@@ -244,6 +248,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [AWS Certified Machine Learning Specialty 2021 - Hands On!, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-machine-learning/)
 
+[ Data Engineering using AWS Analytics Services, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/data-engineering-using-aws-analytics-services/)
+
 ### Azure (EN-US)
 [Azure Databricks & Spark Core For Data Engineers(Python/SQL), Udemy, Ramesh Retnasamy](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
 
@@ -252,6 +258,14 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Azure Kubernetes Service with Azure DevOps and Terraform, Udemy, Kalyan Reddy Daida](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
 
 [DP-203: Data Engineering on Microsoft Azure + Practice Tests, Udemy, Eshant Garg](https://www.udemy.com/course/dp200exam/)
+
+[DP-203 - Data Engineering on Microsoft Azure 2021, Udemy, Alan Rodrigues](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)
+
+[Azure Data Factory Workshop - Real World Project & Use Cases, Udemy, Amit Navgire](https://www.udemy.com/course/azure-data-factory-workshop-real-world-project-use-cases/)
+
+[Mini Project Development for Azure Data Engineer, Udemy, Karthik J](https://www.udemy.com/course/azure-big-data-mini-project/)
+
+[Azure Data Engineer - Interview Preparation Video Guide, Udemy, Karthik J](https://www.udemy.com/course/azure-data-engineering-interview-questions/)
 
 [SC-900: Microsoft Security Fundamentals Exam Prep - NOV 2021, Udemy, Scott Duffy](https://www.udemy.com/course/sc900-azure/)
 
