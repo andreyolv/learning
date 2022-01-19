@@ -239,6 +239,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
+[Apache Druid : A Hands-on Course, Udemy, Shruti Mantri](https://www.udemy.com/course/apache-druid-a-hands-on-course/)
+
 ### AWS (EN-US)
 [Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
@@ -248,10 +250,12 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [AWS Certified Machine Learning Specialty 2021 - Hands On!, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-machine-learning/)
 
-[ Data Engineering using AWS Analytics Services, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/data-engineering-using-aws-analytics-services/)
+[Data Engineering using AWS Analytics Services, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/data-engineering-using-aws-analytics-services/)
 
 ### Azure (EN-US)
 [Azure Databricks & Spark Core For Data Engineers(Python/SQL), Udemy, Ramesh Retnasamy](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
+
+[Data Engineering using Databricks on AWS and Azure, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/)
 
 [Azure SQL Data Warehouse Synapse Analytics Service, Udemy, Eshant Garg](https://www.udemy.com/course/azure-sql-data-warehouse-synapse-analytics-service/)
 
