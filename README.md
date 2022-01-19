@@ -241,6 +241,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Apache Druid : A Hands-on Course, Udemy, Shruti Mantri](https://www.udemy.com/course/apache-druid-a-hands-on-course/)
 
+[Distributed SQL and YugabyteDB Fundamentals, Udemy, Jimmy Guerrero](https://www.udemy.com/course/distributed-sql-and-yugabytedb-fundamentals/)
+
 ### AWS (EN-US)
 [Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
