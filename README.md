@@ -233,13 +233,23 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [The Complete Hands-On Introduction to Apache Airflow, Udemy, Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
+[Apache Spark 3 - Databricks Certified Associate Developer, Udemy, Wadson Guimatsa](https://www.udemy.com/course/apache-spark-3-databricks-certified-associate-developer/)
+
 [Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek](https://www.udemy.com/course/apache-kafka/)
+
+[Apache Kafka Series - Kafka Monitoring & Operations, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-monitoring-and-operations/)
+
+[Apache Kafka Series - Confluent Schema Registry & REST Proxy, Udemy, Stephane Maarek](https://www.udemy.com/course/confluent-schema-registry/)
+
+[Apache Kafka Series - Kafka Cluster Setup & Administration, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-cluster-setup/)
+
+[Apache Kafka Series - Kafka Connect Hands-on Learning, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-connect/)
+
+[Apache Kafka Series - Kafka Streams for Data Processing, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-streams/)
 
 [HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
 [Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-
-[Apache Druid : A Hands-on Course, Udemy, Shruti Mantri](https://www.udemy.com/course/apache-druid-a-hands-on-course/)
 
 [Distributed SQL and YugabyteDB Fundamentals, Udemy, Jimmy Guerrero](https://www.udemy.com/course/distributed-sql-and-yugabytedb-fundamentals/)
 
