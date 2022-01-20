@@ -496,9 +496,17 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ## Data Engineering
 ### Cloud Computing
-[[Azure]](https://docs.microsoft.com/en-us/azure/?product=featured)
+[[Azure]](https://docs.microsoft.com/en-us/azure/?product=popular)
 [[AWS]](https://docs.aws.amazon.com/)
 [[GCP]](https://cloud.google.com/docs)
+
+### Azure
+[[Blob Storage]](https://docs.microsoft.com/en-us/azure/storage/blobs/)
+[[Data Factory]](https://docs.microsoft.com/en-us/azure/data-factory/)
+[[Synapse Analytics]](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
+[[Databricks]](https://docs.microsoft.com/en-us/azure/databricks/)
+[[Stream Analytics]](https://docs.microsoft.com/en-us/azure/stream-analytics/)
+[[Cosmos DB]](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 
 ### SQL Database
 [[MySQL]](https://dev.mysql.com/doc/refman/8.0/en/)
