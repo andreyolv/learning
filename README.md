@@ -501,12 +501,14 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[GCP]](https://cloud.google.com/docs)
 
 ### Azure
+[[SQL]](https://docs.microsoft.com/en-us/azure/azure-sql/)
 [[Blob Storage]](https://docs.microsoft.com/en-us/azure/storage/blobs/)
 [[Data Factory]](https://docs.microsoft.com/en-us/azure/data-factory/)
 [[Synapse Analytics]](https://docs.microsoft.com/en-us/azure/synapse-analytics/)
 [[Databricks]](https://docs.microsoft.com/en-us/azure/databricks/)
 [[Stream Analytics]](https://docs.microsoft.com/en-us/azure/stream-analytics/)
 [[Cosmos DB]](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+[[HDInsight]](https://docs.microsoft.com/pt-br/azure/hdinsight/)
 
 ### SQL Database
 [[MySQL]](https://dev.mysql.com/doc/refman/8.0/en/)
