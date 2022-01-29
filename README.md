@@ -235,6 +235,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Apache Spark 3 - Databricks Certified Associate Developer, Udemy, Wadson Guimatsa](https://www.udemy.com/course/apache-spark-3-databricks-certified-associate-developer/)
 
+[Databricks Certified Associate Developer - Apache Spark 2022, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/)
+
 [Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek](https://www.udemy.com/course/apache-kafka/)
 
 [Apache Kafka Series - Kafka Monitoring & Operations, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-monitoring-and-operations/)
