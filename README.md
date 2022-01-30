@@ -293,6 +293,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [DA-100 certification: Analyzing Data with Microsoft Power BI, Udemy, Phillip Burton](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
 
+### GCP (EN-US)
+[GCP - Google Cloud Professional Data Engineer Certification, Udemy, Ankit Mistry](https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification/)
+
 ### MLOps (EN-US)
 [Scrum Master Certification: Full Preparatory Course, Udemy, Pilar Sanchez Albaladejo](https://www.udemy.com/course/formacao-total-em-scrum/)
 
