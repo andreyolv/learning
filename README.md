@@ -75,7 +75,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Multivariate Analysis, USP (University of São Paulo), Prof. Cibele Russo](https://www.youtube.com/playlist?list=PLt7qVSwRVn5bg14OLl6dHTNnXVrEM6UiS)
 
-[Data Viewing and Exploration, USP (University of São Paulo), Prof. Cibele Russo](https://www.youtube.com/playlist?list=PLt7qVSwRVn5YEIvaMb02IJVKCpauWV-s9)
+[Data Visualization and Exploration, USP (University of São Paulo), Prof. Cibele Russo](https://www.youtube.com/playlist?list=PLt7qVSwRVn5YEIvaMb02IJVKCpauWV-s9)
 
 [Statistics applied to Psychobiology I, UNIFESP (Federal University of São Paulo), Prof. Altay de Souza](https://www.youtube.com/playlist?list=PLZjaOxYREinuHJJ0XiZjkIOzZDyZCh70z)
 
