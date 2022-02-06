@@ -42,7 +42,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Databases, UNICAMP (Federal University of Campinas), Prof. André Santanchè](https://www.youtube.com/playlist?list=PL3JRjVnXiTBYpnVFYow5p1BBWOx8H_b31)
 
-[NoSQL Databases, UNIFEG, Prof. Gustavo Poli](https://www.youtube.com/playlist?list=PLdX7dTciUnGhDWw3aFa73xrqkGzibbIEt)
+[NoSQL Databases, UNIFEG (University Center of the Guaxupé Educational Foundation), Prof. Gustavo Poli](https://www.youtube.com/playlist?list=PLdX7dTciUnGhDWw3aFa73xrqkGzibbIEt)
 
 [Topics in Big Data, UFAM (Federal University of Amazonas), Prof. Altigran Soares da Silva](https://www.youtube.com/playlist?list=PLgMem-KiO8qHlO_ojDpN5loeSw6ulaaYM)
 
@@ -123,7 +123,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [CS221 Artificial Intelligence: Principles and Techniques, Stanford University, Prof. Percy Liang](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 
-[CS229I Machine Learning, Prof. Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+[CS229I Machine Learning, Stanford University, Prof. Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 [CS224N Natural Processing with Deep Learning, Stanford University, Prof. Christopher Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
@@ -131,7 +131,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [CS330 Multi-Task and Meta-Learning, Stanford University, Professor Chelsea Finn](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 
-[CS234 Reinforcement Learning, Prof. Emma Brunskill](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+[CS234 Reinforcement Learning, Stanford University, Prof. Emma Brunskill](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 [CS224W Machine Learning with Graphs, Stanford University, Prof. Jure Leskovec](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
