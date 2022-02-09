@@ -177,14 +177,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Machine Learning Engineering for Production (MLOps), DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses)
 
 ### Google (EN-US)
-[Google Data Analytics Professional Certificate, Google, Coursera Program](https://www.coursera.org/professional-certificates/google-data-analytics)
-
 [Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate, Google, Coursera Program](https://www.coursera.org/professional-certificates/gcp-data-engineering)
 
 [Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate, Google, Coursera Program](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
-
-### Databricks (EN-US)
-[Data Science with Databricks for Data Analysts Specialization, Databricks, Coursera Program](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#about)
 
 **[⬆ Back to top](#learning)**
 
@@ -228,14 +223,26 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Amazon Web Services (AWS): Essential, Udemy, Geek University](https://www.udemy.com/course/amazon-web-services-essencial/)
 
+[SQL Server Developer. T-SQL, Programação e Tuning, Udemy, Wolney Marconi Maia](https://www.udemy.com/course/linguagem-programacao-tuning-sqlserver-2017/)
+
 ### Data Engineering (EN-US)
-[ SQL Server Integration Services (SSIS) - An Introduction, Udemy, Phillip Burton](https://www.udemy.com/course/sql-server-ssis-an-introduction/)
+[The Ultimate Hands-On Hadoop: Tame your Big Data!, Udemy, Frank Kane](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/)
+
+[Elasticsearch 7 and the Elastic Stack: In Depth and Hands On, Udemy, Frank Kane](https://www.udemy.com/course/elasticsearch-7-and-elastic-stack/)
+
+[Getting Started With Apache Cassandra, Udemy, Infinite Skills](https://www.udemy.com/course/apache-cassandra/)
+
+[MongoDB - The Complete Developer's Guide 2022, Udemy, Maximilian Schwarzmüller](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
+
+[SQL Server Integration Services (SSIS) - An Introduction, Udemy, Phillip Burton](https://www.udemy.com/course/sql-server-ssis-an-introduction/)
 
 [The Complete Hands-On Introduction to Apache Airflow, Udemy, Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
 [Apache Spark 3 - Databricks Certified Associate Developer, Udemy, Wadson Guimatsa](https://www.udemy.com/course/apache-spark-3-databricks-certified-associate-developer/)
 
 [Databricks Certified Associate Developer - Apache Spark 2022, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/)
+
+[Databricks Certified Developer for Spark 3.0 Practice Exams,Udemy, Florian Roscheck](https://www.udemy.com/course/databricks-certified-developer-for-apache-spark-30-practice-exams/)
 
 [Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek](https://www.udemy.com/course/apache-kafka/)
 
@@ -317,6 +324,29 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Google Certified Professional Data Engineer, A Cloud Guru](https://acloudguru.com/course/google-certified-professional-data-engineer)
 
 [Confluent Certified Developer for Apache Kafka (CCDAK), A Cloud Guru](https://acloudguru.com/course/confluent-certified-developer-for-apache-kafka-ccdak)
+
+[Programming in T-SQL, Prof. Luiz Santana]()
+
+[DAMA (Data Management) DMBOK, Data Engineering LATAM, Prof. David Regalado]()
+
+[Data Engineering with Apache Spark and Apache Kafka, Luan Moreno and Mateus Oliveira]()
+
+[MongoDB Basics, MongoDB University]()
+
+## Others
+[Cosmology I, UFSC (Federal University of Santa Catarina), Prof. Alexandre Zabot]()
+
+[General Astrophysics, UFSC (Federal University of Santa Catarina), Prof. Alexandre Zabot]()
+
+[Telecommunications Engineer, EADCCNA]()
+
+[Preparatory Course for CGA (ANBIMA Certification of Investment Managers)]()
+
+[Preparatory Course for CEA (ANBIMA Certification of Investment Specialists)]()
+
+[Philosophy Online Course]()
+
+[Solar System Astrophysics, National Observatory]()
 
 **[⬆ Back to top](#learning)**
 
