@@ -225,6 +225,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [SQL Server Developer. T-SQL, Programação e Tuning, Udemy, Wolney Marconi Maia](https://www.udemy.com/course/linguagem-programacao-tuning-sqlserver-2017/)
 
+[Governança de Dados, Udemy, Tech For You](https://www.udemy.com/course/governanca-de-dados/)
+
 ### Data Engineering (EN-US)
 [The Ultimate Hands-On Hadoop: Tame your Big Data!, Udemy, Frank Kane](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/)
 
