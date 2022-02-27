@@ -302,6 +302,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [DA-100 certification: Analyzing Data with Microsoft Power BI, Udemy, Phillip Burton](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
 
+[Azure Machine Learning using Cognitive Services, Udemy, Tim Buchalka's Learn Programming Academy](https://www.udemy.com/course/azure-machine-learning-using-cognitive-services/)
+
 ### GCP (EN-US)
 [GCP - Google Cloud Professional Data Engineer Certification, Udemy, Ankit Mistry](https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification/)
 
