@@ -240,6 +240,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [The Complete Hands-On Introduction to Apache Airflow, Udemy, Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
+[Apache Airflow: The Operators Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/apache-airflow-the-operators-guide/)
+
 [Apache Spark 3 - Databricks Certified Associate Developer, Udemy, Wadson Guimatsa](https://www.udemy.com/course/apache-spark-3-databricks-certified-associate-developer/)
 
 [Databricks Certified Associate Developer - Apache Spark 2022, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/)
@@ -263,6 +265,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
 [Distributed SQL and YugabyteDB Fundamentals, Udemy, Jimmy Guerrero](https://www.udemy.com/course/distributed-sql-and-yugabytedb-fundamentals/)
+
+[Snowflake Masterclass[stored proc+demos+Best practices+Labs], Udemy, Pradeep H C](https://www.udemy.com/course/snowflake-cloud-data-warehouse/)
+
 
 ### AWS (EN-US)
 [Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
