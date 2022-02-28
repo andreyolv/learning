@@ -223,7 +223,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Amazon Web Services (AWS): Essential, Udemy, Geek University](https://www.udemy.com/course/amazon-web-services-essencial/)
 
-[SQL Server Developer. T-SQL, Programação e Tuning, Udemy, Wolney Marconi Maia](https://www.udemy.com/course/linguagem-programacao-tuning-sqlserver-2017/)
+[SQL Server Developer. T-SQL, Programming and Tuning, Udemy, Wolney Marconi Maia](https://www.udemy.com/course/linguagem-programacao-tuning-sqlserver-2017/)
 
 [Governança de Dados, Udemy, Tech For You](https://www.udemy.com/course/governanca-de-dados/)
 
