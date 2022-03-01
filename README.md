@@ -228,6 +228,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Governança de Dados, Udemy, Tech For You](https://www.udemy.com/course/governanca-de-dados/)
 
 ### Data Engineering (EN-US)
+[PostgreSQL Bootcamp : Go From Beginner to Advanced, Udemy, Adnan Waheed](https://www.udemy.com/course/postgresqlmasterclass/)
+
 [The Ultimate Hands-On Hadoop: Tame your Big Data!, Udemy, Frank Kane](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/)
 
 [Elasticsearch 7 and the Elastic Stack: In Depth and Hands On, Udemy, Frank Kane](https://www.udemy.com/course/elasticsearch-7-and-elastic-stack/)
