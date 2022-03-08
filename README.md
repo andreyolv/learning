@@ -240,6 +240,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [SQL Server Integration Services (SSIS) - An Introduction, Udemy, Phillip Burton](https://www.udemy.com/course/sql-server-ssis-an-introduction/)
 
+[Apache Airflow: The Hands-On Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/)
+
 [The Complete Hands-On Introduction to Apache Airflow, Udemy, Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
 [Apache Airflow: The Operators Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/apache-airflow-the-operators-guide/)
@@ -261,6 +263,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Apache Kafka Series - Kafka Connect Hands-on Learning, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-connect/)
 
 [Apache Kafka Series - Kafka Streams for Data Processing, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-streams/)
+
+[Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL, Udemy, Stepahne Maarek](https://www.udemy.com/course/apache-kafka-security/)
 
 [HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
