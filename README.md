@@ -86,15 +86,16 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Statistical Inference, UFABC (Federal University of ABC), Prof. Rodrigo Pavão](https://www.youtube.com/playlist?list=PLz5Z9KF2fJszRx6TJDvaMRMNecbAhfSNv)
 
 ### Machine Learning (PT-BR)
+#### Machine Learning
 [Introduction to Machine Learning, UTFPR (Federal Technological University of Paraná), Prof. Dalcimar Casanova](https://www.youtube.com/playlist?list=PL9At2PVRU0Zoa4_aFhnFDWFLyogcM1xpd)
 
 [Introduction to Deep Learning, UTFPR (Federal Technological University of Paraná), Prof. Dalcimar Casanova](https://www.youtube.com/playlist?list=PL9At2PVRU0ZqVArhU9QMyI3jSe113_m2-)
 
-[Computer Vision, UFSC (Federal University of Santa Catarina), Prof. Aldo von Wangenheim](https://www.youtube.com/playlist?list=PLmDIGfkfgKy1SBjXA0kBk4DAhIaN1vQOS)
+[Introduction to Computational Intelligence, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLs_jdaf767yXhYBDNa4p86wYbqsMK0Vb3)
 
-[Image Processing, IMPA (Institute of Pure and Applied Mathematics), Prof. Luiz Velho](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
+[Topics in Data Science, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLs_jdaf767yWXj6LJOn0rrpVM3CKwAhv2)
 
-[3D Graphics Systems: A.I. Graphics,  IMPA (Institute of Pure and Applied Mathematics), Prof. Luiz Velho](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR5b97ZiJ-HL_qgvBMFFp61)
+[Artificial Neural Networks, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLbwyI3Qg0jzA58dykAgFovdIOw3Q8kyta)
 
 [Pattern Recognition, UFC (Federal University of Ceará), Prof. Carlos Alexandre Fernandes](https://www.youtube.com/playlist?list=PLuf67cBVLogLYpeR0czpF1vX7LRNX-VSC)
 
@@ -102,19 +103,22 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Fundamentals of Intelligent Systems, UTFPR (Federal Technological University of Paraná), Prof. Thiago Naves](https://www.youtube.com/playlist?list=PLRYRf6MtfBfvMh2AeUB4q_4Zp1mCmGJuM)
 
-[Introduction to Computational Intelligence, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLs_jdaf767yXhYBDNa4p86wYbqsMK0Vb3)
+#### Computer Vision
+[Computer Vision, UFSC (Federal University of Santa Catarina), Prof. Aldo von Wangenheim](https://www.youtube.com/playlist?list=PLmDIGfkfgKy1SBjXA0kBk4DAhIaN1vQOS)
 
-[Topics in Data Science, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLs_jdaf767yWXj6LJOn0rrpVM3CKwAhv2)
+[Image Processing, IMPA (Institute of Pure and Applied Mathematics), Prof. Luiz Velho](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
 
-[Time Series and Stochastic Processes, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLbwyI3Qg0jzDtHJlPnwq6vN1-uvJM1wAn)
+[3D Graphics Systems: A.I. Graphics,  IMPA (Institute of Pure and Applied Mathematics), Prof. Luiz Velho](https://www.youtube.com/playlist?list=PLo4jXE-LdDTR5b97ZiJ-HL_qgvBMFFp61)
 
-[Artificial Neural Networks, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLbwyI3Qg0jzA58dykAgFovdIOw3Q8kyta)
-
+#### Natural Language Processing
 [Introduction to Ontologies and the Semantic Web, UFMG (Federal University of Minas Gerais), Prof. Thiago Castro Ferreira](https://www.youtube.com/playlist?list=PLt2qoMeOJsQwIj_USr7ftfgCB8qZgrVN5)
 
 [Computational Linguistics, UFMG (Federal University of Minas Gerais), Prof. Thiago Castro Ferreira](https://www.youtube.com/playlist?list=PLLrlHSmC0Mw73a1t73DEjgGMPyu8QssWT)
 
 [Natural Language Processing, UFMG (Federal University of Minas Gerais), Prof. Adriana Pagano, Evandro L.T.P. Cunha, Thiago Castro Ferreira](https://www.youtube.com/playlist?list=PLt2qoMeOJsQyAklWpREY5ivAUe3jrrR21)
+
+#### Time Series
+[Time Series and Stochastic Processes, IFNMG (Federal Institute of Northern Minas Gerais), Prof. Petronio Silva](https://www.youtube.com/playlist?list=PLbwyI3Qg0jzDtHJlPnwq6vN1-uvJM1wAn)
 
 **[⬆ Back to top](#learning)**
 
