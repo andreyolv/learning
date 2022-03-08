@@ -246,6 +246,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Apache Airflow: The Operators Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/apache-airflow-the-operators-guide/)
 
+[Apache Airflow on AWS EKS: The Hands-On Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide/)
+
 [Apache Spark 3 - Databricks Certified Associate Developer, Udemy, Wadson Guimatsa](https://www.udemy.com/course/apache-spark-3-databricks-certified-associate-developer/)
 
 [Databricks Certified Associate Developer - Apache Spark 2022, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/)
