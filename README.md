@@ -34,33 +34,40 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [General Systems Theory and the Decision Making Process, IME (Military Engineering Institute), Prof. Marcos dos Santos](https://www.youtube.com/playlist?list=PLjdDBZW3EmXcbet9jxNFkj7-9zcrDHIuD)
 
 ### Computer Science (PT-BR)
+#### Hardware
 [Computer Architecture I, UFBA (Federal University of Bahia), Prof. Ewerton Salvador](https://www.youtube.com/playlist?list=PLI1MB8Tq01IOh4F8vV6mZcuEtQnNfs3xF)
 
 [Computer Architecture II, UFBA (Federal University of Bahia), Prof. Alisson Brito](https://www.youtube.com/playlist?list=PLI1MB8Tq01IPPN7Ib6opZMhchmOXAPMZl)
 
 [Operational Systems, UFG (Federal University of Goiás), Prof. Sérgio Carvalho](https://www.youtube.com/playlist?list=PLn9tst_548zU9utXG07-6jZ4zb57yJTtO)
 
+#### Software
+[Software Engineering, UFV (Federal University of Viçosa), Prof Lucas Vegi](https://www.youtube.com/playlist?list=PLoZozn3oZAdoQt2F6_dQYylu7QNzbfPRU)
+
+#### Infrastructure
+[Computer Networks, UFJF (Federal University of Juiz de Fora), Prof. Edelberto Franco Silva](https://www.youtube.com/playlist?list=PLouOlpcwbjHeHjKy61j3YEDemvrQoJHdH)
+
+#### Programming
+[Parallel Programming, UFPR (Federal University of Paraná), Prof. Marco A. Zanata Alves](https://www.youtube.com/playlist?list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG)
+
+[Python Data Structure, Prof. Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
+
+#### Databases
 [Databases, UNICAMP (Federal University of Campinas), Prof. André Santanchè](https://www.youtube.com/playlist?list=PL3JRjVnXiTBYpnVFYow5p1BBWOx8H_b31)
 
 [NoSQL Databases, UNIFEG (University Center of the Guaxupé Educational Foundation), Prof. Gustavo Poli](https://www.youtube.com/playlist?list=PLdX7dTciUnGhDWw3aFa73xrqkGzibbIEt)
 
 [Topics in Big Data, UFAM (Federal University of Amazonas), Prof. Altigran Soares da Silva](https://www.youtube.com/playlist?list=PLgMem-KiO8qHlO_ojDpN5loeSw6ulaaYM)
 
-[Software Engineering, UFV (Federal University of Viçosa), Prof Lucas Vegi](https://www.youtube.com/playlist?list=PLoZozn3oZAdoQt2F6_dQYylu7QNzbfPRU)
-
-[Computer Networks, UFJF (Federal University of Juiz de Fora), Prof. Edelberto Franco Silva](https://www.youtube.com/playlist?list=PLouOlpcwbjHeHjKy61j3YEDemvrQoJHdH)
-
-[Mobile Robotics, UFPB (Federal University of Paraíba), Prof. Tiago Pereira do Nascimento](https://www.youtube.com/playlist?list=PLI1MB8Tq01INJdTRUKjs42LGaylORblJ8)
-
-[Digital Circuits, UFPR (Federal University of Paraná), Prof. Marco A. Zanata Alves](https://www.youtube.com/playlist?list=PL_9px37PNj6r23bVWzt08qWkxHxzFaEkb)
-
-[Parallel Programming, UFPR (Federal University of Paraná), Prof. Marco A. Zanata Alves](https://www.youtube.com/playlist?list=PL_9px37PNj6pyE7GbTyGyR598_T7T_cwG)
-
+#### Security
 [Information Security, UFU (Federal University of Uberlândia), Prof. Rodrigo Sanches Miani](https://www.youtube.com/playlist?list=PLs_jdaf767yXqc9Rq-o5Vdev4qphqsZWu)
 
 [Systems Security and Auditing, IFRS (Federal Institute of Rio Grande do Sul), Prof. Rafael Vieira Coelho](https://www.youtube.com/playlist?list=PLAEIPepIOW5BfV8t1A1cZ0GTQZd4jwdqZ)
 
-[Python Data Structure, Prof. Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
+#### Robotics
+[Digital Circuits, UFPR (Federal University of Paraná), Prof. Marco A. Zanata Alves](https://www.youtube.com/playlist?list=PL_9px37PNj6r23bVWzt08qWkxHxzFaEkb)
+
+[Mobile Robotics, UFPB (Federal University of Paraíba), Prof. Tiago Pereira do Nascimento](https://www.youtube.com/playlist?list=PLI1MB8Tq01INJdTRUKjs42LGaylORblJ8)
 
 ### Statistics (PT-BR)
 [Probability, ENCE (National School of Statistical Sciences), Prof. Gustavo Ferreira](https://www.youtube.com/playlist?list=PL5nbzsxqG2FOqyUPu_SHNFznUAuZMLCJI)
@@ -231,7 +238,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Governança de Dados, Udemy, Tech For You](https://www.udemy.com/course/governanca-de-dados/)
 
-### Data Engineering (EN-US)
+### Databases (EN-US)
 [PostgreSQL Bootcamp : Go From Beginner to Advanced, Udemy, Adnan Waheed](https://www.udemy.com/course/postgresqlmasterclass/)
 
 [The Ultimate Hands-On Hadoop: Tame your Big Data!, Udemy, Frank Kane](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/)
@@ -244,6 +251,12 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [SQL Server Integration Services (SSIS) - An Introduction, Udemy, Phillip Burton](https://www.udemy.com/course/sql-server-ssis-an-introduction/)
 
+[Distributed SQL and YugabyteDB Fundamentals, Udemy, Jimmy Guerrero](https://www.udemy.com/course/distributed-sql-and-yugabytedb-fundamentals/)
+
+[Snowflake Masterclass[stored proc+demos+Best practices+Labs], Udemy, Pradeep H C](https://www.udemy.com/course/snowflake-cloud-data-warehouse/)
+
+### Apache Airflow (EN-US)
+
 [Apache Airflow: The Hands-On Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/)
 
 [The Complete Hands-On Introduction to Apache Airflow, Udemy, Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
@@ -252,11 +265,15 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Apache Airflow on AWS EKS: The Hands-On Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide/)
 
+### Apache Spark (EN-US)
+
 [Apache Spark 3 - Databricks Certified Associate Developer, Udemy, Wadson Guimatsa](https://www.udemy.com/course/apache-spark-3-databricks-certified-associate-developer/)
 
 [Databricks Certified Associate Developer - Apache Spark 2022, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/)
 
 [Databricks Certified Developer for Spark 3.0 Practice Exams,Udemy, Florian Roscheck](https://www.udemy.com/course/databricks-certified-developer-for-apache-spark-30-practice-exams/)
+
+### Apache Kafka (EN-US)
 
 [Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek](https://www.udemy.com/course/apache-kafka/)
 
@@ -272,14 +289,11 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL, Udemy, Stepahne Maarek](https://www.udemy.com/course/apache-kafka-security/)
 
+### DevOps & CI/CD (EN-US)
+
 [HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
 [Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-
-[Distributed SQL and YugabyteDB Fundamentals, Udemy, Jimmy Guerrero](https://www.udemy.com/course/distributed-sql-and-yugabytedb-fundamentals/)
-
-[Snowflake Masterclass[stored proc+demos+Best practices+Labs], Udemy, Pradeep H C](https://www.udemy.com/course/snowflake-cloud-data-warehouse/)
-
 
 ### AWS (EN-US)
 [Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
@@ -293,13 +307,24 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Data Engineering using AWS Analytics Services, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/data-engineering-using-aws-analytics-services/)
 
 ### Azure (EN-US)
+[SC-900: Microsoft Security Fundamentals Exam Prep - NOV 2021, Udemy, Scott Duffy](https://www.udemy.com/course/sc900-azure/)
+
+[DP-100: A-Z Machine Learning using Azure Machine Learning, Udemy, Jitesh Khurkhuriya](https://www.udemy.com/course/machine-learning-using-azureml/)
+
+[AZ-104 Azure Administrator Associate Complete Preparation, Udemy, IT New Courses](https://www.udemy.com/course/az-104-azure-administrator-associate-complete-preparation/)
+
+[DA-100 certification: Analyzing Data with Microsoft Power BI, Udemy, Phillip Burton](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
+
+[Azure Machine Learning using Cognitive Services, Udemy, Tim Buchalka's Learn Programming Academy](https://www.udemy.com/course/azure-machine-learning-using-cognitive-services/)
+
+[Azure Kubernetes Service with Azure DevOps and Terraform, Udemy, Kalyan Reddy Daida](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
+
+### Azure Data Engineering(EN-US)
 [Azure Databricks & Spark Core For Data Engineers(Python/SQL), Udemy, Ramesh Retnasamy](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
 
 [Data Engineering using Databricks on AWS and Azure, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/)
 
 [Azure SQL Data Warehouse Synapse Analytics Service, Udemy, Eshant Garg](https://www.udemy.com/course/azure-sql-data-warehouse-synapse-analytics-service/)
-
-[Azure Kubernetes Service with Azure DevOps and Terraform, Udemy, Kalyan Reddy Daida](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
 
 [DP-203: Data Engineering on Microsoft Azure + Practice Tests, Udemy, Eshant Garg](https://www.udemy.com/course/dp200exam/)
 
@@ -310,16 +335,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Mini Project Development for Azure Data Engineer, Udemy, Karthik J](https://www.udemy.com/course/azure-big-data-mini-project/)
 
 [Azure Data Engineer - Interview Preparation Video Guide, Udemy, Karthik J](https://www.udemy.com/course/azure-data-engineering-interview-questions/)
-
-[SC-900: Microsoft Security Fundamentals Exam Prep - NOV 2021, Udemy, Scott Duffy](https://www.udemy.com/course/sc900-azure/)
-
-[DP-100: A-Z Machine Learning using Azure Machine Learning, Udemy, Jitesh Khurkhuriya](https://www.udemy.com/course/machine-learning-using-azureml/)
-
-[AZ-104 Azure Administrator Associate Complete Preparation, Udemy, IT New Courses](https://www.udemy.com/course/az-104-azure-administrator-associate-complete-preparation/)
-
-[DA-100 certification: Analyzing Data with Microsoft Power BI, Udemy, Phillip Burton](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
-
-[Azure Machine Learning using Cognitive Services, Udemy, Tim Buchalka's Learn Programming Academy](https://www.udemy.com/course/azure-machine-learning-using-cognitive-services/)
 
 ### GCP (EN-US)
 [GCP - Google Cloud Professional Data Engineer Certification, Udemy, Ankit Mistry](https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification/)
@@ -336,9 +351,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ## Others Courses
 [Python Fundamentos Para Análise de Dados, Data Science Academy](https://www.datascienceacademy.com.br/course/python-fundamentos)
 
-[Formação Cientista de Dados, Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados)
+[Data Scientist Training, DSA]()
 
-[Formação Engenheiro de Dados, Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-dados)
+[Data Engineer Training, DSA]()
 
 [Azure Database Administrator Associate, A Cloud Guru](https://acloudguru.com/course/azure-database-administrator-associate)
 
