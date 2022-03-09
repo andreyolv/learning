@@ -643,6 +643,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ### GitOps for Kubernetes
 [[Argo CD]](https://argo-cd.readthedocs.io/en/stable/)
+[[Flux CD]](https://fluxcd.io/docs/)
 
 ### DataOps for Kafka
 [[Lenses]](https://docs.lenses.io/)
