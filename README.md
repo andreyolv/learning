@@ -297,8 +297,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [HashiCorp Certified: Terraform Associate -50 Practical Demos, Udemy, Kalyan Reddy Daida](https://www.udemy.com/course/hashicorp-certified-terraform-associate-step-by-step/)
 
-[Docker and Kubernetes: The Complete Guide, Udemy, Stephen Grider](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
-
 [Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
 [Certified Kubernetes Administrator (CKA) with Practice Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
