@@ -293,8 +293,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
-[HashiCorp Certified: Terraform Associate - Hands-On Labs, Udemy, Bryan Krausen & Gabe Maentz](https://www.udemy.com/course/terraform-hands-on-labs/)
-
 [HashiCorp Certified: Terraform Associate -50 Practical Demos, Udemy, Kalyan Reddy Daida](https://www.udemy.com/course/hashicorp-certified-terraform-associate-step-by-step/)
 
 [Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
