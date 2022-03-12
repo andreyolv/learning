@@ -366,7 +366,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [O que é GitOps e como implementar com ArgoCD](https://www.youtube.com/watch?v=4CtHL0XXdMM)
 [Primeiros passos com Helm](https://www.youtube.com/watch?v=pII5v8nc04E)
 [LIVE - SUPER AULÃO DESCOMPLICANDO O KUBERNETES](https://www.youtube.com/watch?v=zz1p3gjyHgc)
-[[DAMA (Data Management) DMBOK, Data Engineering LATAM, Prof. David Regalado](https://www.youtube.com/watch?v=Aw2dfnAk8iw&list=PLdxuOh58KNA6_o3VqvY-i2gUSfmptxzuT&index=1)
+[DAMA (Data Management) DMBOK, Data Engineering LATAM, Prof. David Regalado](https://www.youtube.com/watch?v=Aw2dfnAk8iw&list=PLdxuOh58KNA6_o3VqvY-i2gUSfmptxzuT&index=1)
 [Azure Cosmos DB Live TV](https://www.youtube.com/watch?v=MsWbbNqYfnI&list=PLmamF3YkHLoKMzT3gP4oqHiJbjMaiiLEh&index=42)
 [Aulão preparatório AZ-900](https://www.youtube.com/watch?v=ijyA2wtEH0s)
 [AZ-900 - Revisão Completa 2021](https://www.youtube.com/watch?v=DlfDKhFb1XU)
@@ -374,7 +374,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam!](https://www.youtube.com/watch?v=AplluksKvzI)
 [MASTER CLASS GITHUB ACTIONS](https://www.youtube.com/watch?v=GlJAUiQZ79w)
 [Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo)
-
+[Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.youtube.com/watch?v=JwSS70SZdyM)
+[Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
+[Flask Course - Python Web Application Development](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
 
 **[⬆ Back to top](#learning)**
 
@@ -797,7 +799,59 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Youtube
-[[List Youtube Channels]]()
+### Data Science (PT-BR)
+[Mario Filho Brasil](https://www.youtube.com/channel/UCIFd_i2iwYox1PPm9rD8wFA)
+[Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)
+[Carlos Melo](https://www.youtube.com/channel/UCxaCu5ht7d3jvisTpiW6vxw)
+[Stack](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q)
+[Téo Me Why](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA)
+[ORMaster](https://www.youtube.com/channel/UCyf-RbtZplaSxECFwE6CFVw)
+[Diego Nogare](https://www.youtube.com/channel/UCtjb-k1uREGXpG2Ky_vvl-g)
+[EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
+[Data Science Academy](https://www.youtube.com/channel/UCyoi9yYaQRQ2F34wDLosr2A)
+[IA Expert Academy](https://www.youtube.com/channel/UCaGrIWpwjWXT6OIQh9W4Riw)
+[GAVB Consulting](https://www.youtube.com/c/GAVBConsulting/featured)
+
+### Data Science (EN-US)
+[Murtaza's Workshop - Robotics and AI](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/featured)
+[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+[sentdex](https://www.youtube.com/c/sentdex/featured)
+[Corey Schafer](https://www.youtube.com/c/Coreyms/featured)
+[Tech With Tim](https://www.youtube.com/c/TechWithTim/featured)
+[PyData](https://www.youtube.com/user/PyDataTV/featured)
+[Venelin Valkov](https://www.youtube.com/c/VenelinValkovBG/featured)
+[Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte/featured)
+[Keith Galli](https://www.youtube.com/c/KGMIT/featured)
+[KGP Talkie](https://www.youtube.com/c/KGPTalkie/featured)
+[Data Professor](https://www.youtube.com/c/DataProfessor)
+[Pysource](https://www.youtube.com/channel/UC5hHNks012Ca2o_MPLRUuJw)
+[Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
+[Aladdin Persson](https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ)
+[MLT Artificial Intelligence](https://www.youtube.com/c/MLTOKYO/featured)
+
+### Data Science Lectures (PT-BR)
+[Dalcimar Casanova](https://www.youtube.com/channel/UCJSEin0c3p5UY1erP8gZcjw)
+[Prof. Dr. Marcos Santos](https://www.youtube.com/channel/UCOvVH9dOdgn0PwpCxMavUSA)
+[Prof. Dr. Petronio Silva](https://www.youtube.com/channel/UCpOqLY5F8rtnP8S0odRxXvQ)
+[Aldo von Wangenheim](https://www.youtube.com/channel/UCJy2xN1Wq9SQir9oZmWHGlQ)
+[Francisco Rodrigues](https://www.youtube.com/channel/UCpWLePIWw2B0qUkvPjdRzxw)
+[Thiago Naves](https://www.youtube.com/channel/UCpfk-yP4KquvK0lJKuLx5wg)
+[Carlos Alexandre Fernandes](https://www.youtube.com/channel/UCrxDYm1T9Y1uXc_0X7sOekA)
+[Abel Siqueira](https://www.youtube.com/channel/UCrHWmb1a2JW50QovKgkcKCQ)
+[CANAL SANDECO](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ)
+[ProfDanilo_DS](https://www.youtube.com/channel/UCBDl_PUfpQuO7iS9_4sVxHw)
+
+### Data Science Lectures (EN-US)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
 
 **[⬆ Back to top](#learning)**
 
