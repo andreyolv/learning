@@ -136,7 +136,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [CS229I Machine Learning, Stanford University, Prof. Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
-[CS224N Natural Processing with Deep Learning, Stanford University, Prof. Christopher Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+[CS224N Natural Language Processing with Deep Learning, Stanford University, Prof. Christopher Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 [CS224U Natural Language Understanding,  Stanford University, Prof. Christopher Potts](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 
