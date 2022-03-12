@@ -7,7 +7,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 * [Others University Lectures](#others-university-lectures)
 * [Coursera Programs](#coursera-programs)
 * [Udemy Courses](#udemy-courses)
+* [Youtube Courses](#youtube-courses)
 * [Others Courses](#others-courses)
+* [Others](#others)
 * [Documentations](#documentations)
 * [Githubs](#githubs)
 * [Kaggle](#kaggle)
@@ -352,6 +354,30 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 **[⬆ Back to top](#learning)**
 
+## Youtube Courses
+
+[HashiCorp Terraform Associate Certification Course - Pass the Exam!](https://www.youtube.com/watch?v=V4waklkBC38)
+[Azure AI Fundamentals Certification (AI-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=OwZHNH8EfSU)
+[Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=10PbGbTUSAg)
+[Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=P3qmqUZJ7l0)
+[Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam](https://www.youtube.com/watch?v=LLKza5oULAA)
+[AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc)
+[O SQL Server é extremamente rápido. Você que não sabe usar!](https://www.youtube.com/watch?v=KEQ7RiecM7s&list=PLAbYWcQD84aPp3SzYGiEOa9tOl2ShTL2y&index=11)
+[O que é GitOps e como implementar com ArgoCD](https://www.youtube.com/watch?v=4CtHL0XXdMM)
+[Primeiros passos com Helm](https://www.youtube.com/watch?v=pII5v8nc04E)
+[LIVE - SUPER AULÃO DESCOMPLICANDO O KUBERNETES](https://www.youtube.com/watch?v=zz1p3gjyHgc)
+[[DAMA (Data Management) DMBOK, Data Engineering LATAM, Prof. David Regalado](https://www.youtube.com/watch?v=Aw2dfnAk8iw&list=PLdxuOh58KNA6_o3VqvY-i2gUSfmptxzuT&index=1)
+[Azure Cosmos DB Live TV](https://www.youtube.com/watch?v=MsWbbNqYfnI&list=PLmamF3YkHLoKMzT3gP4oqHiJbjMaiiLEh&index=42)
+[Aulão preparatório AZ-900](https://www.youtube.com/watch?v=ijyA2wtEH0s)
+[AZ-900 - Revisão Completa 2021](https://www.youtube.com/watch?v=DlfDKhFb1XU)
+[Série SC-900](https://www.youtube.com/watch?v=BfKZYoE-WhI&list=PLRDE_Sn9kWTNHY5U1_kFxG1rrpCF3_t1K)
+[CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam!](https://www.youtube.com/watch?v=AplluksKvzI)
+[MASTER CLASS GITHUB ACTIONS](https://www.youtube.com/watch?v=GlJAUiQZ79w)
+[Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo)
+
+
+**[⬆ Back to top](#learning)**
+
 ## Others Courses
 [Python Fundamentos Para Análise de Dados, Data Science Academy](https://www.datascienceacademy.com.br/course/python-fundamentos)
 
@@ -367,13 +393,13 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Programming in T-SQL, Prof. Luiz Santana]()
 
-[DAMA (Data Management) DMBOK, Data Engineering LATAM, Prof. David Regalado]()
-
 [Data Engineering with Apache Spark and Apache Kafka, Luan Moreno and Mateus Oliveira]()
 
 [MongoDB Basics, MongoDB University]()
 
-## Others
+**[⬆ Back to top](#learning)**
+
+## Others not about data
 [Cosmology I, UFSC (Federal University of Santa Catarina), Prof. Alexandre Zabot]()
 
 [General Astrophysics, UFSC (Federal University of Santa Catarina), Prof. Alexandre Zabot]()
@@ -389,6 +415,45 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Solar System Astrophysics, National Observatory]()
 
 **[⬆ Back to top](#learning)**
+
+## Languages
+### General
+
+
+### English
+[Aulas de Inglês - do Básico ao Avançado | Curso de Inglês completo e GRATUITO](https://www.youtube.com/watch?v=euIqptZpe5Q)
+[LEARN ENGLISH STEP BY STEP. ENGLISH GRAMMAR LESSONS FOR BEGINERS FULL COURSE](https://www.youtube.com/watch?v=3ALFXWB_kBs)
+
+### Spanish
+[]()
+[Espanhol | Kultivi](https://www.youtube.com/watch?v=T0Xi5x025KU&list=PL8vXuI6zmpdhL0QvzsaQ7VIHSyT9xkjvT&index=7)
+
+### French
+[]()
+[Your Daily 30 Minutes of French Phrases](https://www.youtube.com/watch?v=3zcQnmJTyCc&list=PLZNV0gmRjgU_PUGkbwYb6kKBN9nJadO13)
+[Kultivi | Francês](https://www.youtube.com/watch?v=Om2350h2i0U&list=PL8vXuI6zmpdjMJ8vl4UYi87aMREaYPi2c)
+
+### German
+[]()
+[Curso de Alemão | Kultivi](https://www.youtube.com/watch?v=f9NQo5p0Qx0&list=PL8vXuI6zmpdg9JXtiJ1ap9ZdoIdbERp_H)
+
+### Italian
+[Italiano per tutti - Corso di italiano madrelingua](https://www.youtube.com/watch?v=Hw3NSg_M02s&list=PLAaIpKSuvg6XGhZQrPPALyA-5A6AigvD4&index=1)
+[Kultivi | Italiano](https://www.youtube.com/watch?v=awNNmnbvYo8&list=PL8vXuI6zmpdiakr88rpa5cMApzxO5Baau)
+
+### Russian
+[From zero to fluency - Russian](https://www.youtube.com/watch?v=AYRZupz6rdw&list=PLx1Hrg5Bg3xrnm30dNPZ5q2R9J6Zz2vUq)
+[]()
+
+### Chinese
+[]()
+[]()
+
+### Greek
+[Curso de Grego (Escola Charles Spurgeon](https://www.youtube.com/watch?v=16LP7oUf-GQ&list=PLoUw0nVoh-7aSTcS1BatZw-X33XMjiGdV)
+
+### Arabic
+[Corso di arabo - Lezioni di arabo](https://www.youtube.com/watch?v=yXc-ZFd5dvo&list=PLvazWuEGDJFZKqC55FpJYpxT09hrP5hiJ)
 
 ## Documentations
 ### Python
