@@ -402,6 +402,11 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 **[⬆ Back to top](#learning)**
 
+## Official Courses
+[MongoDB Basics, MongoDB University]()
+
+[dbt Fundamentals - Learn Analytics Engineering with dbt, getdbt, Kyle Coapman]()
+
 ## Others Courses
 [Python Fundamentos Para Análise de Dados, Data Science Academy](https://www.datascienceacademy.com.br/course/python-fundamentos)
 
@@ -418,8 +423,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Programming in T-SQL, Prof. Luiz Santana]()
 
 [Data Engineering with Apache Spark and Apache Kafka, Luan Moreno and Mateus Oliveira]()
-
-[MongoDB Basics, MongoDB University]()
 
 **[⬆ Back to top](#learning)**
 
