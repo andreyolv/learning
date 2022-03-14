@@ -357,19 +357,21 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ## ExamPro Courses
 [Microsoft Azure Fundamentals Certification Course (AZ-900)](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
-[Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=P3qmqUZJ7l0)
+[Azure Data Fundamentals Certification (DP-900)](https://www.youtube.com/watch?v=P3qmqUZJ7l0)
 
-[Azure AI Fundamentals Certification (AI-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=OwZHNH8EfSU)
+[Azure AI Fundamentals Certification (AI-900)](https://www.youtube.com/watch?v=OwZHNH8EfSU)
 
-[Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam](https://www.youtube.com/watch?v=LLKza5oULAA)
+[Microsoft Security Compliance and Identity (SC-900)](https://www.youtube.com/watch?v=LLKza5oULAA)
 
-[Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=10PbGbTUSAg)
+[Azure Administrator Certification (AZ-104)](https://www.youtube.com/watch?v=10PbGbTUSAg)
 
-[AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc)
+[AWS Certified Cloud Practitioner Certification Course (CLF-C01)](https://www.youtube.com/watch?v=SOTamWNgDKc)
 
-[CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam!](https://www.youtube.com/watch?v=AplluksKvzI)
+[CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA)](https://www.youtube.com/watch?v=AplluksKvzI)
 
-[HashiCorp Terraform Associate Certification Course - Pass the Exam!](https://www.youtube.com/watch?v=V4waklkBC38)
+[HashiCorp Terraform Associate Certification Course](https://www.youtube.com/watch?v=V4waklkBC38)
+
+**[⬆ Back to top](#learning)**
 
 ## Youtube Courses
 [DAMA (Data Management) DMBOK, Data Engineering LATAM, Prof. David Regalado](https://www.youtube.com/watch?v=Aw2dfnAk8iw&list=PLdxuOh58KNA6_o3VqvY-i2gUSfmptxzuT&index=1)
