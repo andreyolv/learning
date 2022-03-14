@@ -354,28 +354,48 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 **[⬆ Back to top](#learning)**
 
-## Youtube Courses
+## ExamPro Courses
+[Microsoft Azure Fundamentals Certification Course (AZ-900)](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
+
+[Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=P3qmqUZJ7l0)
+
+[Azure AI Fundamentals Certification (AI-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=OwZHNH8EfSU)
+
+[Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam](https://www.youtube.com/watch?v=LLKza5oULAA)
+
+[Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=10PbGbTUSAg)
+
+[AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc)
+
+[CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam!](https://www.youtube.com/watch?v=AplluksKvzI)
 
 [HashiCorp Terraform Associate Certification Course - Pass the Exam!](https://www.youtube.com/watch?v=V4waklkBC38)
-[Azure AI Fundamentals Certification (AI-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=OwZHNH8EfSU)
-[Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=10PbGbTUSAg)
-[Azure Data Fundamentals Certification (DP-900) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=P3qmqUZJ7l0)
-[Microsoft Security Compliance and Identity (SC-900) - Full Course PASS the Exam](https://www.youtube.com/watch?v=LLKza5oULAA)
-[AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc)
-[O SQL Server é extremamente rápido. Você que não sabe usar!](https://www.youtube.com/watch?v=KEQ7RiecM7s&list=PLAbYWcQD84aPp3SzYGiEOa9tOl2ShTL2y&index=11)
-[O que é GitOps e como implementar com ArgoCD](https://www.youtube.com/watch?v=4CtHL0XXdMM)
-[Primeiros passos com Helm](https://www.youtube.com/watch?v=pII5v8nc04E)
-[LIVE - SUPER AULÃO DESCOMPLICANDO O KUBERNETES](https://www.youtube.com/watch?v=zz1p3gjyHgc)
+
+## Youtube Courses
 [DAMA (Data Management) DMBOK, Data Engineering LATAM, Prof. David Regalado](https://www.youtube.com/watch?v=Aw2dfnAk8iw&list=PLdxuOh58KNA6_o3VqvY-i2gUSfmptxzuT&index=1)
+
 [Azure Cosmos DB Live TV](https://www.youtube.com/watch?v=MsWbbNqYfnI&list=PLmamF3YkHLoKMzT3gP4oqHiJbjMaiiLEh&index=42)
+
 [Aulão preparatório AZ-900](https://www.youtube.com/watch?v=ijyA2wtEH0s)
+
 [AZ-900 - Revisão Completa 2021](https://www.youtube.com/watch?v=DlfDKhFb1XU)
+
 [Série SC-900](https://www.youtube.com/watch?v=BfKZYoE-WhI&list=PLRDE_Sn9kWTNHY5U1_kFxG1rrpCF3_t1K)
-[CNCF Kubernetes and Cloud Native Associate Certification Course (KCNA) - Pass the Exam!](https://www.youtube.com/watch?v=AplluksKvzI)
+
+[O SQL Server é extremamente rápido. Você que não sabe usar!](https://www.youtube.com/watch?v=KEQ7RiecM7s&list=PLAbYWcQD84aPp3SzYGiEOa9tOl2ShTL2y&index=11)
+
+[O que é GitOps e como implementar com ArgoCD](https://www.youtube.com/watch?v=4CtHL0XXdMM)
+
+[Primeiros passos com Helm](https://www.youtube.com/watch?v=pII5v8nc04E)
+
 [MASTER CLASS GITHUB ACTIONS](https://www.youtube.com/watch?v=GlJAUiQZ79w)
+
 [Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo)
+
 [Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.youtube.com/watch?v=JwSS70SZdyM)
+
 [Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
+
 [Flask Course - Python Web Application Development](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
 
 **[⬆ Back to top](#learning)**
