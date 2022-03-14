@@ -375,13 +375,41 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ## Youtube Courses
 ### Playlist Courses
+#### Data Engineering LATAM
+[Designing Data-Intensive Applications](https://www.youtube.com/watch?v=H9UUj_jCd8Q&list=PLdxuOh58KNA5J8PWsu1PZ550VIAeYDNMR)
+
+[Learning Spark, 2nd Edition](https://www.youtube.com/watch?v=9m9_l4hewbo&list=PLdxuOh58KNA6Z0TOpeUiU8d6yX9tcQ4UH)
+
+[Official Google Cloud Certified Professional Data](https://www.youtube.com/watch?v=x_xWf6DOk18&list=PLdxuOh58KNA6S_edelHGIUx9sf_J3DNou)
+
+[Databricks Certified Associate Developer for Apache Spark 3.0](https://www.youtube.com/watch?v=3XfhhN2MaFM&list=PLdxuOh58KNA4oXgATsaLj9j6Ds8M31Uc_)
+
+[Airflow Study Group](https://www.youtube.com/watch?v=9E0hCLe750s&list=PLdxuOh58KNA6tjwp2xMiucO53XsvaG48L)
+
+[Learning SQL](https://www.youtube.com/watch?v=HC-nQhYQIu4&list=PLdxuOh58KNA6ybDbpk4pmk5BCxluqz5cS)
+
+[Spark Study Group](https://www.youtube.com/watch?v=6O_p2fkjREE&list=PLdxuOh58KNA6CH3sQS6zhuIVKoPllmXiB)
+
+[Azure](https://www.youtube.com/watch?v=SEWAmW8xVLw&list=PLdxuOh58KNA5KdJXw7Z3TZMgKD90guixl)
+
+[AWS](https://www.youtube.com/watch?v=VscMqzLvXms&list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
+
 [DAMA (Data Management) DMBOK, Data Engineering LATAM, Prof. David Regalado](https://www.youtube.com/watch?v=Aw2dfnAk8iw&list=PLdxuOh58KNA6_o3VqvY-i2gUSfmptxzuT&index=1)
+
+#### Others
+[Lives de Python - Eduardo Mendes](https://www.youtube.com/watch?v=NtZY3AmsBSk&list=PLOQgLBuj2-3K1hb7XgkGPb4S9YNIeHsPk)
+
+[Master Databricks and Apache Spark](https://www.youtube.com/watch?v=SBTvJU2vEoc&list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp)
+
+[Lives sobre Big Data - Luan Moreno](https://www.youtube.com/watch?v=ZVzuU-YqPXY&list=PLjwVjYMyoFoG0BRPyan8Z-QJ4CN7C1Bh5)
 
 [Azure Cosmos DB Live TV](https://www.youtube.com/watch?v=MsWbbNqYfnI&list=PLmamF3YkHLoKMzT3gP4oqHiJbjMaiiLEh&index=42)
 
 [Série SC-900](https://www.youtube.com/watch?v=BfKZYoE-WhI&list=PLRDE_Sn9kWTNHY5U1_kFxG1rrpCF3_t1K)
 
 [O SQL Server é extremamente rápido. Você que não sabe usar!](https://www.youtube.com/watch?v=KEQ7RiecM7s&list=PLAbYWcQD84aPp3SzYGiEOa9tOl2ShTL2y&index=11)
+
+[fast.ai Code-First Intro to Natural Language](https://www.youtube.com/watch?v=cce8ntxP_XI&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
 ### Uselful Videos
 [Aulão preparatório AZ-900](https://www.youtube.com/watch?v=ijyA2wtEH0s)
@@ -396,11 +424,18 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo)
 
-[Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.youtube.com/watch?v=JwSS70SZdyM)
-
 [Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
 
+#### Machine Learning
+[Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.youtube.com/watch?v=JwSS70SZdyM)
+
+[Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
+
+[Reinforcement Learning in 3 Hours | Full Course using Python](https://www.youtube.com/watch?v=Mut_u40Sqz4)
+
 [Flask Course - Python Web Application Development](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
+
+[OpenCV Python for Beginners - Full Course in 10 Hours - Learn Computer Vision with OpenCV](https://www.youtube.com/watch?v=N81PCpADwKQ)
 
 **[⬆ Back to top](#learning)**
 
