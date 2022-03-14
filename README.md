@@ -374,17 +374,19 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Youtube Courses
+### Playlist Courses
 [DAMA (Data Management) DMBOK, Data Engineering LATAM, Prof. David Regalado](https://www.youtube.com/watch?v=Aw2dfnAk8iw&list=PLdxuOh58KNA6_o3VqvY-i2gUSfmptxzuT&index=1)
 
 [Azure Cosmos DB Live TV](https://www.youtube.com/watch?v=MsWbbNqYfnI&list=PLmamF3YkHLoKMzT3gP4oqHiJbjMaiiLEh&index=42)
 
-[Aulão preparatório AZ-900](https://www.youtube.com/watch?v=ijyA2wtEH0s)
-
-[AZ-900 - Revisão Completa 2021](https://www.youtube.com/watch?v=DlfDKhFb1XU)
-
 [Série SC-900](https://www.youtube.com/watch?v=BfKZYoE-WhI&list=PLRDE_Sn9kWTNHY5U1_kFxG1rrpCF3_t1K)
 
 [O SQL Server é extremamente rápido. Você que não sabe usar!](https://www.youtube.com/watch?v=KEQ7RiecM7s&list=PLAbYWcQD84aPp3SzYGiEOa9tOl2ShTL2y&index=11)
+
+### Uselful Videos
+[Aulão preparatório AZ-900](https://www.youtube.com/watch?v=ijyA2wtEH0s)
+
+[AZ-900 - Revisão Completa 2021](https://www.youtube.com/watch?v=DlfDKhFb1XU)
 
 [O que é GitOps e como implementar com ArgoCD](https://www.youtube.com/watch?v=4CtHL0XXdMM)
 
@@ -895,13 +897,31 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Books
+### Programming
 [[Python Notes for Professionals]](https://bratliservice.eu/doc/PythonNotesForProfessionals.pdf)
 
 [[Learning pandas]](https://riptutorial.com/Download/pandas.pdf)
 
+### Machine Learning
 [[Natural Language Processing with Python]](https://www.nltk.org/book_1ed/)
 
-[[The Big Book of Data Engineering]](https://databricks.com/wp-content/uploads/2021/10/Big-Book-of-Data-Engineering-Final.pdf)
+### Data Engineering
+
+[Data Pipelines with Apache Airflow, Bas Harenslak & Julian de Ruiter]
+
+[The Mordern Data Warehouse in Azure, Matt How]
+
+[Understanding Azure Data Factory, Sudhir Rawat Abhishek Narain]
+
+[Data Lake Analytics on Microsoft Azure, Harsh Chawla & Pankaj Khattar]
+
+[Azure Data Factory by Example, Richard Swinbank]
+
+[Azure Data Engineering Cookbook, Ahmad Osama]
+
+[Learning Spark; Jules S. Damji, Brooke Wening, Tathagata Das & Denny Lee]
+
+[Spark The Definitive Guide, Bill Chambers & Matei Zaharia]
 
 **[⬆ Back to top](#learning)**
 
