@@ -291,6 +291,10 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL, Udemy, Stepahne Maarek](https://www.udemy.com/course/apache-kafka-security/)
 
+[CCDAK Confluent Certified Developer for Apache Kafka TESTS](https://www.udemy.com/course/confluent-certified-developer-for-apache-kafka/)
+
+[Practice Exams | Confluent Certified Apache Kafka Developer](https://www.udemy.com/course/confluent-certified-apache-kafka-developer-practice-exams/)
+
 ### DevOps & CI/CD (EN-US)
 
 [HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
