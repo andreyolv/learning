@@ -492,8 +492,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Kultivi | Inglês | Rui Ventura | CURSO GRATUITO ](https://www.youtube.com/watch?v=wV9NF2lq35c&list=PL8vXuI6zmpdgsO3Ec64aGFYrcp2WOPhUu&index=1)
 
 ### Spanish
-[Full Spanish course - Learn Spanish free](https://www.youtube.com/watch?v=Sd7fZia_nEk&list=PLKQEL9j11yiVY7mQfHfzOjTGpamVzoVrc)
-
 [Espanhol | Kultivi](https://www.youtube.com/watch?v=T0Xi5x025KU&list=PL8vXuI6zmpdhL0QvzsaQ7VIHSyT9xkjvT&index=7)
 
 ### French
@@ -501,19 +499,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Your Daily 30 Minutes of French Phrases](https://www.youtube.com/watch?v=3zcQnmJTyCc&list=PLZNV0gmRjgU_PUGkbwYb6kKBN9nJadO13)
 
-[Kultivi | Francês](https://www.youtube.com/watch?v=Om2350h2i0U&list=PL8vXuI6zmpdjMJ8vl4UYi87aMREaYPi2c)
-
 ### German
-[A1 | Learn German for beginners](https://www.youtube.com/watch?v=RuGmc662HDg&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW)
-
-[A2 | Learn German for beginners](https://www.youtube.com/watch?v=DnewKMVyflE&list=PLF9mJC4RrjIhv0_YjWvC0pmM1EZlVylBt)
-
-[B1 Learn German Intermediate](https://www.youtube.com/watch?v=WGMXaRe6UKA&list=PLF9mJC4RrjIhhEGuI2x4_WWaIyn9q7MzV)
-
-[B2 | Learn German Intermediate](https://www.youtube.com/watch?v=SDZoF09EWfE&list=PLF9mJC4RrjIirvi-7FRT0hPbdfwcmFDH1)
-
-[C1 | Learn German Intermediate](https://www.youtube.com/watch?v=FUl6P7XDemc&list=PLF9mJC4RrjIjlxkiVa8VEG55Lp9TcJMKP)
-
 [German A1](https://www.youtube.com/watch?v=gz9JbZcfnrk&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg)
 
 [German A2](https://www.youtube.com/watch?v=hB9AnBkBv2o&list=PL5QyCnFPRx0G34DRN9b5MDwsUQoxIbg6c)
@@ -522,14 +508,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [German B2](https://www.youtube.com/watch?v=m2zEpRxrKlc&list=PL5QyCnFPRx0HwdFq5hG3B47NCsaAaJN17)
 
-[Curso de ALEMAN](https://www.youtube.com/watch?v=zeM8I-QU02k&list=PLKQEL9j11yiUNfNuDZ1DTW4QhgbMHKE7w)
-
-[Curso de Alemão | Kultivi](https://www.youtube.com/watch?v=f9NQo5p0Qx0&list=PL8vXuI6zmpdg9JXtiJ1ap9ZdoIdbERp_H)
-
 ### Italian
 [Italiano per tutti - Corso di italiano madrelingua](https://www.youtube.com/watch?v=Hw3NSg_M02s&list=PLAaIpKSuvg6XGhZQrPPALyA-5A6AigvD4&index=1)
-
-[Kultivi | Italiano](https://www.youtube.com/watch?v=awNNmnbvYo8&list=PL8vXuI6zmpdiakr88rpa5cMApzxO5Baau)
 
 ### Russian
 [From zero to fluency - Russian](https://www.youtube.com/watch?v=AYRZupz6rdw&list=PLx1Hrg5Bg3xrnm30dNPZ5q2R9J6Zz2vUq)
