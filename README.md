@@ -491,10 +491,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### English
 [Kultivi | Inglês | Rui Ventura | CURSO GRATUITO ](https://www.youtube.com/watch?v=wV9NF2lq35c&list=PL8vXuI6zmpdgsO3Ec64aGFYrcp2WOPhUu&index=1)
 
-[Aulas de Inglês - do Básico ao Avançado | Curso de Inglês completo e GRATUITO](https://www.youtube.com/watch?v=euIqptZpe5Q)
-
-[LEARN ENGLISH STEP BY STEP. ENGLISH GRAMMAR LESSONS FOR BEGINERS FULL COURSE](https://www.youtube.com/watch?v=3ALFXWB_kBs)
-
 ### Spanish
 [Full Spanish course - Learn Spanish free](https://www.youtube.com/watch?v=Sd7fZia_nEk&list=PLKQEL9j11yiVY7mQfHfzOjTGpamVzoVrc)
 
