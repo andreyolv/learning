@@ -494,6 +494,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Spanish
 [Espanhol | Kultivi](https://www.youtube.com/watch?v=T0Xi5x025KU&list=PL8vXuI6zmpdhL0QvzsaQ7VIHSyT9xkjvT&index=7)
 
+[Spanish GCSE 9-1 Topics: Last-minute Grammar revision 2019](https://www.youtube.com/watch?v=g_TZ8KRq9a4)
+
 ### French
 [Learn French with Vincent](https://www.youtube.com/watch?v=s5fqFNAZpRg&list=PLmT_HVERSOBrlFLtknUJ2A0xwTQKcUqB0)
 
@@ -507,6 +509,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [German B1](https://www.youtube.com/watch?v=gXuC1fCoSGk&list=PL5QyCnFPRx0ERsuCX43hYyV3xIoGCdC96)
 
 [German B2](https://www.youtube.com/watch?v=m2zEpRxrKlc&list=PL5QyCnFPRx0HwdFq5hG3B47NCsaAaJN17)
+
+[Entire German Grammar Course: Learn German Smarter Not Harder | German with Laura](https://www.youtube.com/watch?v=paDNTjoWExI)
 
 ### Italian
 [Italiano per tutti - Corso di italiano madrelingua](https://www.youtube.com/watch?v=Hw3NSg_M02s&list=PLAaIpKSuvg6XGhZQrPPALyA-5A6AigvD4&index=1)
