@@ -416,17 +416,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [fast.ai Code-First Intro to Natural Language](https://www.youtube.com/watch?v=cce8ntxP_XI&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
 ### Uselful Videos
-[Aulão preparatório AZ-900](https://www.youtube.com/watch?v=ijyA2wtEH0s)
-
-[AZ-900 - Revisão Completa 2021](https://www.youtube.com/watch?v=DlfDKhFb1XU)
-
 [O que é GitOps e como implementar com ArgoCD](https://www.youtube.com/watch?v=4CtHL0XXdMM)
 
 [Primeiros passos com Helm](https://www.youtube.com/watch?v=pII5v8nc04E)
-
-[MASTER CLASS GITHUB ACTIONS](https://www.youtube.com/watch?v=GlJAUiQZ79w)
-
-[Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo)
 
 [Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn](https://www.youtube.com/watch?v=S2MUhGA3lEw)
 
