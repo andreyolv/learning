@@ -436,6 +436,26 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Official Courses
+[Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+
+[Exam AI-900: Microsoft Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
+
+[Exam DP-900: Microsoft Azure Data Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900)
+
+[Exam AZ-104: Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+
+[Exam DP-203: Data Engineering on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
+
+[Exam DP-300: Administering Relational Databases on Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300)
+
+[Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102)
+
+[Exam DP-100: Designing and Implementing a Data Science Solution on Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
+
+[Microsoft Certified: Azure Cosmos DB Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-cosmos-db-developer-specialty/)
+
+[Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100)
+
 [MongoDB Basics, MongoDB University]()
 
 [dbt Fundamentals - Learn Analytics Engineering with dbt, getdbt, Kyle Coapman]()
