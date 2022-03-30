@@ -412,6 +412,10 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [fast.ai Code-First Intro to Natural Language](https://www.youtube.com/watch?v=cce8ntxP_XI&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
 ### Uselful Videos
+[Curso de Git e Github COMPLETO 2021 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+
+[Curso SQL Completo 2019 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=rX2I7OjLqWE&t=223s)
+
 [O que é GitOps e como implementar com ArgoCD](https://www.youtube.com/watch?v=4CtHL0XXdMM)
 
 [Primeiros passos com Helm](https://www.youtube.com/watch?v=pII5v8nc04E)
