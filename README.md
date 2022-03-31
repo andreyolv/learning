@@ -1004,4 +1004,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[ML Ops]](https://ml-ops.org/)
 [[Made With ML]](https://madewithml.com/)
 
+## Events
+[[Microsoft]](https://www.microsoft.com/pt-pt/partner-training?type=course)
+
 **[⬆ Back to top](#learning)**
