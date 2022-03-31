@@ -225,6 +225,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Container Orchestration with Kubernetes, Udemy, Geek University](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
 
 ### Data Science (EN-US)
+[Machine Learning with Imbalanced Data](https://www.udemy.com/course/machine-learning-with-imbalanced-data/)
+
 [TensorFlow Developer Certificate in 2021: Zero to Mastery, Udemy, ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
 [A deep understanding of deep learning (with Python intro), Udemy, Mike X Cohen](https://www.udemy.com/course/deeplearning_x/)
@@ -245,7 +247,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [The Ultimate Hands-On Hadoop: Tame your Big Data!, Udemy, Frank Kane](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/)
 
-[Elasticsearch 7 and the Elastic Stack: In Depth and Hands On, Udemy, Frank Kane](https://www.udemy.com/course/elasticsearch-7-and-elastic-stack/)
+[Complete Guide to Elasticsearch](https://www.udemy.com/course/elasticsearch-complete-guide/)
 
 [Getting Started With Apache Cassandra, Udemy, Infinite Skills](https://www.udemy.com/course/apache-cassandra/)
 
@@ -296,6 +298,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Practice Exams | Confluent Certified Apache Kafka Developer](https://www.udemy.com/course/confluent-certified-apache-kafka-developer-practice-exams/)
 
 ### DevOps & CI/CD (EN-US)
+[Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins](https://www.udemy.com/course/devops-fundamentals-aws/)
+
+[DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes](https://www.udemy.com/course/valaxy-devops/)
 
 [HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
@@ -351,6 +356,11 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [MLOps Fundamentals: CI/CD/CT Pipelines of ML with Azure Demo, Udemy, J Garg](https://www.udemy.com/course/mlops-course/)
 
 [Data Science- Project Management Methodology - CRISP-DM, Udemy, 306DigiTMG Elearning](https://www.udemy.com/course/data-science-project-management-methodology-crisp-dm/)
+
+### Linux (EN-US)
+[Linux Mastery: Master the Linux Command Line in 11.5 Hours](https://www.udemy.com/course/linux-mastery/)
+
+[Linux Administration: The Complete Linux Bootcamp for 2022](https://www.udemy.com/course/master-linux-administration/)
 
 **[⬆ Back to top](#learning)**
 
@@ -773,6 +783,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ### Data Lake
 [[MinIO]](https://min.io/)
+[[lakeFS]](https://lakefs.io/)
 
 ### Lakehouse
 [[Delta Lake]](https://docs.delta.io/latest/index.html)
@@ -798,11 +809,18 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Argo CD]](https://argo-cd.readthedocs.io/en/stable/)
 [[Flux CD]](https://fluxcd.io/docs/)
 
+### Modern Stack
+[[dbt]](https://www.getdbt.com/)
+[[Airbyte]](https://airbyte.com/)
+
 ### DataOps for Kafka
 [[Lenses]](https://docs.lenses.io/)
 
 ### Infrastructure as Code
 [[Terraform]](https://www.terraform.io/docs)
+
+### Data Catalog
+[[Amundsen]](https://www.amundsen.io/)
 
 ## Programming
 [[Python]](https://docs.python.org/3/library/index.html)
@@ -994,6 +1012,10 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Kaggle Reading Group - Kaggle](https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9)
 
 **[⬆ Back to top](#learning)**
+
+## Blogs
+[When NOT to use Apache Kafka?](https://www.kai-waehner.de/blog/2022/01/04/when-not-to-use-apache-kafka/)
+
 
 ## Sites
 [[W3schools]](https://www.w3schools.com/)
