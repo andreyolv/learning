@@ -277,6 +277,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Databricks Certified Developer for Spark 3.0 Practice Exams,Udemy, Florian Roscheck](https://www.udemy.com/course/databricks-certified-developer-for-apache-spark-30-practice-exams/)
 
+[Databricks Certified Apache Spark 3.0 TESTS (Scala & Python)](https://www.udemy.com/course/databricks-certified-apache-spark-3-tests-scala-python/#overview)
+
 ### Apache Kafka (EN-US)
 
 [Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek](https://www.udemy.com/course/apache-kafka/)
@@ -301,6 +303,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins](https://www.udemy.com/course/devops-fundamentals-aws/)
 
 [DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes](https://www.udemy.com/course/valaxy-devops/)
+
+[Helm - The Kubernetes package manager hands-on course](https://www.udemy.com/course/helm-the-kubernetes-package-manager-hands-on-course/)
 
 [HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
@@ -465,6 +469,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Microsoft Certified: Azure Cosmos DB Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-cosmos-db-developer-specialty/)
 
 [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100)
+
+[MeasureUp Practice Test](https://pts.measureup.com/web/index.php#dashboard.php)
 
 [MongoDB Basics, MongoDB University]()
 
@@ -1028,5 +1034,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ## Events
 [[Microsoft]](https://www.microsoft.com/pt-pt/partner-training?type=course)
+
+[[YugabyteDB]](https://university.yugabyte.com/pages/calendar)
 
 **[⬆ Back to top](#learning)**
