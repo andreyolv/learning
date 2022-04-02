@@ -472,6 +472,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [MeasureUp Practice Test](https://pts.measureup.com/web/index.php#dashboard.php)
 
+[Data Engineer Learning Path - GCP](https://www.cloudskillsboost.google/paths/16)
+
 [MongoDB Basics, MongoDB University]()
 
 [dbt Fundamentals - Learn Analytics Engineering with dbt, getdbt, Kyle Coapman]()
