@@ -300,19 +300,17 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Practice Exams | Confluent Certified Apache Kafka Developer](https://www.udemy.com/course/confluent-certified-apache-kafka-developer-practice-exams/)
 
 ### DevOps & CI/CD (EN-US)
-[Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins](https://www.udemy.com/course/devops-fundamentals-aws/)
-
 [DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes](https://www.udemy.com/course/valaxy-devops/)
 
 [Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 
-[Practical Kubernetes Guide](https://www.udemy.com/course/kubernetes-best-practices/)
-
 [Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
-[Helm - The Kubernetes package manager hands-on course](https://www.udemy.com/course/helm-the-kubernetes-package-manager-hands-on-course/)
+[Helm Kubernetes Packaging Manager for Developers and DevOps](https://www.udemy.com/course/helm-kubernetes-packaging-manager-for-developers-and-devops/)
 
 [HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+
+[Prometheus | The Complete Hands-On for Monitoring & Alerting](https://www.udemy.com/course/prometheus-course/)
 
 ### AWS (EN-US)
 [Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
