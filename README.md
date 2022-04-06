@@ -304,6 +304,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 
+[Docker Certified Associate 2021](https://www.udemy.com/course/docker-certified-associate/)
+
 [Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
 [Helm Kubernetes Packaging Manager for Developers and DevOps](https://www.udemy.com/course/helm-kubernetes-packaging-manager-for-developers-and-devops/)
