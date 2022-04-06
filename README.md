@@ -809,7 +809,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Metabase]](https://www.metabase.com/docs/latest/)
 [[Power BI]](https://docs.microsoft.com/pt-br/power-bi/)
 
-### Monitoring
+### Observability
+[[OpenTelemetry]](https://opentelemetry.io/)
 [[Prometheus]](https://prometheus.io/docs/introduction/overview/)
 
 ### Visualization
