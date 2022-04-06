@@ -765,7 +765,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Cassandra]](https://cassandra.apache.org/doc/latest/)
 [[ElasticSearch]](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 
-### Unifying SQL and NoSQL Database
+### SQL and NoSQL Database
 [[YugabyteDB]](https://docs.yugabyte.com/latest/)
 
 ### Cluster Storage
@@ -826,11 +826,18 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### DataOps for Kafka
 [[Lenses]](https://docs.lenses.io/)
 
+### Kubernetes UI
+[[Portainer]](https://www.portainer.io/)
+
+### Kubernetes Cluster Management
+[[Rancher]](https://rancher.com/)
+
 ### Infrastructure as Code
 [[Terraform]](https://www.terraform.io/docs)
 
-### Data Catalog
+### Data Lineage
 [[Amundsen]](https://www.amundsen.io/)
+[[OpenLineage]](https://openlineage.io/)
 
 ## Programming
 [[Python]](https://docs.python.org/3/library/index.html)
