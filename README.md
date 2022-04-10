@@ -218,6 +218,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Software (PT-BR)
 [LPI Linux Essentials: Preparatório para a Certificação, Udemy, Mateus Müller](https://www.udemy.com/course/lpi-linux-essentials/)
 
+[Shell Script: Do Básico ao Profissional, Udemy, Mateus Müller](https://www.udemy.com/course/shell-script-do-basico-ao-profissional/)
+
 [Git and Github Essential for the Developer, Udemy, Geek University](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
 
 [Developer Essential Docker, Udemy, Geek University](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
@@ -366,7 +368,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Data Science- Project Management Methodology - CRISP-DM, Udemy, 306DigiTMG Elearning](https://www.udemy.com/course/data-science-project-management-methodology-crisp-dm/)
 
 ### Linux (EN-US)
-[Linux Mastery: Master the Linux Command Line in 11.5 Hours](https://www.udemy.com/course/linux-mastery/)
+[Linux Mastery: Master the Linux Command Line in 11.5 Hours, Udemy, Ziyad Yehia](https://www.udemy.com/course/linux-mastery/)
+
+[Bash Mastery: The Complete Guide to Bash Shell Scripting, Udemy, Ziyad Yehia](https://www.udemy.com/course/bash-mastery/)
 
 [Linux Administration: The Complete Linux Bootcamp for 2022](https://www.udemy.com/course/master-linux-administration/)
 
