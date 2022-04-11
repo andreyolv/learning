@@ -360,6 +360,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### GCP (EN-US)
 [GCP - Google Cloud Professional Data Engineer Certification, Udemy, Ankit Mistry](https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification/)
 
+[BigQuery for Big data engineers - Master Big Query Internals, Udemy, J Garg](https://www.udemy.com/course/bigquery/)
+
 ### MLOps (EN-US)
 [Scrum Master Certification: Full Preparatory Course, Udemy, Pilar Sanchez Albaladejo](https://www.udemy.com/course/formacao-total-em-scrum/)
 
