@@ -1008,22 +1008,40 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Natural Language Processing with Python]](https://www.nltk.org/book_1ed/)
 
 ### Data Engineering
+[Big Data Principles and best practices of scalable real-time data systems, Nathan Marz & James Warren]
 
-[Data Pipelines with Apache Airflow, Bas Harenslak & Julian de Ruiter]
+[Designing Cloud Data Platforms, Danil Zburivsky & Lynda Partner]
 
-[The Mordern Data Warehouse in Azure, Matt How]
+[Data Mesh Delivering Data-Driven Value at Scale, Zhamak Dehghani]
 
-[Understanding Azure Data Factory, Sudhir Rawat Abhishek Narain]
+[Building the Data Lakehouse, Bill Inmon]
 
-[Data Lake Analytics on Microsoft Azure, Harsh Chawla & Pankaj Khattar]
-
-[Azure Data Factory by Example, Richard Swinbank]
-
-[Azure Data Engineering Cookbook, Ahmad Osama]
-
+### Spark
 [Learning Spark; Jules S. Damji, Brooke Wening, Tathagata Das & Denny Lee]
 
 [Spark The Definitive Guide, Bill Chambers & Matei Zaharia]
+
+### Airflow
+[Data Pipelines with Apache Airflow, Bas Harenslak & Julian de Ruiter]
+
+### Kafka 
+[Kafka THe Definitive Guide]
+
+### Trino
+[Trino The Definitive Guide, Matt Fuller, Manfred Moser & Martin Traverso]
+
+### Azure
+
+
+### GCP
+[Official Google Cloud Certified Professional Data Engineer Study Guide]
+
+### Elastic
+[Getting Started with Elastic Stack 8.0]
+
+### Kubernetes
+
+### Terraform
 
 **[⬆ Back to top](#learning)**
 
