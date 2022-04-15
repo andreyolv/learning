@@ -1016,6 +1016,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Building the Data Lakehouse, Bill Inmon]
 
+[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems]
+
 ### Spark
 [Learning Spark; Jules S. Damji, Brooke Wening, Tathagata Das & Denny Lee]
 
