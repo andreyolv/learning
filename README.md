@@ -1063,6 +1063,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Packt](https://www.packtpub.com/all-products?product_type_filter=Book&released=Available)
 
+[Apress]
+
 ## Papers
 [My Repository](https://drive.google.com/drive/folders/1wxhd7RakpsasLY9kaeRH7ToMSyetQ9WX?usp=sharing)
 
