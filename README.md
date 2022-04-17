@@ -841,8 +841,11 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Kubernetes Cluster Management
 [[Rancher]](https://rancher.com/)
 
-### API Gateway/Proxy Reverse
+### Data Mesh
 [[Kong]](https://konghq.com/kong)
+[[Konga]](https://pantsel.github.io/konga/)
+[[Istio]](https://istio.io/latest/docs/)
+[[Kiali]](https://kiali.io/docs/)
 
 ### Infrastructure as Code
 [[Terraform]](https://www.terraform.io/docs)
