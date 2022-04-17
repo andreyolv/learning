@@ -999,13 +999,15 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Books
-### Programming
+[[My Repository]](https://drive.google.com/drive/folders/1ILgQfYG_phhW-gJLM-iEvtzLTAyPA-ji?usp=sharing)
+
+### Python
 [[Python Notes for Professionals]](https://bratliservice.eu/doc/PythonNotesForProfessionals.pdf)
 
 [[Learning pandas]](https://riptutorial.com/Download/pandas.pdf)
 
-### Machine Learning
-[[Natural Language Processing with Python]](https://www.nltk.org/book_1ed/)
+### SQL
+[Learning SQL]
 
 ### Data Engineering
 [Big Data Principles and best practices of scalable real-time data systems, Nathan Marz & James Warren]
@@ -1027,6 +1029,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Data Pipelines with Apache Airflow, Bas Harenslak & Julian de Ruiter]
 
 ### Kafka 
+[Kafka in Action]
+
 [Kafka THe Definitive Guide]
 
 ### Trino
@@ -1038,7 +1042,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### GCP
 [Official Google Cloud Certified Professional Data Engineer Study Guide]
 
-### Elastic
+### AWS
+
+### Database
 [Getting Started with Elastic Stack 8.0]
 
 ### Kubernetes
