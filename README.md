@@ -1098,4 +1098,13 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [[YugabyteDB]](https://university.yugabyte.com/pages/calendar)
 
+### Summit
+[[Airflow]](https://airflowsummit.org/)
+
+[[Kafka]](https://www.kafka-summit.org/)
+
+[[Databricks]](https://databricks.com/dataaisummit)
+
+[[NVIDIA]](https://www.nvidia.com/gtc/)
+
 **[⬆ Back to top](#learning)**
