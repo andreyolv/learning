@@ -244,6 +244,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Governança de Dados, Udemy, Tech For You](https://www.udemy.com/course/governanca-de-dados/)
 
+[Complete dbt (Data Build Tool) Bootcamp: From Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
+
 ### Databases (EN-US)
 [PostgreSQL Bootcamp : Go From Beginner to Advanced, Udemy, Adnan Waheed](https://www.udemy.com/course/postgresqlmasterclass/)
 
