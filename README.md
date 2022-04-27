@@ -1025,6 +1025,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems]
 
+[Data Governance The Definitive Guide]
+
 ### Spark
 [Learning Spark; Jules S. Damji, Brooke Wening, Tathagata Das & Denny Lee]
 
@@ -1037,6 +1039,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Kafka in Action]
 
 [Kafka THe Definitive Guide]
+
+[Mastering Kafka Streams and ksqlDB]
 
 ### Trino
 [Trino The Definitive Guide, Matt Fuller, Manfred Moser & Martin Traverso]
@@ -1053,6 +1057,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Getting Started with Elastic Stack 8.0]
 
 ### Kubernetes
+[GitOps with Argo CD]
 
 ### Terraform
 
