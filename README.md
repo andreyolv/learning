@@ -1128,15 +1128,15 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Books
-[[My Repository]](https://drive.google.com/drive/folders/1ILgQfYG_phhW-gJLM-iEvtzLTAyPA-ji?usp=sharing)
+[My Repository](https://drive.google.com/drive/folders/1ILgQfYG_phhW-gJLM-iEvtzLTAyPA-ji?usp=sharing)
 
 ### Python
-[[Python Notes for Professionals]](https://bratliservice.eu/doc/PythonNotesForProfessionals.pdf)
+[Python Notes for Professionals](https://bratliservice.eu/doc/PythonNotesForProfessionals.pdf)
 
-[[Learning pandas]](https://riptutorial.com/Download/pandas.pdf)
+[Learning pandas](https://riptutorial.com/Download/pandas.pdf)
 
 ### SQL
-[Learning SQL]
+[Learning SQL](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 
 ### Data Engineering
 [Big Data Principles and best practices of scalable real-time data systems, Nathan Marz & James Warren](https://www.manning.com/books/big-data)
@@ -1169,27 +1169,31 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Trino
 [Trino The Definitive Guide, Matt Fuller, Manfred Moser & Martin Traverso](https://www.oreilly.com/library/view/trino-the-definitive/9781098107703/)
 
-### Azure
-
-
-### GCP
-[Official Google Cloud Certified Professional Data Engineer Study Guide](https://www.amazon.com.br/Official-Google-Certified-Professional-Engineer/dp/1119618436)
-
-### AWS
+### Cloud
 
 ### Database
-[Getting Started with Elastic Stack 8.0](https://www.packtpub.com/product/getting-started-with-elastic-stack-8-0/9781800569492)
 
 ### Kubernetes
+[The Kubernetes Bible](https://www.packtpub.com/product/the-kubernetes-bible/9781838827694)
+
+[Certified Kubernetes Application Developer (CKAD) Study Guide](https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/)
+
+[Kubernetes Best Practices](https://www.oreilly.com/library/view/kubernetes-best-practices/9781492056461/)
+
+[Kubernetes Operators](https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/)
+
+[Learning Helm](https://www.oreilly.com/library/view/learning-helm/9781492083641/)
+
 [GitOps with Argo CD](https://res.cloudinary.com/codefresh/image/upload/mktg/pdf/ebook-gitops-with-argo-cd-manning-codefresh.pdf)
 
 ### Terraform
 
-### BOOKS Waiting for Releases
+### BOOKS Waiting for Releases 2022/2023
 [Data Algorithms with Spark]
 [Delta Lake The Definitive Guide]
 [Fundamentals of Data Engineering]
 [The Enterprise Big Data Lake]
+[Kubernetes Up & Running]
 [Elasticsearch in Action]
 [Kubernetes in Action]
 
@@ -1233,17 +1237,17 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Made With ML]](https://madewithml.com/)
 
 ## Events
-[[Microsoft]](https://www.microsoft.com/pt-pt/partner-training?type=course)
+[Microsoft](https://www.microsoft.com/pt-pt/partner-training?type=course)
 
-[[YugabyteDB]](https://university.yugabyte.com/pages/calendar)
+[YugabyteDB](https://university.yugabyte.com/pages/calendar)
 
 ### Summit
-[[Airflow]](https://airflowsummit.org/)
+[Airflow](https://airflowsummit.org/)
 
-[[Kafka]](https://www.kafka-summit.org/)
+[Kafka](https://www.kafka-summit.org/)
 
-[[Databricks]](https://databricks.com/dataaisummit)
+[Databricks](https://databricks.com/dataaisummit)
 
-[[NVIDIA]](https://www.nvidia.com/gtc/)
+[NVIDIA](https://www.nvidia.com/gtc/)
 
 **[⬆ Back to top](#learning)**
