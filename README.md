@@ -1022,6 +1022,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Caio Delgado]](https://www.youtube.com/c/CaioDelgadoNew/featured)
 [[Confluent]](https://www.youtube.com/c/Confluent/featured)
 [[Snowflake Inc.]](https://www.youtube.com/c/SnowflakeInc/featured)
+[[Starburst Data]](https://www.youtube.com/c/StarburstData/featured)
 
 ### Programming
 [[Eduardo Mendes]](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
