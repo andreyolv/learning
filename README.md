@@ -1139,25 +1139,25 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Learning SQL](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 
 ### Data Engineering
-[Big Data Principles and best practices of scalable real-time data systems, Nathan Marz & James Warren](https://www.manning.com/books/big-data)
+[Big Data](https://www.manning.com/books/big-data)
 
-[Designing Cloud Data Platforms, Danil Zburivsky & Lynda Partner](https://www.manning.com/books/designing-cloud-data-platforms)
+[Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms)
 
-[Data Mesh Delivering Data-Driven Value at Scale, Zhamak Dehghani](https://www.oreilly.com/library/view/data-mesh/9781492092384/)
+[Data Mesh](https://www.oreilly.com/library/view/data-mesh/9781492092384/)
 
-[Building the Data Lakehouse, Bill Inmon](https://databricks.com/p/ebook/building-the-data-lakehouse)
+[Building the Data Lakehouse](https://databricks.com/p/ebook/building-the-data-lakehouse)
 
-[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
 [Data Governance The Definitive Guide](https://www.oreilly.com/library/view/data-governance-the/9781492063483/)
 
 ### Spark
-[Learning Spark; Jules S. Damji, Brooke Wening, Tathagata Das & Denny Lee](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/)
+[Learning Spark](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/)
 
-[Spark The Definitive Guide, Bill Chambers & Matei Zaharia](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)
+[Spark The Definitive Guide](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)
 
 ### Airflow
-[Data Pipelines with Apache Airflow, Bas Harenslak & Julian de Ruiter](https://www.manning.com/books/data-pipelines-with-apache-airflow)
+[Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow)
 
 ### Kafka 
 [Kafka in Action](https://www.manning.com/books/kafka-in-action)
@@ -1167,7 +1167,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Mastering Kafka Streams and ksqlDB](https://www.oreilly.com/library/view/mastering-kafka-streams/9781492062486/)
 
 ### Trino
-[Trino The Definitive Guide, Matt Fuller, Manfred Moser & Martin Traverso](https://www.oreilly.com/library/view/trino-the-definitive/9781098107703/)
+[Trino The Definitive Guide](https://www.oreilly.com/library/view/trino-the-definitive/9781098107703/)
 
 ### Cloud
 
