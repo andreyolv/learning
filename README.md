@@ -1185,6 +1185,14 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ### Terraform
 
+### BOOKS Waiting for Releases
+[Data Algorithms with Spark]
+[Delta Lake The Definitive Guide]
+[Fundamentals of Data Engineering]
+[The Enterprise Big Data Lake]
+[Elasticsearch in Action]
+[Kubernetes in Action]
+
 **[⬆ Back to top](#learning)**
 
 ## Publishers
