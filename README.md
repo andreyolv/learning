@@ -858,6 +858,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Amundsen]](https://www.amundsen.io/)
 [[OpenLineage]](https://openlineage.io/)
 
+### CDC
+[[Debezium]](https://debezium.io/)
+
 ## Programming
 [[Python]](https://docs.python.org/3/library/index.html)
 
