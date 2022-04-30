@@ -1198,6 +1198,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Kubernetes Up & Running]
 [Elasticsearch in Action]
 [Kubernetes in Action]
+[Data Mesh in Action]
 
 **[⬆ Back to top](#learning)**
 
