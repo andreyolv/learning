@@ -797,6 +797,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ### Real Time Integration
 [[Kafka]](https://kafka.apache.org/documentation/)
+[[Kafka UI]](https://github.com/provectus/kafka-ui)
+[[Lenses]](https://docs.lenses.io/)
 [[Pulsar]](https://pulsar.apache.org/docs/en/standalone/)
 
 ### Real Time OLAP
@@ -836,11 +838,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[dbt]](https://www.getdbt.com/)
 [[Airbyte]](https://airbyte.com/)
 
-### DataOps for Kafka
-[[Lenses]](https://docs.lenses.io/)
-
 ### Kubernetes UI
 [[Portainer]](https://www.portainer.io/)
+[[Lens]](https://k8slens.dev/)
 
 ### Kubernetes Cluster Management
 [[Rancher]](https://rancher.com/)
@@ -946,7 +946,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[EstaTiDados]](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
 [[Data Science Academy]](https://www.youtube.com/channel/UCyoi9yYaQRQ2F34wDLosr2A)
 [[IA Expert Academy]](https://www.youtube.com/channel/UCaGrIWpwjWXT6OIQh9W4Riw)
-[[GAVB Consulting]](https://www.youtube.com/c/GAVBConsulting/featured)
 
 ### Data Science (EN-US)
 [[Murtaza's Workshop - Robotics and AI]](https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/featured)
@@ -1019,10 +1018,10 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Yugabyte]](https://www.youtube.com/c/YugaByte/featured)
 [[MINIO]](https://www.youtube.com/c/MINIO)
 [[Elastic]](https://www.youtube.com/c/Elastic/featured)
-[[Caio Delgado]](https://www.youtube.com/c/CaioDelgadoNew/featured)
 [[Confluent]](https://www.youtube.com/c/Confluent/featured)
 [[Snowflake Inc.]](https://www.youtube.com/c/SnowflakeInc/featured)
 [[Starburst Data]](https://www.youtube.com/c/StarburstData/featured)
+[[GAVB Consulting]](https://www.youtube.com/c/GAVBConsulting/featured)
 
 ### Programming
 [[Eduardo Mendes]](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
@@ -1035,6 +1034,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[dicasparadevs]](https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ/featured)
 [[João Carlos Lima e Silva]](https://www.youtube.com/channel/UCStdvHzCL5n76P7WJqGBGzA/featured)
 [[LINUXtips]](https://www.youtube.com/c/LinuxTips/featured)
+[[Caio Delgado]](https://www.youtube.com/c/CaioDelgadoNew/featured)
 
 ### Statistics
 [[Cientística & Podcast Naruhodo]](https://www.youtube.com/channel/UCPzA7lZCeFiafe9V9bamISw)
