@@ -1147,8 +1147,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms)
 
-[Data Mesh](https://www.oreilly.com/library/view/data-mesh/9781492092384/)
-
 [Building the Data Lakehouse](https://databricks.com/p/ebook/building-the-data-lakehouse)
 
 [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
@@ -1166,9 +1164,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Kafka 
 [Kafka in Action](https://www.manning.com/books/kafka-in-action)
 
-[Kafka THe Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/)
-
-[Mastering Kafka Streams and ksqlDB](https://www.oreilly.com/library/view/mastering-kafka-streams/9781492062486/)
+[Kafka The Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/)
 
 ### Trino
 [Trino The Definitive Guide](https://www.oreilly.com/library/view/trino-the-definitive/9781098107703/)
@@ -1178,13 +1174,15 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Database
 
 ### Kubernetes
+[Kubernetes Up & Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
+
 [Certified Kubernetes Application Developer (CKAD) Study Guide](https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/)
 
 [Kubernetes Best Practices](https://www.oreilly.com/library/view/kubernetes-best-practices/9781492056461/)
 
-[Kubernetes Operators](https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/)
-
 [Learning Helm](https://www.oreilly.com/library/view/learning-helm/9781492083641/)
+
+[Kubernetes Operators](https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/)
 
 [GitOps with Argo CD](https://res.cloudinary.com/codefresh/image/upload/mktg/pdf/ebook-gitops-with-argo-cd-manning-codefresh.pdf)
 
@@ -1195,7 +1193,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Delta Lake The Definitive Guide]
 [Fundamentals of Data Engineering]
 [The Enterprise Big Data Lake]
-[Kubernetes Up & Running]
 [Elasticsearch in Action]
 [Kubernetes in Action]
 [Data Mesh in Action]
