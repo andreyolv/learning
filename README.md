@@ -1235,6 +1235,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[CBMM]](https://cbmm.mit.edu/education/courses)
 [[ML Ops]](https://ml-ops.org/)
 [[Made With ML]](https://madewithml.com/)
+[[Kubernetes Exam Simulator]](https://killer.sh/)
 
 ## Events
 [Microsoft](https://www.microsoft.com/pt-pt/partner-training?type=course)
