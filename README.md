@@ -1145,11 +1145,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Data Engineering
 [Big Data](https://www.manning.com/books/big-data)
 
-[Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms)
-
 [Building the Data Lakehouse](https://databricks.com/p/ebook/building-the-data-lakehouse)
 
-[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+[Data Mesh](https://www.oreilly.com/library/view/data-mesh/9781492092384/)
 
 [Data Governance The Definitive Guide](https://www.oreilly.com/library/view/data-governance-the/9781492063483/)
 
@@ -1166,10 +1164,19 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Kafka The Definitive Guide](https://www.oreilly.com/library/view/kafka-the-definitive/9781492043072/)
 
+[Mastering Kafka Streams and ksqlDB](https://www.oreilly.com/library/view/mastering-kafka-streams/9781492062486/)
+
 ### Trino
 [Trino The Definitive Guide](https://www.oreilly.com/library/view/trino-the-definitive/9781098107703/)
 
 ### Cloud
+[Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms)
+
+[Azure Storage, Streaming, and Batch Analytics](https://www.manning.com/books/azure-storage-streaming-and-batch-analytics)
+
+[Azure Data Engineer Associate Certification Guide](https://www.packtpub.com/product/azure-data-engineer-associate-certification-guide/9781801816069)
+
+[Limitless Analytics with Azure Synapse](https://www.packtpub.com/product/limitless-analytics-with-azure-synapse/9781800205659)
 
 ### Database
 
@@ -1187,12 +1194,17 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [GitOps with Argo CD](https://res.cloudinary.com/codefresh/image/upload/mktg/pdf/ebook-gitops-with-argo-cd-manning-codefresh.pdf)
 
 ### Terraform
+[Terraform in Action](https://www.manning.com/books/terraform-in-action)
 
 ### BOOKS Waiting for Releases 2022/2023
 [Data Algorithms with Spark]
-[Delta Lake The Definitive Guide]
 [Fundamentals of Data Engineering]
 [The Enterprise Big Data Lake]
+
+[Delta Lake The Definitive Guide]
+[Snowflake The Definitive Guide]
+[Terraform Up & Running 3rd Edition]
+
 [Elasticsearch in Action]
 [Kubernetes in Action]
 [Data Mesh in Action]
