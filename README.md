@@ -1124,6 +1124,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Engenharia de Dados [Cast]](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNjQyNzExLnJzcw?sa=X&ved=0CAsQ9sEGahcKEwjI3oaLrb7zAhUAAAAAHQAAAAAQAQ)
 
+[Streaming Audio: Apache Kafka® & Real-Time Data](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xODYxNTQucnNz?sa=X&ved=0CAcQrrcFahcKEwiI_L_-8833AhUAAAAAHQAAAAAQLA)
+
 **[⬆ Back to top](#learning)**
 
 ## CheatSheets
@@ -1236,7 +1238,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Blogs
-[When NOT to use Apache Kafka?](https://www.kai-waehner.de/blog/2022/01/04/when-not-to-use-apache-kafka/)
 
 
 ## Sites
