@@ -490,6 +490,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [dbt Fundamentals - Learn Analytics Engineering with dbt, getdbt, Kyle Coapman]()
 
+[Learn Apache Kafka](https://developer.confluent.io/learn-kafka/)
+
 ## Others Courses
 [Python Fundamentos Para Análise de Dados, Data Science Academy](https://www.datascienceacademy.com.br/course/python-fundamentos)
 
@@ -798,6 +800,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Real Time Integration
 [[Kafka]](https://kafka.apache.org/documentation/)
 [[Kafka UI]](https://github.com/provectus/kafka-ui)
+[[Confluent]](https://docs.confluent.io/home/overview.html)
+[[Confluent's Kafka Python Client]](https://github.com/confluentinc/confluent-kafka-python)
+[[Strimzi]](https://strimzi.io/documentation/)
 [[Lenses]](https://docs.lenses.io/)
 [[Pulsar]](https://pulsar.apache.org/docs/en/standalone/)
 
