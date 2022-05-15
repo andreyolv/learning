@@ -1188,6 +1188,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Database
 
 ### Kubernetes
+[The Kubernetes Bible](https://www.packtpub.com/product/the-kubernetes-bible/9781838827694)
+
 [Kubernetes Up & Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
 
 [Certified Kubernetes Application Developer (CKAD) Study Guide](https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/)
