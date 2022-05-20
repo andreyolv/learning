@@ -1194,11 +1194,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Certified Kubernetes Application Developer (CKAD) Study Guide](https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/)
 
-[Kubernetes Best Practices](https://www.oreilly.com/library/view/kubernetes-best-practices/9781492056461/)
-
 [Learning Helm](https://www.oreilly.com/library/view/learning-helm/9781492083641/)
-
-[Kubernetes Operators](https://www.oreilly.com/library/view/kubernetes-operators/9781492048039/)
 
 [GitOps with Argo CD](https://res.cloudinary.com/codefresh/image/upload/mktg/pdf/ebook-gitops-with-argo-cd-manning-codefresh.pdf)
 
