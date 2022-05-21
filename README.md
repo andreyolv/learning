@@ -440,6 +440,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Uselful Videos
 [Curso de Git e Github COMPLETO 2021 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
+[Git and GitHub Tutorial for Beginners [11 Hours]](https://www.youtube.com/watch?v=3FKrszHcIsA)
+
 [Curso SQL Completo 2019 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=rX2I7OjLqWE&t=223s)
 
 [O que é GitOps e como implementar com ArgoCD](https://www.youtube.com/watch?v=4CtHL0XXdMM)
