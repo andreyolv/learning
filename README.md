@@ -202,162 +202,174 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 **[⬆ Back to top](#learning)**
 
 ## Udemy Courses
-### Programming (PT-BR)
-[Python programming from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
+### Programming
+[Python programming from basic to advanced, Udemy, Geek University, Pt](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
 
-[Concurrent and Asynchronous Programming with Python, Udemy, Geek University](https://www.udemy.com/course/programacao-concorrente-e-assincrona-com-python/)
+[Concurrent and Asynchronous Programming with Python, Udemy, Geek University, Pt](https://www.udemy.com/course/programacao-concorrente-e-assincrona-com-python/)
 
-[Design Patterns with Python, Udemy, Geek University](https://www.udemy.com/course/padroes-de-projeto-com-python/)
+[Design Patterns with Python, Udemy, Geek University, Pt](https://www.udemy.com/course/padroes-de-projeto-com-python/)
 
-[Java 11 LTS programming from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/programacao-em-java-essencial/)
+[Java 11 LTS programming from basic to advanced, Udemy, Geek University, Pt](https://www.udemy.com/course/programacao-em-java-essencial/)
 
-[C programming from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/programacao-em-c-essencial/)
+[C programming from basic to advanced, Udemy, Geek University, Pt](https://www.udemy.com/course/programacao-em-c-essencial/)
 
-[JavaScript programming from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/)
+[JavaScript programming from basic to advanced, Udemy, Geek University, Pt](https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/)
 
-### Software (PT-BR)
-[LPI Linux Essentials: Preparatório para a Certificação, Udemy, Mateus Müller](https://www.udemy.com/course/lpi-linux-essentials/)
+### Software
+[LPI Linux Essentials: Preparatório para a Certificação, Udemy, Mateus Müller, Pt](https://www.udemy.com/course/lpi-linux-essentials/)
 
-[Shell Script: Do Básico ao Profissional, Udemy, Mateus Müller](https://www.udemy.com/course/shell-script-do-basico-ao-profissional/)
+[Shell Script: Do Básico ao Profissional, Udemy, Mateus Müller, Pt](https://www.udemy.com/course/shell-script-do-basico-ao-profissional/)
 
-[Git and Github Essential for the Developer, Udemy, Geek University](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
+[Git and Github Essential for the Developer, Udemy, Geek University, Pt](https://www.udemy.com/course/curso-de-git-e-github-essencial/)
 
-[Developer Essential Docker, Udemy, Geek University](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
+[Developer Essential Docker, Udemy, Geek University, Pt](https://www.udemy.com/course/docker-essencial-para-o-desenvolvedor/)
 
-[Container Orchestration with Kubernetes, Udemy, Geek University](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
+[Container Orchestration with Kubernetes, Udemy, Geek University, Pt](https://www.udemy.com/course/orquestracao-de-containers-com-kubernetes/)
+
+[Visual Studio Code: Absolute Productivity, Udemy, Matheus Battisti, Pt](https://www.udemy.com/course/visual-studio-code-produtividade-absoluta/)
+
+[Git & GitHub - The Practical Guide, Udemy, Maximilian Schwarzmüller & Manuel Lorenz, En](https://www.udemy.com/course/git-github-practical-guide/)
+ 
 
 ### Data Science (EN-US)
-[Machine Learning with Imbalanced Data](https://www.udemy.com/course/machine-learning-with-imbalanced-data/)
+[Machine Learning with Imbalanced Data, Udemy, Soledad Galli, En](https://www.udemy.com/course/machine-learning-with-imbalanced-data/)
 
-[TensorFlow Developer Certificate in 2021: Zero to Mastery, Udemy, ZTM Academy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
+[TensorFlow Developer Certificate in 2021: Zero to Mastery, Udemy, ZTM Academy, En](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
-[A deep understanding of deep learning (with Python intro), Udemy, Mike X Cohen](https://www.udemy.com/course/deeplearning_x/)
+[A deep understanding of deep learning (with Python intro), Udemy, Mike X Cohen, En](https://www.udemy.com/course/deeplearning_x/)
 
-[PyTorch: Deep Learning and Artificial Intelligence, Udemy, Lazy Programmer Team](https://www.udemy.com/course/pytorch-deep-learning/)
+[PyTorch: Deep Learning and Artificial Intelligence, Udemy, Lazy Programmer Team, En](https://www.udemy.com/course/pytorch-deep-learning/)
 
-### Data Engineering (PT-BR)
-[SQL and NoSQL Database from basic to advanced, Udemy, Geek University](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/)
+### Data Integration & ETL
+[Pentaho for ETL & Data Integration Masterclass 2022 - PDI 9, Udemy, Start-Tech Academy, En](https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/)
 
-[Amazon Web Services (AWS): Essential, Udemy, Geek University](https://www.udemy.com/course/amazon-web-services-essencial/)
+[Data Integration & ETL with Talend Open Studio Zero to Hero, Udemy, Samuel Lenk, En](https://www.udemy.com/course/data-integration-etl-talend-open-studio-zero-to-hero/)
 
-[SQL Server Developer. T-SQL, Programming and Tuning, Udemy, Wolney Marconi Maia](https://www.udemy.com/course/linguagem-programacao-tuning-sqlserver-2017/)
+### Data Engineering
+[SQL and NoSQL Database from basic to advanced, Udemy, Geek University, Pt](https://www.udemy.com/course/curso-de-banco-de-dados-do-basico-ao-avancado/)
 
-[Governança de Dados, Udemy, Tech For You](https://www.udemy.com/course/governanca-de-dados/)
+[Amazon Web Services (AWS): Essential, Udemy, Geek University, Pt](https://www.udemy.com/course/amazon-web-services-essencial/)
 
-[Complete dbt (Data Build Tool) Bootcamp: From Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
+[SQL Server Developer. T-SQL, Programming and Tuning, Udemy, Wolney Marconi Maia, Pt](https://www.udemy.com/course/linguagem-programacao-tuning-sqlserver-2017/)
+
+[Governança de Dados, Udemy, Tech For You, Pt](https://www.udemy.com/course/governanca-de-dados/)
+
+[Complete dbt (Data Build Tool) Bootcamp: From Zero to Hero, En](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
 
 ### Databases (EN-US)
-[PostgreSQL Bootcamp : Go From Beginner to Advanced, Udemy, Adnan Waheed](https://www.udemy.com/course/postgresqlmasterclass/)
+[PostgreSQL Bootcamp : Go From Beginner to Advanced, Udemy, Adnan Waheed, En](https://www.udemy.com/course/postgresqlmasterclass/)
 
-[The Ultimate Hands-On Hadoop: Tame your Big Data!, Udemy, Frank Kane](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/)
+[The Ultimate Hands-On Hadoop: Tame your Big Data!, Udemy, Frank Kane, En](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/)
 
-[Complete Guide to Elasticsearch](https://www.udemy.com/course/elasticsearch-complete-guide/)
+[Complete Guide to Elasticsearch, Udemy, Bo Andersen, En](https://www.udemy.com/course/elasticsearch-complete-guide/)
 
-[Getting Started With Apache Cassandra, Udemy, Infinite Skills](https://www.udemy.com/course/apache-cassandra/)
+[Getting Started With Apache Cassandra, Udemy, Infinite Skills, En](https://www.udemy.com/course/apache-cassandra/)
 
-[MongoDB - The Complete Developer's Guide 2022, Udemy, Maximilian Schwarzmüller](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
+[MongoDB - The Complete Developer's Guide 2022, Udemy, Maximilian Schwarzmüller, En](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 
-[SQL Server Integration Services (SSIS) - An Introduction, Udemy, Phillip Burton](https://www.udemy.com/course/sql-server-ssis-an-introduction/)
+[SQL Server Integration Services (SSIS) - An Introduction, Udemy, Phillip Burton, En](https://www.udemy.com/course/sql-server-ssis-an-introduction/)
 
-[Distributed SQL and YugabyteDB Fundamentals, Udemy, Jimmy Guerrero](https://www.udemy.com/course/distributed-sql-and-yugabytedb-fundamentals/)
+[Distributed SQL and YugabyteDB Fundamentals, Udemy, Jimmy Guerrero, En](https://www.udemy.com/course/distributed-sql-and-yugabytedb-fundamentals/)
 
-[Snowflake Masterclass[stored proc+demos+Best practices+Labs], Udemy, Pradeep H C](https://www.udemy.com/course/snowflake-cloud-data-warehouse/)
+[Snowflake Masterclass[stored proc+demos+Best practices+Labs], Udemy, Pradeep H C, En](https://www.udemy.com/course/snowflake-cloud-data-warehouse/)
 
-### Apache Airflow (EN-US)
+### Apache Airflow
 
-[Apache Airflow: The Hands-On Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/)
+[Apache Airflow: The Hands-On Guide, Udemy, Marc Lamberti, En](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/)
 
-[The Complete Hands-On Introduction to Apache Airflow, Udemy, Marc Lamberti](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
+[The Complete Hands-On Introduction to Apache Airflow, Udemy, Marc Lamberti, En](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 
-[Apache Airflow: The Operators Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/apache-airflow-the-operators-guide/)
+[Apache Airflow: The Operators Guide, Udemy, Marc Lamberti, En](https://www.udemy.com/course/apache-airflow-the-operators-guide/)
 
-[Apache Airflow on AWS EKS: The Hands-On Guide, Udemy, Marc Lamberti](https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide/)
+[Apache Airflow on AWS EKS: The Hands-On Guide, Udemy, Marc Lamberti, En](https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide/)
 
-### Apache Spark (EN-US)
+### Apache Spark
 
-[Apache Spark 3 - Databricks Certified Associate Developer, Udemy, Wadson Guimatsa](https://www.udemy.com/course/apache-spark-3-databricks-certified-associate-developer/)
+[Apache Spark 3 - Databricks Certified Associate Developer, Udemy, Wadson Guimatsa, En](https://www.udemy.com/course/apache-spark-3-databricks-certified-associate-developer/)
 
-[Databricks Certified Associate Developer - Apache Spark 2022, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/)
+[Databricks Certified Associate Developer - Apache Spark 2022, Udemy, Durga Viswanatha Raju Gadiraju, En](https://www.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/)
 
-[Databricks Certified Developer for Spark 3.0 Practice Exams,Udemy, Florian Roscheck](https://www.udemy.com/course/databricks-certified-developer-for-apache-spark-30-practice-exams/)
+[Databricks Certified Developer for Spark 3.0 Practice Exams,Udemy, Florian Roscheck, En](https://www.udemy.com/course/databricks-certified-developer-for-apache-spark-30-practice-exams/)
 
-[Databricks Certified Apache Spark 3.0 TESTS (Scala & Python)](https://www.udemy.com/course/databricks-certified-apache-spark-3-tests-scala-python/#overview)
+[Databricks Certified Apache Spark 3.0 TESTS (Scala & Python), En](https://www.udemy.com/course/databricks-certified-apache-spark-3-tests-scala-python/#overview)
 
 ### Apache Kafka (EN-US)
 
-[Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek](https://www.udemy.com/course/apache-kafka/)
+[Apache Kafka Series - Learn Apache Kafka for Beginners, Udemy, Stephane Maarek, En](https://www.udemy.com/course/apache-kafka/)
 
-[Apache Kafka Series - Kafka Monitoring & Operations, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-monitoring-and-operations/)
+[Apache Kafka Series - Kafka Monitoring & Operations, Udemy, Stephane Maarek, En](https://www.udemy.com/course/kafka-monitoring-and-operations/)
 
-[Apache Kafka Series - Confluent Schema Registry & REST Proxy, Udemy, Stephane Maarek](https://www.udemy.com/course/confluent-schema-registry/)
+[Apache Kafka Series - Confluent Schema Registry & REST Proxy, Udemy, Stephane Maarek, En](https://www.udemy.com/course/confluent-schema-registry/)
 
-[Apache Kafka Series - Kafka Cluster Setup & Administration, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-cluster-setup/)
+[Apache Kafka Series - Kafka Cluster Setup & Administration, Udemy, Stephane Maarek, En](https://www.udemy.com/course/kafka-cluster-setup/)
 
-[Apache Kafka Series - Kafka Connect Hands-on Learning, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-connect/)
+[Apache Kafka Series - Kafka Connect Hands-on Learning, Udemy, Stephane Maarek, En](https://www.udemy.com/course/kafka-connect/)
 
-[Apache Kafka Series - Kafka Streams for Data Processing, Udemy, Stephane Maarek](https://www.udemy.com/course/kafka-streams/)
+[Apache Kafka Series - Kafka Streams for Data Processing, Udemy, Stephane Maarek, En](https://www.udemy.com/course/kafka-streams/)
 
-[Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL, Udemy, Stepahne Maarek](https://www.udemy.com/course/apache-kafka-security/)
+[Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL, Udemy, Stepahne Maarek, En](https://www.udemy.com/course/apache-kafka-security/)
 
-[CCDAK Confluent Certified Developer for Apache Kafka TESTS](https://www.udemy.com/course/confluent-certified-developer-for-apache-kafka/)
+[CCDAK Confluent Certified Developer for Apache Kafka TESTS, En](https://www.udemy.com/course/confluent-certified-developer-for-apache-kafka/)
 
-[Practice Exams | Confluent Certified Apache Kafka Developer](https://www.udemy.com/course/confluent-certified-apache-kafka-developer-practice-exams/)
+[Practice Exams | Confluent Certified Apache Kafka Developer, En](https://www.udemy.com/course/confluent-certified-apache-kafka-developer-practice-exams/)
 
 ### DevOps & CI/CD (EN-US)
-[DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes](https://www.udemy.com/course/valaxy-devops/)
+[DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes, En](https://www.udemy.com/course/valaxy-devops/)
 
-[Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
+[Docker & Kubernetes: The Practical Guide [2022 Edition], En](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 
-[Docker Certified Associate 2021](https://www.udemy.com/course/docker-certified-associate/)
+[Docker Certified Associate 2021, En](https://www.udemy.com/course/docker-certified-associate/)
 
-[Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth](https://www.udemy.com/course/certified-kubernetes-application-developer/)
+[Kubernetes Certified Application Developer (CKAD) with Tests, Udemy, Mumshad Mannambeth, En](https://www.udemy.com/course/certified-kubernetes-application-developer/)
 
-[Helm Kubernetes Packaging Manager for Developers and DevOps](https://www.udemy.com/course/helm-kubernetes-packaging-manager-for-developers-and-devops/)
+[Helm Kubernetes Packaging Manager for Developers and DevOps, En](https://www.udemy.com/course/helm-kubernetes-packaging-manager-for-developers-and-devops/)
 
-[HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+[HashiCorp Certified: Terraform Associate 2022, Udemy, Zeal Vora, En](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
-[Prometheus | The Complete Hands-On for Monitoring & Alerting](https://www.udemy.com/course/prometheus-course/)
+[Prometheus | The Complete Hands-On for Monitoring & Alerting, En](https://www.udemy.com/course/prometheus-course/)
+
+[Istio Hands-On for Kubernetes, Udemy, Richard Chesterwood & Prageeth Warnak, En](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
 
 ### AWS (EN-US)
-[Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+[Ultimate AWS Certified Cloud Practitioner - 2021, Udemy, Stephane Maarek, En](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
-[Ultimate AWS Certified Solutions Architect Associate 2021, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
+[Ultimate AWS Certified Solutions Architect Associate 2021, Udemy, Stephane Maarek, En](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
 
-[AWS Certified Data Analytics Specialty 2021 - Hands On!, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-data-analytics/)
+[AWS Certified Data Analytics Specialty 2021 - Hands On!, Udemy, Stephane Maarek, En](https://www.udemy.com/course/aws-data-analytics/)
 
-[AWS Certified Machine Learning Specialty 2021 - Hands On!, Udemy, Stephane Maarek](https://www.udemy.com/course/aws-machine-learning/)
+[AWS Certified Machine Learning Specialty 2021 - Hands On!, Udemy, Stephane Maarek, En](https://www.udemy.com/course/aws-machine-learning/)
 
-[Data Engineering using AWS Analytics Services, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/data-engineering-using-aws-analytics-services/)
+[Data Engineering using AWS Analytics Services, Udemy, Durga Viswanatha Raju Gadiraju, En](https://www.udemy.com/course/data-engineering-using-aws-analytics-services/)
 
 ### Azure (EN-US)
-[SC-900: Microsoft Security Fundamentals Exam Prep - NOV 2021, Udemy, Scott Duffy](https://www.udemy.com/course/sc900-azure/)
+[SC-900: Microsoft Security Fundamentals Exam Prep - NOV 2021, Udemy, Scott Duffy, En](https://www.udemy.com/course/sc900-azure/)
 
-[DP-100: A-Z Machine Learning using Azure Machine Learning, Udemy, Jitesh Khurkhuriya](https://www.udemy.com/course/machine-learning-using-azureml/)
+[DP-100: A-Z Machine Learning using Azure Machine Learning, Udemy, Jitesh Khurkhuriya, En](https://www.udemy.com/course/machine-learning-using-azureml/)
 
-[AZ-104 Azure Administrator Associate Complete Preparation, Udemy, IT New Courses](https://www.udemy.com/course/az-104-azure-administrator-associate-complete-preparation/)
+[AZ-104 Azure Administrator Associate Complete Preparation, Udemy, IT New Courses, En](https://www.udemy.com/course/az-104-azure-administrator-associate-complete-preparation/)
 
-[DA-100 certification: Analyzing Data with Microsoft Power BI, Udemy, Phillip Burton](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
+[DA-100 certification: Analyzing Data with Microsoft Power BI, Udemy, Phillip Burton, En](https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/)
 
-[Azure Machine Learning using Cognitive Services, Udemy, Tim Buchalka's Learn Programming Academy](https://www.udemy.com/course/azure-machine-learning-using-cognitive-services/)
+[Azure Machine Learning using Cognitive Services, Udemy, Tim Buchalka's Learn Programming Academy, En](https://www.udemy.com/course/azure-machine-learning-using-cognitive-services/)
 
-[Azure Kubernetes Service with Azure DevOps and Terraform, Udemy, Kalyan Reddy Daida](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
+[Azure Kubernetes Service with Azure DevOps and Terraform, Udemy, Kalyan Reddy Daida, En](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/)
 
 ### Azure Data Engineering(EN-US)
-[Azure Databricks & Spark Core For Data Engineers(Python/SQL), Udemy, Ramesh Retnasamy](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
+[Azure Databricks & Spark Core For Data Engineers(Python/SQL), Udemy, Ramesh Retnasamy, En](https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/)
 
-[Data Engineering using Databricks on AWS and Azure, Udemy, Durga Viswanatha Raju Gadiraju](https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/)
+[Data Engineering using Databricks on AWS and Azure, Udemy, Durga Viswanatha Raju Gadiraju, En](https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/)
 
-[Azure SQL Data Warehouse Synapse Analytics Service, Udemy, Eshant Garg](https://www.udemy.com/course/azure-sql-data-warehouse-synapse-analytics-service/)
+[Azure SQL Data Warehouse Synapse Analytics Service, Udemy, Eshant Garg, En](https://www.udemy.com/course/azure-sql-data-warehouse-synapse-analytics-service/)
 
-[DP-203: Data Engineering on Microsoft Azure + Practice Tests, Udemy, Eshant Garg](https://www.udemy.com/course/dp200exam/)
+[DP-203: Data Engineering on Microsoft Azure + Practice Tests, Udemy, Eshant Garg, En](https://www.udemy.com/course/dp200exam/)
 
-[DP-203 - Data Engineering on Microsoft Azure 2021, Udemy, Alan Rodrigues](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)
+[DP-203 - Data Engineering on Microsoft Azure 2021, Udemy, Alan Rodrigues, En](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)
 
-[Azure Data Factory Workshop - Real World Project & Use Cases, Udemy, Amit Navgire](https://www.udemy.com/course/azure-data-factory-workshop-real-world-project-use-cases/)
+[Azure Data Factory Workshop - Real World Project & Use Cases, Udemy, Amit Navgire, En](https://www.udemy.com/course/azure-data-factory-workshop-real-world-project-use-cases/)
 
-[Mini Project Development for Azure Data Engineer, Udemy, Karthik J](https://www.udemy.com/course/azure-big-data-mini-project/)
+[Mini Project Development for Azure Data Engineer, Udemy, Karthik J, En](https://www.udemy.com/course/azure-big-data-mini-project/)
 
-[Azure Data Engineer - Interview Preparation Video Guide, Udemy, Karthik J](https://www.udemy.com/course/azure-data-engineering-interview-questions/)
+[Azure Data Engineer - Interview Preparation Video Guide, Udemy, Karthik J, En](https://www.udemy.com/course/azure-data-engineering-interview-questions/)
 
 ### GCP (EN-US)
 [GCP - Google Cloud Professional Data Engineer Certification, Udemy, Ankit Mistry](https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification/)
@@ -440,8 +452,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Uselful Videos
 [Curso de Git e Github COMPLETO 2021 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=kB5e-gTAl_s)
 
-[Git and GitHub Tutorial for Beginners [11 Hours]](https://www.youtube.com/watch?v=3FKrszHcIsA)
-
 [Curso SQL Completo 2019 [Iniciantes] + Desafios + Muita Prática](https://www.youtube.com/watch?v=rX2I7OjLqWE&t=223s)
 
 [O que é GitOps e como implementar com ArgoCD](https://www.youtube.com/watch?v=4CtHL0XXdMM)
@@ -506,6 +516,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Google Certified Professional Data Engineer, A Cloud Guru](https://acloudguru.com/course/google-certified-professional-data-engineer)
 
 [Confluent Certified Developer for Apache Kafka (CCDAK), A Cloud Guru](https://acloudguru.com/course/confluent-certified-developer-for-apache-kafka-ccdak)
+
+[GitHub Actions Deep Dive](https://acloudguru.com/course/github-actions-deep-dive)
 
 [Programming in T-SQL, Prof. Luiz Santana]()
 
