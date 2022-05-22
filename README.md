@@ -767,6 +767,11 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Weights & Biases]]()
 
 ## Data Engineering
+### ETL
+[[Pentaho]](https://help.hitachivantara.com/Documentation/Pentaho/9.3)
+[[Informatica]]()
+[[Talend]](https://www.talend.com/)
+
 ### Cloud Computing
 [[Azure]](https://docs.microsoft.com/en-us/azure/?product=popular)
 [[AWS]](https://docs.aws.amazon.com/)
@@ -806,6 +811,10 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### Cluster Processing
 [[Spark]](https://spark.apache.org/docs/latest/api/python/getting_started/index.html)
 [[Koalas]](https://koalas.readthedocs.io/en/latest/getting_started/10min.html)
+
+### Data Warehouse
+[[Hive]](https://cwiki.apache.org/confluence/display/Hive/Home)
+[[Clickhouse]](https://clickhouse.com/docs/en/intro/)
 
 ### Pipeline
 [[Airflow]](https://airflow.apache.org/docs/)
@@ -879,6 +888,10 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ### CDC
 [[Debezium]](https://debezium.io/)
+
+### CI/CD
+[[Github Action]](https://docs.github.com/en/actions)
+[[Gitlab]](https://about.gitlab.com/)
 
 ## Programming
 [[Python]](https://docs.python.org/3/library/index.html)
