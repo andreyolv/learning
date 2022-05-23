@@ -1219,8 +1219,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [Kubernetes Up & Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781098110192/)
 
-[Certified Kubernetes Application Developer (CKAD) Study Guide](https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/)
-
 [Learning Helm](https://www.oreilly.com/library/view/learning-helm/9781492083641/)
 
 [GitOps with Argo CD](https://res.cloudinary.com/codefresh/image/upload/mktg/pdf/ebook-gitops-with-argo-cd-manning-codefresh.pdf)
@@ -1231,7 +1229,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 ### BOOKS Waiting for Releases 2022/2023
 [Data Algorithms with Spark]
 [Fundamentals of Data Engineering]
-[The Enterprise Big Data Lake]
 
 [Delta Lake The Definitive Guide]
 [Snowflake The Definitive Guide]
