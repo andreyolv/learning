@@ -1300,7 +1300,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Cinco de Trino 2022](https://trino.io/blog/2022/05/17/cinco-de-trino-recap.html)
 
 #### 2021
-[Airflow Summit 2021](https://www.youtube.com/watch?v=pXSwJEkqAaQ&list=PLGudixcDaxY1noceCfAKU-kfpYIOgbC84)
+[Airflow Summit 2021](https://airflowsummit.org/sessions/2021/)
 
 [Kafka Summit America 2021](https://www.confluent.io/events/kafka-summit-americas-2021/)
 
