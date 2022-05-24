@@ -1289,13 +1289,23 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 [YugabyteDB](https://university.yugabyte.com/pages/calendar)
 
-### Summit
-[Airflow](https://airflowsummit.org/)
+### Summits
+#### 2022
+[Airflow Summit 2022]()
 
-[Kafka](https://www.kafka-summit.org/)
+[Kafka Summit 2022]()
 
-[Databricks](https://databricks.com/dataaisummit)
+[Databricks 2022]()
 
-[NVIDIA](https://www.nvidia.com/gtc/)
+[Cinco de Trino 2022](https://trino.io/blog/2022/05/17/cinco-de-trino-recap.html)
+
+#### 2021
+[Airflow Summit 2021](https://www.youtube.com/watch?v=pXSwJEkqAaQ&list=PLGudixcDaxY1noceCfAKU-kfpYIOgbC84)
+
+[Kafka Summit America 2021](https://www.confluent.io/events/kafka-summit-americas-2021/)
+
+[Kafka Summit Europe 2021](https://www.confluent.io/events/kafka-summit-europe-2021/)
+
+[Databricks 2021](https://databricks.com/dataaisummit/north-america-2021/sessions)
 
 **[⬆ Back to top](#learning)**
