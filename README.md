@@ -229,7 +229,12 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Visual Studio Code: Absolute Productivity, Udemy, Matheus Battisti, Pt](https://www.udemy.com/course/visual-studio-code-produtividade-absoluta/)
 
 [Git & GitHub - The Practical Guide, Udemy, Maximilian Schwarzmüller & Manuel Lorenz, En](https://www.udemy.com/course/git-github-practical-guide/)
- 
+
+### CI/CD
+
+[Git Mastery: Beginner to Expert with GitHub & GitLab, Udemy, Mike Kilic, En](https://www.udemy.com/course/git-mastery-beginner-to-expert-with-github-gitlab/)
+
+[GitLab CI: Pipelines, CI/CD and DevOps for Beginners, Udemy, Valentin Despa, En](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
 
 ### Data Science (EN-US)
 [Machine Learning with Imbalanced Data, Udemy, Soledad Galli, En](https://www.udemy.com/course/machine-learning-with-imbalanced-data/)
@@ -255,6 +260,8 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [Governança de Dados, Udemy, Tech For You, Pt](https://www.udemy.com/course/governanca-de-dados/)
 
 [Complete dbt (Data Build Tool) Bootcamp: From Zero to Hero, En](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
+
+[Mastering the System Design Interview, Udemy, Frank Kane, En](https://www.udemy.com/course/system-design-interview-prep/)
 
 ### Databases (EN-US)
 [PostgreSQL Bootcamp : Go From Beginner to Advanced, Udemy, Adnan Waheed, En](https://www.udemy.com/course/postgresqlmasterclass/)
