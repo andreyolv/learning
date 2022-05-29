@@ -874,8 +874,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Airbyte]](https://airbyte.com/)
 
 ### Kubernetes UI
-[[Portainer]](https://www.portainer.io/)
 [[Lens]](https://k8slens.dev/)
+[[Octant]](https://octant.dev/)
+[[Portainer]](https://www.portainer.io/)
 
 ### Kubernetes Cluster Management
 [[Rancher]](https://rancher.com/)
