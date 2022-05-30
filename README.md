@@ -864,6 +864,7 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Kibana]](https://www.elastic.co/guide/en/kibana/current/index.html)
 [[Grafana]](https://grafana.com/docs/grafana/latest/)
 [[Superset]](https://superset.apache.org/docs/intro)
+[[Preset]]()
 
 ### GitOps for Kubernetes
 [[Argo CD]](https://argo-cd.readthedocs.io/en/stable/)
@@ -1048,23 +1049,40 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ### Companies
 [[H2O.ai]](https://www.youtube.com/c/H2Oai/featured)
-[[Databricks]](https://www.youtube.com/c/Databricks/featured)
 [[TensorFlow]](https://www.youtube.com/c/TensorFlow/featured)
 [[HuggingFace]](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w/featured)
 [[Weights & Biases]](https://www.youtube.com/c/WeightsBiases/featured)
-[[Astronomer]](https://www.youtube.com/channel/UCcPZvKtWyYq6d_kCbjyTRSQ)
-[[Airbyte]](https://www.youtube.com/channel/UCQ_JWEFzs1_INqdhIO3kmrw/featured)
 [[Let's Data]](https://www.youtube.com/c/LetsDataAI/featured)
 [[ITuring]](https://www.youtube.com/channel/UCMDhRg7000iWgGAtXu7kQaw/featured)
 [[Building Nubank]](https://www.youtube.com/c/NubankOntheStage/featured)
 [[Dataside Community]](https://www.youtube.com/c/DatasideCommunity/featured)
+[[GAVB Consulting]](https://www.youtube.com/c/GAVBConsulting/featured)
+[[Indicium]](https://www.youtube.com/c/IndiciumTech/featured)
+
+### DE Companies
+[[Databricks]](https://www.youtube.com/c/Databricks/featured)
+[[Astronomer]](https://www.youtube.com/channel/UCcPZvKtWyYq6d_kCbjyTRSQ)
+[[Apache Airflow]](https://www.youtube.com/c/ApacheAirflow)
+[[Confluent]](https://www.youtube.com/c/Confluent/featured)
+[[Elastic]](https://www.youtube.com/c/Elastic/featured)
 [[Yugabyte]](https://www.youtube.com/c/YugaByte/featured)
 [[MINIO]](https://www.youtube.com/c/MINIO)
-[[Elastic]](https://www.youtube.com/c/Elastic/featured)
-[[Confluent]](https://www.youtube.com/c/Confluent/featured)
 [[Snowflake Inc.]](https://www.youtube.com/c/SnowflakeInc/featured)
+[[Airbyte]](https://www.youtube.com/channel/UCQ_JWEFzs1_INqdhIO3kmrw/featured)
+[[dbt]](https://www.youtube.com/c/dbt-labs/featured)
+[[Trino]](https://www.youtube.com/c/TrinoDB/featured)
 [[Starburst Data]](https://www.youtube.com/c/StarburstData/featured)
-[[GAVB Consulting]](https://www.youtube.com/c/GAVBConsulting/featured)
+[[ClickHouse]](https://www.youtube.com/c/ClickHouseDB)
+[[StarTree]](https://www.youtube.com/c/StarTreeData)
+[[StreamNative]](https://www.youtube.com/channel/UCywxUI5HlIyc0VEKYR4X9Pg)
+[[Preset]](https://www.youtube.com/c/Preset-io/featured)
+[[Preset User's Corner]](https://www.youtube.com/channel/UCzg8opP7sG8n0Mi0e8yeqAg/featured)
+[[Great Expectations]](https://www.youtube.com/c/GreatExpectationsData)
+[[LensesIO]](https://www.youtube.com/c/Lensesio/featured)
+[[Delta Lake]](https://www.youtube.com/c/DeltaLake/featured)
+[[lakeFS]](https://www.youtube.com/channel/UCZiDUd28ex47BTLuehb1qSA/featured)
+[[Grafana]](https://www.youtube.com/c/Grafana)
+[[Argo Proj]](https://www.youtube.com/channel/UCOvYmppcbOPm1viN6ust3lA/featured)
 
 ### Programming
 [[Eduardo Mendes]](https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw)
@@ -1126,7 +1144,6 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 [[Data Secrets]](https://www.youtube.com/c/DataSecrets/featured)
 [[Fabrício Veronez KubeDev]](https://www.youtube.com/c/fabricioveronez/featured)
 [[Dirceu Resende]](https://www.youtube.com/c/DirceuResende/featured)
-[[Indicium]](https://www.youtube.com/c/IndiciumTech/featured)
 
 ### Data Engineering EN
 [[Seattle Data Guy]](https://www.youtube.com/c/SeattleDataGuy/featured)
@@ -1233,6 +1250,9 @@ All study materials used by me to learn Data Science, Machine Learning, Deep Lea
 
 ### Terraform
 [Terraform in Action](https://www.manning.com/books/terraform-in-action)
+
+### CI & CD
+[Automating Workflows with GitHub Actions](https://www.packtpub.com/product/automating-workflows-with-github-actions/9781800560406)
 
 ### BOOKS Waiting for Releases 2022/2023
 [Data Algorithms with Spark]
