@@ -115,6 +115,7 @@
 - [StarTree](https://www.youtube.com/@StarTree)
 - [StreamNative](https://www.youtube.com/@streamnative)
 - [Strimzi](https://www.youtube.com/@Strimzi)
+- [Synadia](https://www.youtube.com/@SynadiaCommunications)
 - [VΞLODB](https://www.youtube.com/@VeloDB_IO)
 
 # Databases
@@ -291,6 +292,7 @@
 - [QuantInsti Quantitative Learning](https://www.youtube.com/@quantinsti)
 - [R, Estatística e Aprendizado de Máquina](https://www.youtube.com/c/Let%C3%ADciaRaposo)
 - [Rodrigo Pavão ](https://www.youtube.com/@PavaoRodrigo)
+- [Samuel Matioli](https://www.youtube.com/@samuelmatioli)
 - [School of AI São Paulo](https://www.youtube.com/c/SchoolofAIS%C3%A3oPaulo)
 - [Sebastian Raschka](https://www.youtube.com/@SebastianRaschka)
 - [sentdex](https://www.youtube.com/@sentdex)
@@ -456,5 +458,6 @@
 - [Techdox](https://www.youtube.com/@Techdox)
 - [The Test Tribe](https://www.youtube.com/@TheTestTribe)
 - [The Coding Mentor](https://www.youtube.com/@thecodingmentor7701)
+- [TM SQUARE](https://www.youtube.com/@TMSQUARETECH)
 - [Unleash](https://www.youtube.com/@getunleash)
 - [WASM I/O](https://www.youtube.com/@wasmio)
