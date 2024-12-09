@@ -4,6 +4,7 @@
 - [dbt](https://www.youtube.com/@dbt-labs)
 - [DuckDB](https://www.youtube.com/@duckdb)
 - [Indicium](https://www.youtube.com/@IndiciumTech)
+- [MotherDuck](https://www.youtube.com/@motherduckdb)
 - [Preset](https://www.youtube.com/@Preset-io)
 - [Secoda](https://www.youtube.com/@secoda)
 - [Sidney Cirqueira](https://www.youtube.com/@SidneyCirqueira)
