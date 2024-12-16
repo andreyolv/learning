@@ -94,6 +94,8 @@
 - [Apache Kafka Series - Kafka Monitoring & Operations](https://www.udemy.com/course/kafka-monitoring-and-operations)
 - [Apache Kafka Series - KSQL on ksqlDB for Stream Processing !](https://www.udemy.com/course/kafka-ksql)
 - [Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL](https://www.udemy.com/course/apache-kafka-security)
+- [Apache Kafka Series - Confluent Schema Registry & REST Proxy](https://www.udemy.com/course/confluent-schema-registry/)
+- [Practice Exams | Confluent Certified Apache Kafka Developer](https://www.udemy.com/course/confluent-certified-apache-kafka-developer-practice-exams/)
 
 # Databases
 - [PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours](https://www.udemy.com/course/postgresqlmasterclass)
