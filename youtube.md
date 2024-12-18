@@ -310,6 +310,7 @@
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 
 # Management | IT Governance
+- [Escola Forja](https://www.youtube.com/@escolaforja)
 - [Módulo Security Solutions](https://www.youtube.com/@modulogrc)
 - [Palestrante Monaco](https://www.youtube.com/@palestrantemonaco3633)
 - [Prof. Adriano Martins Antonio](https://www.youtube.com/@ProfAdrianoMartinsAntonio)
