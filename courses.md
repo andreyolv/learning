@@ -126,6 +126,18 @@
 ## Helm
 - [Helm Kubernetes Packaging Manager for Developers and DevOps](https://www.udemy.com/course/helm-kubernetes-packaging-manager-for-developers-and-devops)
 
+## Linux
+- [Bash Mastery The Complete Guide to Bash Shell Scripting]()
+- [Complete Linux Training Course to Get Your Dream IT Job 2021]()
+- [Curso Preparatório para Certificação Linux LPIC-2]()
+- [Linux Administration The Complete Linux Bootcamp for 2022]()
+- [Linux Foundation Certified Systems Administrator LFCS]()
+- [Linux Master Master the Linux Command Line in 11.5 Hours]()
+- [Linux Redhat Certified System Administrator (RHCSA 8)]()
+- [LPI Linux Essentials Preparatório para a Certificação]()
+- [LPIC-1 - Linux System Administrator Masterclass]()
+- [Shell Script do básico ao profissional]()
+
 # Machine Learning
 - [Deep Learning Specialization, DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/deep-learning#courses)
 - [Generative Adversarial Networks (GANs), DeepLearning.AI, Coursera Program](https://www.coursera.org/specializations/generative-adversarial-networks-gans#courses)
