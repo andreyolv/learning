@@ -326,6 +326,7 @@
 - [Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab)
 - [howtonetwork](https://www.youtube.com/@howtonetworkcom)
 - [Isovalent](https://www.youtube.com/@isovalent)
+- [Nehali Neogi](https://www.youtube.com/@nehalineogi)
 - [Netacad Guatemala](https://www.youtube.com/@netacadguatemala)
 - [Tigera](https://www.youtube.com/@tigera239)
 
