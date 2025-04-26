@@ -186,6 +186,9 @@
 
 # Security
 - [HashiCorp Certified: Vault Associate 2024 (w/ Hands-On Labs)](https://www.udemy.com/course/hashicorp-vault)
+- [HashiCorp Certified: Vault Associate - Practice Exam - 2023](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam)
+- [HashiCorp Certified: Vault Operations Professional](https://www.udemy.com/course/hashicorp-certified-vault-operations-professional)
+- [Hashicorp Vault Management with Kubernetes via HELM](https://www.udemy.com/course/hashicorp-vault-management-with-kubernetes-via-helm)
 
 # Software Engineering
 ## Programming Languages

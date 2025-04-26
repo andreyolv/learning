@@ -141,6 +141,7 @@
 
 # DevOps
 - [Anton Putra](https://www.youtube.com/@AntonPutra)
+- [debxp](https://www.youtube.com/@debxp)
 - [Caio Delgado](https://www.youtube.com/@caiodelgadonew)
 - [Carlos Nogueira (DevOps)](https://www.youtube.com/@carlosenog)
 - [Christian Lempa](https://www.youtube.com/@christianlempa)
@@ -180,6 +181,7 @@
 - [Docker](https://www.youtube.com/@DockerInc)
 - [Fabricio Veronez](https://www.youtube.com/@fabricioveronez)
 - [FHCN Fundación Hispana de Cloud Native](https://www.youtube.com/@fhcloudnative)
+- [Getup](https://www.youtube.com/@Getupcloud)
 - [GitHub](https://www.youtube.com/@GitHub)
 - [HashiCorp](https://www.youtube.com/@HashiCorp)
 - [Iago Ferreira TI - Aprenda Cloud e DevOps do ZERO](https://www.youtube.com/@IagoFerreiraTI)
